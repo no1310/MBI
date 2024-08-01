@@ -1,0 +1,1353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document><page number="1"><paragraph>Original Article
+Efﬁcacy and mechanisms of 4-week MBSR on psychological distress in lung
+cancer patients: A single-center, single-blind, longitudinal, randomized
+controlled trial
+Xu Tian a,1, Zhongli Liao b,1, Lijuan Yi a, Ling Tang b, Guihua Chen c,*,
+María F. Jim�enez Herrera a,*
+a Nursing Department, Universit€at Rvoira I Virgili, Tarragona, Spain
+b Chongqing University Cancer Hospital, Chongqing, China
+c Department of Nursing, The Second Afﬁliated Hospital of Chongqing Medical University, Chongqing, China
+A R T I C L E I N F O
+Keywords:
+Lung cancer
+Psychological distress
+Mindfulness
+MBSR
+Structural equation modeling
+A B S T R A C T
+Objective: This study aimed to evaluate the efﬁcacy of a 4-week mindfulness-based stress reduction (MBSR)
+program on psychological distress in patients with lung cancer and elucidate its mechanisms.
+Methods: This single-center, single-blinded, longitudinal, randomized controlled trial was conducted on 175 pa-
+tients with lung cancer randomly allocated to a 4-week MBSR or a waiting-list group. The efﬁcacy and mecha-
+nisms of the 4-week MBSR program were evaluated by outcome measures at preintervention (T0), the immediate
+postintervention (T1), 1 month (T2), and 3 months (T3). We analyzed the collected data using the per-protocol set
+principle, independent sample t-test, repeated measure analysis of variance, and structural equation modeling.
+Results: The 4-week MBSR program signiﬁcantly alleviated psychological distress (F ¼ 15.05, P &lt; 0.001),
+decreased perceived stigma (F ¼ 8.260, P ¼ 0.005), improved social support (F ¼ 16.465, P &lt; 0.001), and
+enhanced mindfulness (F ¼ 17.207, P &lt; 0.001) compared with usual care at T1, T2, and T3. All variables
+signiﬁcantly changed over time except for copying style (P ¼ 0.250). The changes in social support, mindfulness,
+and perceived stigma mediated the efﬁcacy of the 4-week MBSR program on psychological distress (β ¼ �0.292,
+P ¼ 0.005; β ¼ �0.358, P ¼ 0.005).
+Conclusions: This study shows the beneﬁts of the MBSR program for psychological distress, social support,
+mindfulness, and perceived stigma in patients with lung cancer. Also, it elucidates the mechanisms by which the
+MBSR program alleviates psychological distress by improving social support, enhancing mindfulness, and
+decreasing perceived stigma. The ﬁndings provide insights into applying the MBSR program to reduce psycho-
+logical distress among patients with lung cancer.
+Introduction
+Lung cancer remains the ﬁrst reason of cancer-related death world-
+wide, accounting for approximately 18% of all cancer deaths.1 In China,
+according to the statistics published in 2022, lung cancer ranked ﬁrst in
+incidence and cancer-related mortality, with new cases of 828,100 and
+cancer-related deaths of 657,000.2 Patients with cancer will suffer from
+various psychological problems except for various physical symptoms
+(eg, fatigue and shortness of breath) due to cancer diagnosis and anti-
+cancer treatment, especially psychological distress.3,4 Psychological
+distress will exist throughout the cancer trajectory,5 having different
+prevalence across studies, cancers, and countries,6 with a range from
+20% to 58%.7–10 Compared with other cancers, lung cancer was
+associated with the highest psychological distress prevalence,11,12 vary-
+ing from 17.0% to 73.0%.13–15 In addition, a recent meta-analysis re-
+ported a mean prevalence of 48.3% of psychological distress in Chinese
+patients with lung cancer .16
+Distress refers to “a multifactorial and unpleasant emotional experi-
+ence, involving changes in psychological, social, spiritual, and physical
+aspects,” according to the deﬁnition given out by the National
+* Corresponding author.
+E-mail addresses: CMUSH_ChenGH@163.com (G. Chen), maria.jimenez@urv.cat (M.F. Jim�enez Herrera).
+1 Xu Tian and Zhongli Liao contributed equally to this work as the joint ﬁrst author.
+Contents lists available at ScienceDirect
+Asia-Paciﬁc Journal of Oncology Nursing
+journal homepage: www.apjon.org
+https://doi.org/10.1016/j.apjon.2022.100151
+Received 14 July 2022; Accepted 16 September 2022
+2347-5625/© 2022 The Author(s). Published by Elsevier Inc. on behalf of Asian Oncology Nursing Society. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151</paragraph></page><page number="2"><paragraph>Comprehensive Cancer Network (NCCN) guideline.17 Patients and on-
+cologists prefer the term “distress” because it is less stigmatizing; there-
+fore, the NCCN guideline panel used “distress” rather than “psychological
+distress.”18 However, both terms are used interchangeably in the litera-
+ture. Clinically signiﬁcant psychological distress is associated with a
+range of adverse consequences,17 such as interruption of anticancer
+treatment19–21, prolonged hospital stay,22 higher suicidal risk,23 poor
+quality of life,14,24 and higher risk of mortality.25,26 Moreover, a previous
+study also evidenced that psychological distress can accelerate the
+growth of tumor cells.27 Therefore, regular and timely screening of
+psychological distress among patients with cancer is critical because it
+has been recognized as the sixth vital sign.17,28 Indeed,it is critical to
+alleviate it after early and precise detection of psychological distress.
+Currently, psychological interventions have been demonstrated efﬁ-
+cacy in improving the psychological well-being of patients with can-
+cer.29–31
+Among
+the
+available
+psychological
+interventions,
+mindfulness-based stress reduction (MBSR), initially developed by
+Kabat-Zinn et al,32 has been widely applied in cancer settings31,33 and
+might also the best psychological intervention to relieve cancer-related
+fatigue.34 Based on previously published evidence,35–37 the practice of
+mindfulness can guide participants purposefully pay attention to the
+present moment and nonjudgmentally monitor the unfolding of experi-
+ences moment by moment, thus having profound beneﬁt via the
+mind–body connection. The standard MBSR program comprises an
+8-week psychoeducational course and four meditative techniques,
+including sitting meditation, body scan, gentle Hatha yoga, and walking
+meditation.32,36,38 Studies have demonstrated the effectiveness and
+safety of MBSR program on psychosocial well-being and quality of
+life.31,33,39,40 Currently, several studies have initially investigated the
+role of MBSR program in patients diagnosed with lung diseases, such as
+lung cancer41,42 and interstitial lung diseases.43,44 Furthermore, our
+meta-analysis further demonstrated the positive impact of the MBSR
+program on psychological states in patients with lung cancer.45 However,
+a deﬁnitive conclusion regarding the efﬁcacy of the MBSR program for
+psychological distress has not obtained and should be further investi-
+gated in future studies with larger sample sizes.
+Although a previous study attempted to explore the efﬁcacy of MBSR
+program on psychological distress from three perspectives, including
+mindfulness skills, self-compassion, and rumination,42 the exact psy-
+chosocial mechanisms by which MBSR program alleviates psychological
+distress remain unclear. Previous studies have revealed that several
+psychosocial factors in patients with cancer are associated with psycho-
+logical distress, such as social support,46 perceived stigma,47 perceived
+stress,48 intrusive thoughts,49 symptom burden,49 type D personality,49
+coping style,50 self-esteem,51 mindfulness,52,53 and illness percep-
+tion.54,55 In addition, our previous studies explicitly investigated the
+roles of social support, perceived stigma, perceived stress, coping styles,
+self-esteem, mindfulness, and illness perception in the development of
+psychological distress in patients with lung cancer.15,56–58 However, it
+remains unclear which pathways may mediate the interventional effects
+of the MBSR program on psychological distress in patients with lung
+cancer.
+Therefore, based on currently available evidence, we hypothesized
+that (a) a 4-week MBSR program could alleviate psychological distress in
+patients with lung cancer and (b) by affecting social support, coping
+style, self-esteem, mindfulness, perceived stress, perceived stigma, and
+illness perception.
+Methods
+Study design
+The present study was a single-center, single-blinded, longitudinal,
+randomized, controlled, parallel trial, including a 4-week MBSR program
+group and a waiting-list group. We recruited eligible participants from a
+hospital in southwest China between January 1 and September 30, 2021.
+Data collection
+We designed a face-to-face questionnaire survey to collect data,
+administered by a trained research nurse at three time points (Fig. 1):
+baseline (T0), the immediate postintervention (T1), 1 month post-
+intervention (T2), and 3 months postintervention (T3).
+Sample size
+We estimated the sample size using psychological distress as the main
+effect indicator for this study. According to our previous meta-analysis,45
+the MBSR program was associated with an effect size of 0.418, which was
+estimated based on the pooled result of psychological distress. Therefore,
+we estimated a theoretical sample size of 75 cases to ensure a statistical
+power of 80.0%. After considering a 20% dropout rate, 90 patients were
+calculated and then randomized to the 4-week MBSR or the waiting-list
+group. We used the G*Power software (version 3.1) to estimate the
+sample size.
+Participant criteria
+We selected potential participants according to the following inclu-
+sion criteria: (a) cytological or histological diagnosis of lung cancer; (b)
+age �18 years; (c) patients with proven clinically signiﬁcant psycho-
+logical distress or at high risk of suffering from psychological distress; (d)
+known their diagnosis and were willing to participate in this study; and
+(e) able to read, write, and speak Chinese.
+Exclusion criteria included: (a) a concurrent diagnosis of other can-
+cers or psychiatric disorders; (b) a history of suicide attempts; (c)
+participation in any other psychosocial interventions within 3 months
+before enrollment; (d) prior experience with mindfulness-based in-
+terventions (MBIs); and (e) physical or cognitive (&lt; 26 on the Mini-
+Mental State Examination) impairments hampering participation in the
+4-week MBSR program or completion of questionnaires. Dropout criteria
+included: (a) unable to complete the intervention and (b) loss to follow-
+up.
+Recruitment
+The trained research nurses enrolled participants from the respiratory
+and medical oncology inpatient departments of a general hospital in
+southwest China at patient visits. Trained research nurses assessed their
+eligibility, introduced the purpose of the study, and explained research
+content to potential participants and ensured that participants volun-
+tarily participated in this study.
+Randomization, allocation concealment, and blinding
+After signing a written informed consent, eligible participants
+formally participated in this study. We ﬁrst conducted a baseline survey
+of all participants in this study. Then, we randomly assigned participants
+to a 4-week MBSR or waiting-list group using random numbers generated
+by SPSS software (version 22.0). An independent research nurse used
+sealed and opaque envelopes for assignments. We invited independent
+psychologists qualiﬁed in the MBSR program to conduct a 4-week MBSR
+program for participants in the experimental group. Since all participants
+have been informed of the detailed processes of this study, it is not
+possible to blind participants. However, outcome assessments were
+blinded because independent staff analyzed all outcomes.
+Interventions
+Experimental group
+Participants in the experimental group received both usual care and a
+4-week MBSR program. In this study, we selected a 4-week MBSR pro-
+gram as an intervention according to our meta-analysis45 because
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+2</paragraph></page><page number="3"><paragraph>patients with lung cancer usually have a relatively short median survival
+time and fast deterioration in physical health.59 During this 4-week
+MBSR program, all participants in the experimental group practiced
+MBSR under the guidance and supervision of a psychologists qualiﬁed as
+mindfulness trainer. The details of this 4-week program were as follows:
+10-min explanation and meditation in the ﬁrst week, 10-min walking
+meditation in the second week, 10-min breathing meditation in the third
+week, and 20-min experience sharing in the fourth week. Details of each
+session in this 4-week MBSR program are summarized in Table S1.
+Participants were supervised to daily practice at home by psychologists
+twice weekly using telephone or WeChat (a popular social media in
+China).
+Waiting-list group
+Participants in the waiting list group ﬁrst received usual care,
+including dietary instruction, health education, rehabilitation excise,
+emotional
+counseling,
+and
+medication
+instruction.
+Following
+the
+conclusion of this study, these participants were invited to voluntarily
+Fig. 1. The Consolidated Standards for Reporting Trials (CONSORT) ﬂow diagram of participant recruitment.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+3</paragraph></page><page number="4"><paragraph>receive a 4-week MBSR program and were provided with videos and
+materials for the intervention.
+Demographics
+At baseline, we used a self-designed data collection sheet to collect
+the demographic and clinical characteristics, including demographic
+information (gender, age, education level, occupation, marital status,
+residence, medical insurance, yearly income, family history of lung
+cancer, and smoking history) and clinical characteristics (TNM tumor
+stage, metastases, comorbidities, and pain degree).
+Outcome measures
+Psychological distress
+We used the distress thermometer (DT) to measure psychological
+distress on an 11-point thermometer scale from 0 to 10 in this study,
+and 0 and 10 indicate no distress and extreme distress, respectively.17
+The reliability and validity of DT across different settings have been
+extensively tested.60 Previous empirical studies indicated a score of � 4
+effectively conﬁrms clinically signiﬁcant psychological distress.60,61 A
+score of 4 was also demonstrated as the cut-off value for deﬁning
+clinically signiﬁcant psychological distress in Chinese cancer pop-
+ulations.60 Meanwhile, we used the predictive algorithm, which was
+previously developed by our team,62 to identify those patients at high
+risk of psychological distress. In this predictive algorithm, a score of �
+66 indicates that patients have a high risk of suffering from psycho-
+logical distress. We selected patients with lung cancer who scored
+�4 in DT or � 66 in the predictive algorithm to participate in this
+study.
+Social support
+The 12-item Multidimensional Scale of Perceived Social Support was
+used to measure social support from three aspects, including family,
+friends, and signiﬁcant others, on a 7-point Likert scale (1 indicates very
+strongly disagree but 7 represents very strongly agree).63 A previous
+study tested the psychological properties of Multidimensional Scale of
+Perceived Social Support and reported coefﬁcient alpha values of sub-
+scales ranging from 0.81 to 0.98.63 The Chinese version had a reliability
+of 0.90.64 We used the Chinese version in this study, which had an overall
+Cronbach's alpha coefﬁcient of 0.818, 0.785, 0.835, and 0.701 at T0, T1,
+T2, and T3, respectively, to measure social support.
+Coping style
+The 20-item Medical Coping Modes Questionnaire was used to eval-
+uate the coping styles, including confrontation, avoidance, and giving up
+coping, on a linear 4-point Likert scale from 1 to 3.65 Shen et al66 vali-
+dated the Chinese version of the Medical Coping Modes Questionnaire,
+reporting a Cronbach's alpha coefﬁcient of more than 0.60 for three
+subscales. We used the Chinese version in this study, which had an
+overall Cronbach's alpha of 0.561, 0.542, 0.753, and 0.537 at T0, T1, T2,
+and T3, respectively, to measure coping style.
+Self-esteem
+The 10-item Rosenberg Self–Esteem Scale was developed to measure
+global self-esteem, having a Cronbach's alpha of 0.88.67 A higher score
+indicated a higher level of self-esteem.67 The Chinese version of the
+Rosenberg Self-esteem Scale has been validated by Wu et al68 and has
+been extensively used in China.69–71 We used the Chinese version in this
+study, which had an overall Cronbach's alpha coefﬁcient of 0.809, 0.774,
+0.750, and 0.775 at T0, T1, T2, and T3, respectively, to measure
+self-esteem.
+Mindfulness
+The 39-item Five Facet Mindfulness Questionnaire was ﬁrst devel-
+oped by Baer et al72 to assess mindfulness from ﬁve facets on a 5-point
+Likert scale: observing, describing, acting with awareness, non-judging,
+and non-reacting.72 The original Five Facet Mindfulness Questionnaire
+has been translated into Chinese73 with good psychometric properties. In
+addition, a recent study continued to conﬁrm the psychometric proper-
+ties of the Chinese version in patients with cancer using a Bayesian
+structural equation modeling approach.74 We used the Chinese version in
+this study, which had an overall Cronbach's alpha coefﬁcient of 0.644,
+0.704, 0.731, and 0.749 at T0, T1, T2, and T3, respectively, to measure
+mindfulness.
+Perceived stress
+The 10-item Perceived Stress Scale was used to measure perceived
+stress on a linear 5-point Likert scale from 0 to 4.75 A higher score rep-
+resents a greater stress level. The 10-item Chinese version has been
+validated and got a Cronbach's alpha of 0.619.76 We used the Chinese
+version in this study, which had an overall Cronbach's alpha coefﬁcient of
+0.614, 0.608, 0.699, and 0.682 at T0, T1, T2, and T3, respectively, to
+measure perceived stress.
+Table 1
+Demographic and clinical characteristics of the patients (N ¼ 175).
+Variable
+Experimental
+(n ¼ 83)
+Control
+(n ¼ 92)
+t/χ2
+P-value
+Gender
+0.059*
+0.809
+Male
+52
+56
+Female
+31
+36
+Age, years
+58.98 � 9.72
+59.90 � 8.72
+0.664#
+0.507
+Education
+3.086*
+0.214
+Primary school or below
+15
+26
+Middle and high school
+57
+52
+College and above
+11
+14
+Occupation
+6.726*
+0.081
+No work
+42
+38
+Working
+8
+17
+Retire
+30
+37
+Marital status
+1.128*
+0.569
+Single
+1
+0
+Married
+80
+90
+Divorced/widowed
+2
+2
+Residence
+0.938*
+0.333
+City
+52
+51
+Rural areas
+31
+41
+Medical insurance
+1.248*
+0.264
+Self-payment
+3
+1
+Residents' basic health
+insurance
+80
+91
+Yearly income, yuan
+5.080*
+0.166
+&lt; 20,000
+3
+9
+20,001-50000
+25
+17
+50,001-100,0000
+38
+46
+&gt; 100,000
+17
+20
+Family history of LC
+1.040*
+0.308
+Yes
+2
+5
+No
+81
+87
+Smoking history
+0.217*
+0.641
+Yes
+39
+40
+No
+44
+52
+TNM tumor stage
+3.055*
+0.383
+I
+10
+15
+II
+22
+15
+III
+18
+20
+IV
+33
+42
+Metastases
+1.361*
+0.506
+Yes
+48
+48
+No
+35
+43
+Comorbidities
+2.525*
+0.112
+Yes
+15
+26
+No
+68
+66
+Pain degree
+4.102*
+0.251
+No pain
+54
+65
+Mild
+15
+13
+Moderate
+13
+9
+Severe
+1
+5
+LC, lung cancer; TNM, tumor-node-metastasis. *χ2, #t.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+4</paragraph></page><page number="5"><paragraph>Perceived stigma
+The 31-item Cataldo lung cancer stigma scale was used to measure
+perceived stigma, categorized into stigma and shame, social isolation,
+discrimination, and smoking, on a linear 0- to 4-point.77 A higher score
+indicates a higher level of perceived stigma. Yu et al78 translated the
+original version to Chinese and reported an overall Cronbach’s alpha of
+0.932. In addition, four subscales had a Cronbach’s alpha of 0.799,
+0.922, 0.863, and 0.803, respectively. This study used the Chinese
+version
+of
+the
+Cataldo
+lung
+cancer
+stigma
+scale,
+which
+had
+an
+overall
+Cronbach's
+alpha
+coefﬁcient
+of
+0.863,
+0.717,
+0.709,
+and 0.730 at T0, T1, T2, and T3, respectively, to measure perceived
+stigma.
+Illness perception
+Weinman et al79 ﬁrst developed the Brief Illness Perception Ques-
+tionnaire to measure illness's emotional and cognitive representations on
+a continuous linear 0 to 10 point. A higher score represents a more
+negative illness perception. Broadbent et al80 have shown a good
+test–retest reliability and predictive and discriminant validity of the Brief
+Illness Perception Questionnaire. Xue et al81 translated the original
+version to Chinese, and it has been widely used in China.82,83 We used the
+Chinese version in this study, which had an overall Cronbach's alpha
+coefﬁcient of 0.657, 0.676, 0.643, and 0.630 at T0, T1, T2, and T3,
+respectively, to measure illness perception.
+Statistical analysis
+We used descriptive statistics to present participants’ demographics.
+The Kolmogorov–Smirnov tests showed that, in addition to age and risk
+scores in the prediction algorithm, the distribution of scores for psy-
+chological distress, social support, coping style, self-esteem, mindfulness,
+perceived stress, perceived stigma, and illness perception was abnormal
+at most time points. However, we preferred to use mean � standard
+deviation (SD) for all continuous variables because (a) parametric tests
+are more powerful than nonparametric tests, (b) the results of the Kol-
+mogorov–Smirnov test are not necessarily true, especially for relatively
+large sample size,84 and (c) according to kurtosis and skewness values,
+our data followed a normal distribution.85 Therefore, we used the
+Chi-square test and independent-sample t-test to compare the variables
+between the two groups. However, repeated measure analysis of variance
+was used to analyze changes or differences of variables between the
+groups (experimental vs. waiting-list groups), within-group (time), and
+interaction (group*time) effects.
+Furthermore, we used structural equation modeling to elucidate the
+mediating role of signiﬁcant variables that showed signiﬁcant differences
+in the efﬁcacy of a 4-week MBSR program on psychological distress be-
+tween the two groups after intervention We ﬁrst deﬁned the in-
+terventions used in the experimental and waiting-list groups as dummy
+variables using 1 (experimental group) and 0 (waiting-list group),
+Fig. 2. The changes of scores in psychological distress, social support, coping style, and self-esteem before and after intervention between the two groups.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+5</paragraph></page><page number="6"><paragraph>respectively. In addition, we adjusted all variables obtained from post-
+intervention using the baseline value.86
+We employed IBM Statistical Package for Social Sciences (SPSS)
+version 22.0 and Amos version 21.0 for statistical analysis.
+Ethical consideration
+This study strictly followed the statement of the Declaration of Hel-
+sinki. The ethical institutional board of the hospital approved this trial
+(Approval No. CZLS2021183-A), and we also registered the study pro-
+tocol
+at
+the
+Chinese
+Clinical
+Trials
+Registry
+(Registration
+No.
+ChiCTR2100041899). Before participating in this study, all eligible
+participants signed informed consent and were freely allowed to with-
+draw from this study.
+Results
+Recruitment
+As depicted in the CONSORT ﬂowchart (Fig. 1), 299 patients with
+lung cancer were eligible for evaluation, but 190 patients who were
+eligible agreed to participate in this study. Of the 190 patients, 95 were
+randomly assigned to the experimental or waiting-list groups. However,
+12 and 3 patients received no interventions in the experimental and
+waiting-list groups, respectively. One hundred seventy-ﬁve patients
+completed the study and underwent T1 and T2 assessments; however, at
+the T3 assessment, 5 and 3 patients were missed from the experimental
+and waiting-list groups, respectively. There was no statistically signiﬁ-
+cant difference in the lost participants between the two groups at T3 (P ¼
+0.480).
+Participants’ characteristics
+The mean age of the participants in the experimental and waiting-list
+groups was 58.98 (SD ¼ 9.72) and 59.90 (SD ¼ 8.72), respectively,
+without signiﬁcant difference (P ¼ 0.507). Of the 175 patients analyzed,
+most patients were male (61.7%) and lived in the urban areas (58.9%).
+Most patients were married (97.1%) and had low education (85.7% with
+a middle–high school education or less). Most of the patients paid med-
+ical costs using resident basic health insurance (97.7%) and had no
+family history of lung cancer (96.0%). Still, most patients were pain free
+(68.0%), had no comorbidity (76.6%), and were at stage III or IV. There
+remaining demographic and clinical data of the two groups were no
+signiﬁcantly different (P &gt; 0.05), as presented in Table 1.
+The effect of the intervention on outcomes
+The scores of seven variables between the two groups were not
+signiﬁcantly different (P &gt; 0.05) at the baseline except for the score in
+the mindfulness, which was signiﬁcantly higher in patients in the
+waiting-list group than patients in the 4-week MBSR program group (t ¼
+4.746, P &lt; 0.001). After the intervention, as shown in Figs. 2 and 3, apart
+from the coping style (F ¼ 1.386, P ¼ 0.250), the remaining variables
+changed signiﬁcantly over time (P &lt; 0.05). As presented in Table 2, the 4-
+Fig. 3. The change of scores in mindfulness, perceived stress, perceived stigma, and illness perception before and after intervention between the two groups.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+6</paragraph></page><page number="7"><paragraph>Table 2
+A comparison of the outcome variables between the two groups before and after the intervention.
+Variable
+T0 (mean � SD)
+T1 (mean � SD)
+T2 (mean � SD)
+T3 (mean � SD)
+F1 (P)
+F2 (P)
+F3 (P)
+Experimental
+(n ¼ 83)
+Control
+(n ¼ 92)
+Experimental
+(n ¼ 83)
+Control
+(n ¼ 92)
+Experimental
+(n ¼ 92)
+Control
+(n ¼ 83)
+Experimental
+(n ¼ 78)
+Control
+(n ¼ 89)
+Risk score
+67.84 � 24.42
+66.39 � 29.90
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+t ¼ �0.350
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+P ¼ 0.727
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+Psychological
+distress
+2.70 � 2.13
+2.45 � 2.21
+1.16 � 1.57
+1.78 � 1.74
+1.07 � 1.53
+2.27 � 1.27
+0.43 � 1.08
+2.26 � 1.25
+56.245 (&lt; 0.001)
+15.051 (&lt; 0.001)
+37.762 (&lt; 0.001)
+t ¼ �0.617
+t ¼ �2.519
+t ¼ �6.278
+t ¼ �9.580
+P ¼ 0.537
+P ¼ 0.012
+P¼&lt;0.001
+P¼&lt;0.001
+Social support
+57.31 � 7.17
+55.66 � 12.32
+64.02 � 7.34
+58.80 � 9.38
+64.48 � 8.35
+57.73 � 9.50
+65.30 � 6.42
+58.81 � 9.11
+33.911 (&lt; 0.001)
+16.465 (&lt; 0.001)
+8.598 (&lt; 0.001)
+t ¼ �0.170
+t ¼ �3.752
+t ¼ �4.865
+t ¼ �4.769
+P ¼ 0.865
+P &lt; 0.001
+P &lt; 0.001
+P &lt; 0.001
+Coping style
+50.77 � 4.89
+49.54 � 4.50
+49.10 � 3.51
+50.48 � 4.93
+49.47 � 3.73
+50.02 � 5.23
+49.56 � 5.25
+51.60 � 4.15
+1.386 (0.250)
+1.515 (0.220)
+4.995 (0.005)
+t ¼ �1.702
+t ¼ �1.486
+t ¼ �0.203
+t ¼ �2.372
+P ¼ 0.091
+P ¼ 0.137
+P ¼ 0.839
+P ¼ 0.018
+Self-esteem
+27.72 � 4.04
+28.17 � 5.00
+29.59 � 4.34
+27.67 � 4.00
+29.00 � 4.53
+27.44 � 3.91
+28.30 � 4.70
+27.14 � 4.19
+4.894 (0.006)
+2.425 (0.121)
+9.181 (&lt; 0.001)
+t ¼ �0.754
+t ¼ �3.018
+t ¼ �2.765
+t ¼ �2.419
+P ¼ 0.451
+P ¼ 0.003
+P ¼ 0.006
+P ¼ 0.016
+Mindfulness
+104.57 � 10.87
+111.97 � 9.03
+117.54 � 9.78
+110.88 � 7.71
+118.30 � 10.05
+110.59 � 6.98
+120.90 � 11.20
+110.31 � 6.60
+43.216 (&lt; 0.001)
+17.207 (&lt; 0.001)
+64.963 (&lt; 0.001)
+t ¼ �4.746
+t ¼ �4.540
+t ¼ �5.138
+t ¼ �6.568
+P &lt; 0.001
+P &lt; 0.001
+P &lt; 0.001
+P &lt; 0.001
+Perceived stress
+20.95 � 4.64
+20.48 � 4.65
+18.35 � 3.86
+19.97 � 2.95
+19.23 � 3.62
+19.55 � 3.06
+17.49 � 3.61
+19.26 � 3.03
+17.365 (&lt; 0.001)
+3.755 (0.054)
+5.405 (0.002)
+t ¼ �1.099
+t ¼ 3.106
+t ¼ �1.206
+t ¼ 3.498
+P ¼ 0.272
+P ¼ 0.002
+P ¼ 0.228
+P ¼ 0.001
+Perceived stigma
+75.83 � 15.14
+75.22 � 16.06
+63.57 � 8.27
+67.79 � 8.87
+62.55 � 7.51
+59.50 � 7.70
+68.58 � 9.10
+86.42 � 9.10
+87.520 (&lt; 0.001)
+8.260 (0.005)
+12.988 (&lt; 0.001)
+t ¼ �0.571
+t ¼ �4.309
+t ¼ �2.436
+t ¼ 6.995
+P ¼ 0.568
+P¼&lt;0.001
+P ¼ 0.016
+P¼&lt;0.001
+Illness perception
+48.19 � 7.81
+46.98 � 4.63
+43.20 � 7.00
+45.00 � 7.69
+43.00 � 7.49
+45.62 � 12.17
+42.21 � 7.20
+45.13 � 12.20
+15.240 (&lt; 0.001)
+2.365 (0.126)
+4.760 (0.009)
+t ¼ �0.782
+t ¼ 1.571
+t ¼ �1.080
+t ¼ �1.539
+P ¼ 0.434
+P ¼ 0.118
+P ¼ 0.280
+P ¼ 0.124
+T0, baseline; T1, the immediate postintervention; T2, 1-month postintervention; T3, 3 months postintervention; F1, time effect; F2, group effect; F3, group*time effect; SD, standard deviation.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+7</paragraph></page><page number="8"><paragraph>week MBSR program signiﬁcantly alleviated psychological distress (F ¼
+15.051, P &lt; 0.001), improved social support (F ¼ 16.465, P &lt; 0.001),
+enhanced mindfulness (F ¼ 17.207, P &lt; 0.001), and reduced perceived
+stigma (F ¼ 8.260, P ¼ 0.005) at immediate postintervention, 1-month
+postintervention, and 3 months postintervention. In addition, the dif-
+ference in interventional effects between the two groups was statistically
+signiﬁcant over time (P &lt; 0.05).
+Results of the mediating analysis
+We only included three variables in the mediation analysis, including
+social support, mindfulness, and perceived stigma, according to prede-
+signed criteria. After structural equation modeling and appropriate
+adjustment of the pathways between variables according to the modiﬁ-
+cation index and empirical evidence, the model ﬁtted our data better (χ2/
+df ¼ 3.451, CFI ¼ 0.893, TLI ¼ 0.855, RMSEA ¼ 0.122 [95% CI:
+0.108–0.136]).
+Overall, the effects of the 4-week MBSR program on psychological
+distress at T1, T2, and T3 were �0.274, �0.292, and �0.358, respec-
+tively. At the immediate postintervention (T1), the 4-week MBSR pro-
+gram alleviated psychological distress directly (β ¼ �0.274, P ¼ 0.005),
+not mediated by other variables. The effect of the 4-week MBSR program
+on mindfulness at T1 and T2 continued to help alleviate psychological
+distress at T2 (β ¼ �0.049). The effects of the 4-week MBSR program on
+social support and mindfulness at T1 and T2 also continued to alleviate
+psychological distress at T3 by reducing perceived stigma at T2 and T3 (β
+¼ �0.039). The effect of the 4-week MBSR program on perceived stigma
+at T1, T2, and T3 also inﬂuenced psychological distress at T3 (β ¼
+�0.081). Moreover, there was a continuous effect between psychological
+distress from T1 to T3 (β ¼ 0.886 from T1 to T2, β ¼ 0.816 from T2 to T3),
+indicating that the 4-week MBSR program had a persistent effect on
+psychological distress (β ¼ �0.198). The results of mediation analysis are
+summarized in Table 3, and the mechanism pathways are depicted in
+Fig. 4.
+Discussion
+In this study, we aimed to validate the interventional effects of a 4-
+week MBSR program on psychological distress in patients with lung
+cancer and to further elucidate the psychosocial mechanisms by which
+the program alleviates psychological distress. Our ﬁndings suggest that
+the 4-week MBSR program, as an effective psychological intervention,
+signiﬁcantly alleviates the psychological distress. The 4-week MBSR
+program also improved patients’ social support considerably, enhanced
+mindfulness, and reduced perceived stigma. Furthermore, the results of
+the structural equation modeling suggest that the 4-week MBSR program
+can exert an interventional effect by directly targeting psychological
+distress. Meanwhile, the 4-week MBSR program supports continuous
+interventional effects on psychological distress by indirectly affecting
+social support, mindfulness, and perceived stigma.
+MBSR has been extensively used in cancer settings.31,33 Currently,
+many meta-analyses30,31,40,87,88 have demonstrated the beneﬁts of MBSR
+program in improving the psychological well-being of patients with
+cancer. Furthermore, our recent meta-analysis conﬁrmed that the MBSR
+program signiﬁcantly diluted negative psychological states and enhanced
+positive psychological states. In this study, we further validated the
+beneﬁcial role of the MBSR program in alleviating psychological distress
+in patients with lung cancer. Although it remains not entirely unclear
+why and how the MBSR program improves psychological well-being,
+previous studies35–37 suggest that the practice of mindfulness instructs
+participants to deliberately focus on the present moment and monitor the
+unfolding of experiences all the time without passing judgment. As a
+result, participants experience profound beneﬁts through the mind-body
+connection. Thus, it is plausible that patients with lung cancer experience
+signiﬁcant alleviation in psychological distress, improvement in social
+support, enhancement in mindfulness, and reduction in perceived stigma
+following a 4-week MBSR program.
+This study also showed that the MBSR program had a retained effect
+on psychological distress after ending the intervention through indirect
+Table 3
+Path coefﬁcient of variables in intervention mechanism analysis.
+Pathway
+В
+95% CI
+P
+Total effects
+�0.924
+Psychological distress (T1)
+�0.274
+�0.461 to �0.144
+0.005
+Psychological distress (T2)
+�0.292
+�0.434 to �0.715
+0.005
+Psychological distress (T3)
+�0.358
+�0.530 to �0.237
+0.005
+Direct effects
+�0.274
+�0.461 to �0.144
+0.005
+Psychological distress (T1)
+�0.274
+Indirect effects
+�0.650
+Psychological distress (T2)
+�0.292
+�0.434 to �0.175
+0.005
+Intervention → Psychological distress (T1) →
+Psychological distress (T2)
+�0.274*0.886 ¼ �0.243
+Intervention → Mindfulness (T1) → Mindfulness (T2)
+→Psychological distress (T2)
+�0.141*0.415*0.844 ¼ �0.049
+Psychological distress (T3)
+�0.358
+�0.401 to �0.236
+0.005
+Intervention → Psychological distress (T1) →
+Psychological distress (T2) → Psychological distress
+(T3)
+�0.274*0.886*0.816 ¼ �0.198
+Intervention → Mindfulness (T1) → Mindfulness (T2)
+→ Perceived stigma (T3) → Psychological distress
+(T3)
+�0.129*0.415*0.844**0.160 ¼ �0.007
+Intervention → Mindfulness (T1) → Mindfulness (T2)
+→ Psychological distress (T2) → Psychological distress
+(T3)
+�0.141*0.415*0.844*0.816 ¼ �0.040
+Intervention → Perceived stigma (T1) → Perceived
+stigma (T2) →Perceived stigma (T3) → Psychological
+distress (T3)
+�0.403*0.768*1.639*0.160 ¼ �0.081
+Intervention → Social support (T1) → Social support
+(T2) → Psychological distress (T3)
+�0.132*0.264*0.827* ¼ �0.029
+Intervention → Social support (T1) → Social support
+(T2) → Perceived stigma (T2) → Perceived stigma
+(T3) → Psychological distress (T3)
+�0.052*0.264*0.827*1.639*0.160 ¼ �0.003
+T1, immediate postintervention; T2, 1-month postintervention; T3, 3 months postintervention; β, standardized regression coefﬁcients; CI, conﬁdence interval.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+8</paragraph></page><page number="9"><paragraph>effects of social support, mindfulness, and perceived stigma. Both
+mindfulness89 and social support90 are positive sources for copying with
+negative psychological states, and our previous studies have demon-
+strated the inverse association between mindfulness and social support
+and psychological distress.15,56,58 In contrast, stigma, a negative
+emotional experience that includes isolation, rejection, degradation, and
+criticism due to undesirable conditions,77 has been demonstrated to be a
+predictor of psychological distress in patients with lung cancer.47 In
+general, psychosomatic balance plays a vital role in regulating the psy-
+chological well-being of patients with cancer.91 Therefore, patients
+would suffer from signiﬁcant physical and psychological problems when
+speciﬁc
+events
+(eg,
+cancer
+diagnosis)
+destroyed
+psychosomatic
+balance.87
+According to the Mindful Coping Model,92 we can easily explain why
+MBSR program can consistently affect psychological distress through
+social support, mindfulness, and perceived stigma. Speciﬁcally, the
+destructive effects of internal and external stressors (eg, cancer diagnosis,
+anticancer treatment, and symptom burden) can cause psychological
+distress in patients; however, the implementation of an MBSR program
+can initiate psychological adjustment to trigger or enhance the protective
+effects of positive sources (improvement in social support and enhance-
+ment in mindfulness) and weaken the harmful effects of negative sources
+(reduction in perceived stigma)93 and may then signiﬁcantly dilute the
+destructive impacts of stressors (alleviation in psychological distress).94
+Strengths and limitations
+Overall, our study obtained these valuable ﬁndings due to several
+strengths. First, we enrolled both patients with clinically signiﬁcant
+psychological distress and those at high risk of psychological distress by
+applying both DT and the risk prediction algorithm we developed, which
+signiﬁcantly expanded the applicability of our ﬁndings in clinical prac-
+tice. Second, we estimated the theoretical sample size from our meta-
+analysis, which ensured the statistical power of our results. Third, we
+explored the intervention mechanisms of the 4-week MBSR program by
+determining the role of signiﬁcant variables after the intervention, which
+beneﬁted more simply revealing the active ingredients of the 4-week
+MBSR program. Fourth, all potential mediating variables included in
+the intervention mechanism analysis have been previously investigated
+for their role in the development of psychological distress, increasing the
+reliability of theoretical evidence. Finally, our study was also rated as
+high in methodological quality because it met the six Cochrane collab-
+oration criteria for high-quality trials,95 except that blinding participants
+due to the nature of the psychological intervention.
+We cannot deny the fact that our study has several limitations. First
+and foremost, we used self-reported instruments to collect data, which
+may affect the accuracy of the results. Therefore, more objective tools
+need to be developed to measure these variables. Second, we recruited
+potentially eligible participants from only one hospital in southwest
+China due to the limited time. Therefore, we are unable to eliminate the
+adverse impact of selection bias and time constraints on our ﬁndings. As a
+result, adequately powered studies with more extended intervention and
+follow-up duration are warranted to demonstrate our ﬁndings. Third, we
+selected only those variables tested in our previous studies to explore
+possible mechanisms of the MBSR program on psychological distress.
+However, we did not consider those factors that we did not investigate
+previously. Therefore, more intervention mechanism analysis is needed
+to fully reveal the nature of MBSR program in alleviating psychological
+distress in patients with lung cancer. Fourth, we used a 4-week MBSR
+program with abbreviated sessions instead of a standard 8-week MBSR
+program in this study, which may have underestimated the intervention
+effect of the MBSR program due to inadequate duration of intervention.
+Therefore, future studies should further balance the interventional effects
+and applicability of the MBSR program in patients with lung cancer.
+More importantly, it is necessary to further investigate the interventional
+effects of the enhanced protocol with adequate sessions in future studies.
+Fifth, the mechanism model ﬁtted our data relatively when we explored
+the intervention mechanism of the MBSR program to alleviate psycho-
+logical distress, which limited the generalization of our results. There-
+fore, considering that limited participants were enrolled in our study, we
+Fig. 4. Mechanism model of the 4-week MBSR program to alleviate psychological distress in patients with lung cancer. MBSR, mindfulness-based stress reduction.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+9</paragraph></page><page number="10"><paragraph>suggest future studies with larger sample sizes to further elucidate the
+intervention mechanism of the MBSR program in alleviating psycholog-
+ical distress. Sixth, we chose brief versions of the scales to ensure the
+quality of the data collection process in this study; however, the average
+time for a patient to complete all scales was still up to 45 min. Although
+no patients were excluded for failing to complete scales, we could not
+eliminate the psychological burden caused by the need to complete
+multiple scales. Finally, in this study, we did not consider the impacts of
+sleep, fatigue, and exercise on the psychological status of patients with
+lung cancer. Therefore, we suggest future studies to address this
+limitation.
+Conclusions
+In summary, the present study validated the intervention effect of the
+MBSR program in alleviating psychological distress, and provided rela-
+tively robust and reliable evidence for clinical practitioners to integrate
+the MBSR program into usual care to improve psychological well-being of
+patients with lung cancer. Meanwhile, this study also suggested the
+positive effects of MBSR program on social support, mindfulness, and
+perceived stigma, which provided a reference for the application of
+MBSR program to improve clinical outcomes. Furthermore, this study
+revealed the direct impact of the MBSR program on short-term psycho-
+logical distress. Additionally, it indicated the continuous effect of the
+MBSR program on psychological distress through social support, mind-
+fulness, and perceived stigma.
+Acknowledgements
+The authors would like to acknowledge the funding support of the
+Chongqing Natural Science Foundation, the Basic Science and Frontier
+Technology Research Project of Chongqing, and the Medical Research
+Project which was jointly approved by the Chongqing Science and
+Technology Bureau and Health Commission of Chongqing Municipal
+City, China. The authors also thank the patients with lung cancer who
+participated in this study.
+Author contributions
+Conceived and designed the analysis: Xu Tian, Guihua Chen, María
+F. Jim�enez Herrera.
+Collected the data: Xu Tian, Zhongli Liao, Ling Tang.
+Contributed data or analysis tools: Xu Tian, María F. Jim�enez
+Herrera.
+Performed the analysis: Xu Tian, Zhongli Liao, Lijuan Yi.
+Wrote the paper: Xu Tian, Zhongli Liao, Guihua Chen, María F.
+Jim�enez Herrera.
+Declaration of competing interest
+None declared.
+Funding
+This study was supported by the Chongqing Natural Science Foun-
+dation (Grant No. cstc2020jcyj-msxmX0212), the Basic Science and
+Frontier
+Technology
+Research
+Project
+of
+Chongqing
+(Grant
+No.
+cstc2048jcyjAX0775), and the Medical Research Project which was
+jointly approved by the Chongqing Science and Technology Bureau and
+Health
+Commission
+of
+Chongqing
+Municipal
+City
+(Grant
+No.
+2022MSXM067).
+Ethics statement
+This study was approved by the Clinical Research Ethics Board of the
+Chongqing University Cancer Hospital (Approval No. CZLS2021183-A).
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.apjon.2022.100151.
+References
+1. Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020: GLOBOCAN estimates
+of incidence and mortality worldwide for 36 cancers in 185 countries. CA A Cancer J
+Clin. 2021;71(3):209–249.
+2. Zheng R, Zhang S, Zeng H, et al. Cancer incidence and mortality in China, 2016.
+Journal of the National Cancer Center. 2022;2(1):1–9.
+3. Hoffman BM, Zevon MA, D'Arrigo MC, Cecchini TB. Screening for distress in cancer
+patients: the NCCN rapid-screening measure. Psycho Oncol. 2004;13(11):792–799.
+4. Lee J. Physiologic and psychologic adaptation to exercise interventions in lung
+cancer patients undergoing chemotherapy: a systematic review and meta-analysis of
+randomized controlled trials. Supportive Care in Cancer. 2021. Ofﬁcial Journal of the
+Multinational Association of Supportive Care in Cancer.
+5. Gao W, Bennett MI, Stark D, Murray S, Higginson IJ. Psychological distress in cancer
+from survivorship to end of life care: prevalence, associated factors and clinical
+implications. Eur J Cancer. 2010;46(11):2036–2044.
+6. Sun H, Thapa S, Wang B, Fu X, Yu S. A systematic review and meta-analysis of the
+distress thermometer for screening distress in asian patients with cancer. J Clin
+Psychol Med Settings. 2021;28(2):212–220.
+7. Grassi L, Johansen C, Annunziata MA, et al. Screening for distress in cancer patients:
+a multicenter, nationwide study in Italy. Cancer. 2013;119(9):1714–1721.
+8. Vodermaier A, Linden W, MacKenzie R, Greig D, Marshall C. Disease stage predicts
+post-diagnosis anxiety and depression only in some types of cancer. Br J Cancer.
+2011;105(12):1814–1817.
+9. Mehnert A, Hartung TJ, Friedrich M, et al. One in two cancer patients is signiﬁcantly
+distressed: prevalence and indicators of distress. Psycho Oncol. 2018;27(1):75–82.
+10. Funk R, Cisneros C, Williams RC, Kendall J, Hamann HA. What happens after distress
+screening? Patterns of supportive care service utilization among oncology patients
+identiﬁed through a systematic screening protocol. Support Care Cancer : ofﬁcial journal
+of the Multinational Association of Supportive Care in Cancer. 2016;24(7):2861–2868.
+11. Zabora J, BrintzenhofeSzoc K, Curbow B, Hooker C, Piantadosi S. The prevalence of
+psychological distress by cancer site. Psycho Oncol. 2001;10(1):19–28.
+12. Carlson LE, Angen M, Cullum J, et al. High levels of untreated distress and fatigue in
+cancer patients. Br J Cancer. 2004;90(12):2297–2304.
+13. Lynch J, Goodhart F, Saunders Y, O'Connor SJ. Screening for psychological distress in
+patients with lung cancer: results of a clinical audit evaluating the use of the patient
+Distress Thermometer. Support Care Cancer : ofﬁcial journal of the Multinational
+Association of Supportive Care in Cancer. 2010;19(2):193–202.
+14. Chambers SK, Baade P, Youl P, et al. Psychological distress and quality of life in lung
+cancer: the role of health-related stigma, illness appraisals and social constraints.
+Psycho Oncol. 2015;24(11):1569–1577.
+15. Tian X, Jin Y, Chen H, Tang L, Jim�enez-Herrera MF. Relationships among social
+support, coping style, perceived stress, and psychological distress in Chinese lung
+cancer patients. Asia Pac J Oncol Nurs. 2021;8(2):172–179.
+16. Chen H, Gao J, Xian YY, et al. Prevalence of psychological distress in patients with
+lung cancer:a meta-analysis [Chinese]. Mod Prev Med. 2021;48(16):3059–3064.
+17. Riba MB, Donovan KA, Andersen B, et al. Distress management, version 3.2019,
+NCCN clinical practice guidelines in oncology. J Natl Compr Cancer Netw. 2019;
+17(10):1229–1249.
+18. Riba MB, Donovan KA, Andersen B, et al. Distress management, version 3.2019,
+NCCN clinical practice guidelines in oncology. Journal of the National Comprehensive
+Cancer Network J Natl Compr Canc Netw. 2019;17(10):1229–1249.
+19. Mausbach BT, Schwab RB, Irwin SA. Depression as a predictor of adherence to
+adjuvant endocrine therapy (AET) in women with breast cancer: a systematic review
+and meta-analysis. Breast Cancer Res Treat. 2015;152(2):239–246.
+20. Lin C, Clark R, Tu P, Bosworth HB, Zullig LL. Breast cancer oral anti-cancer
+medication adherence: a systematic review of psychosocial motivators and barriers.
+Breast Cancer Res Treat. 2017;165(2):247–260.
+21. Yee MK, Sereika SM, Bender CM, Brufsky AM, Connolly MC, Rosenzweig MQ.
+Symptom incidence, distress, cancer-related distress, and adherence to
+chemotherapy among African American women with breast cancer. Cancer. 2017;
+123(11):2061–2069.
+22. Nipp RD, El-Jawahri A, Moran SM, et al. The relationship between physical and
+psychological symptoms and health care utilization in hospitalized patients with
+advanced cancer. Cancer. 2017;123(23):4720–4727.
+23. Hockey M, Rocks T, Ruusunen A, et al. Psychological distress as a risk factor for all-
+cause, chronic disease- and suicide-speciﬁc mortality: a prospective analysis using
+data from the National Health Interview Survey. Soc Psychiatr Psychiatr Epidemiol.
+2022;57(3):541–552.
+24. Fox SW, Lyon DE. Symptom clusters and quality of life in survivors of lung cancer.
+Oncol Nurs Forum. 2006;33(5):931–936.
+25. Batty GD, Russ TC, Stamatakis E, Kivim€aki M. Psychological distress in relation to
+site speciﬁc cancer mortality: pooling of unpublished data from 16 prospective
+cohort studies. BMJ. 2017;356:j108.
+26. Hamer M, Chida Y, Molloy GJ. Psychological distress and cancer mortality.
+J Psychosom Res. 2009;66(3):255–258.
+27. Zhang Y, Zanos P, Jackson IL, et al. Psychological stress enhances tumor growth and
+diminishes radiation response in preclinical model of lung cancer. Radiother Oncol.
+2020;146:126–135.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+10</paragraph></page><page number="11"><paragraph>28. Howell D, Olsen K. Distress-the 6th vital sign. Curr Oncol. 2011;18(5):208–210.
+29. Galway K, Black A, Cantwell M, Cardwell CR, Mills M, Donnelly M. Psychosocial
+interventions to improve quality of life and emotional wellbeing for recently
+diagnosed cancer patients. Cochrane Database Syst Rev. 2012;11(11), Cd007064.
+30. Huang HP, He M, Wang HY, Zhou M. A meta-analysis of the beneﬁts of mindfulness-
+based stress reduction (MBSR) on psychological function among breast cancer (BC)
+survivors. Breast Cancer. 2016;23(4):568–576.
+31. Cillessen L, Johannsen M, Speckens AEM, Zachariae R. Mindfulness-based
+interventions for psychological and physical health outcomes in cancer patients and
+survivors: a systematic review and meta-analysis of randomized controlled trials.
+Psycho Oncol. 2019;28(12):2257–2269.
+32. Kabat-Zinn J, Wheeler E, Light T, et al. Inﬂuence of a mindfulness meditation-based
+stress reduction intervention on rates of skin clearing in patients with moderate to
+severe psoriasis undergoing phototherapy (UVB) and photochemotherapy (PUVA).
+Psychosom Med. 1998;60(5):625–632.
+33. Lee CE, Kim S, Kim S, Joo HM, Lee S. Effects of a mindfulness-based stress reduction
+program on the physical and psychological status and quality of life in patients with
+metastatic breast cancer. Holist Nurs Pract. 2017;31(4):260–269.
+34. Yuan Y, Lin L, Xie C, et al. Effectiveness comparisons of various psychosocial
+therapies for cancer-related fatigue: a Bayesian network meta-analysis. J Affect
+Disord. 2022;309:471–481.
+35. Kabat-Zinn J, Santorelli S. Mindfulness-Based Stress Reduction Professional Training-
+Scientiﬁc Papers from the Stress Reduction Clinic. Boston: Center for Mindfulness in
+Medicine. Health Care, and Society, UMMS; 2002.
+36. Kabat-Zinn J, Lipworth L, Burney R. The clinical use of mindfulness meditation for
+the self-regulation of chronic pain. J Behav Med. 1985;8(2):163–190.
+37. Kabat-Zinn J. Mindfulness-based Interventions in Context: Past, Present, and Future.
+2003.
+38. Kabat-Zinn J, Massion AO, Kristeller J, et al. Effectiveness of a meditation-based
+stress reduction program in the treatment of anxiety disorders. Am J Psychiatr. 1992;
+149(7):936–943.
+39. Xie C, Dong B, Wang L, et al. Mindfulness-based stress reduction can alleviate cancer-
+related fatigue: a meta-analysis. J Psychosom Res. 2020;130, 109916.
+40. Xunlin NG, Lau Y, Klainin-Yobas P. The effectiveness of mindfulness-based
+interventions among cancer patients and survivors: a systematic review and meta-
+analysis. Support Care Cancer : ofﬁcial journal of the Multinational Association of
+Supportive Care in Cancer. 2020;28(4):1563–1578.
+41. van den Hurk DG, Schellekens MP, Molema J, Speckens AE, van der Drift MA.
+Mindfulness-Based Stress Reduction for lung cancer patients and their partners:
+results of a mixed methods pilot study. Palliat Med. 2015;29(7):652–660.
+42. Schellekens MPJ, van den Hurk DGM, Prins JB, et al. Mindfulness-based stress
+reduction added to care as usual for lung cancer patients and/or their partners: a
+multicentre randomized controlled trial. Psycho Oncol. 2017;26(12):2118–2126.
+43. Sgalla G, Cerri S, Ferrari R, et al. Mindfulness-based stress reduction in patients with
+interstitial lung diseases: a pilot, single-centre observational study on safety and
+efﬁcacy. BMJ open respiratory research. 2015;2(1), e000065.
+44. Arefnasab Z, Ghanei M, Noorbala AA, et al. Effect of mindfulness based stress
+reduction on quality of life (SF-36) and spirometry parameters, in chemically
+pulmonary injured veterans. Iran J Public Health. 2013;42(9):1026–1033.
+45. Tian X, Yi LJ, Liang CSS, et al. The impact of mindfulness-based stress reduction
+(MBSR) on psychological outcomes and quality of life in lung cancer patients: a meta-
+analysis. Front Psychol. 2022;13.
+46. Matzka M, Mayer H, K€ock-H�odi S, et al. Relationship between resilience,
+psychological distress and physical activity in cancer patients: a cross-sectional
+observation study. PLoS One. 2016;11(4), e0154496.
+47. Rose S, Boyes A, Kelly B, Cox M, Palazzi K, Paul C. Lung cancer stigma is a predictor
+for psychological distress: a longitudinal study. Psycho Oncol. 2021;30(7):
+1137–1144.
+48. Segrin C, Badger TA, Sikorskii A, et al. Longitudinal dyadic interdependence in
+psychological distress among Latinas with breast cancer and their caregivers. Support
+Care Cancer : ofﬁcial journal of the Multinational Association of Supportive Care in
+Cancer. 2020;28(6):2735–2743.
+49. Lv XQ, Wang BQ, Tong HH, Liu SS, Tang HJ, Hong JF. Predictive model of
+psychological distress in patients with lung cancer: a cross-sectional study. Cancer
+Nurs. 2022;45(1):E59–e67.
+50. Liu Y, Cao C. The relationship between family history of cancer, coping style and
+psychological distress. Pakistan J Med Sci. 2014;30(3):507–510.
+51. den Heijer M, Seynaeve C, Vanheusden K, et al. The contribution of self-esteem and
+self-concept in psychological distress in women at risk of hereditary breast cancer.
+Psycho Oncol. 2011;20(11):1170–1175.
+52. Schellekens MPJ, Karremans JC, van der Drift MA, et al. Are mindfulness and self-
+compassion related to psychological distress and communication in couples facing
+lung cancer? A dyadic approach. Mindfulness (N Y). 2017;8(2):325–336.
+53. Cho D, Kim S, Durrani S, Liao Z, Milbury K. Associations between spirituality,
+mindfulness, and psychological symptoms among advanced lung cancer patients and
+their spousal caregivers. J Pain Symptom Manag. 2021;61(5):898–908.e1.
+54. Zhang N, Fielding R, Soong I, et al. Illness perceptions as predictors of psychological
+distress among head and neck cancer survivors: a longitudinal study. Head Neck.
+2018;40(11):2362–2371.
+55. Zhang Z, Yang L, Xie D, et al. Illness perceptions are a potential predictor of
+psychological distress in patients with non-muscle-invasive bladder cancer: a 12-
+month prospective, longitudinal, observational study. Psychol Health Med. 2020;
+25(8):969–979.
+56. Tian X, Jin Y, Chen H, Tang L, Jim�enez-Herrera MF. The positive effect of social
+support on psychological distress among Chinese lung cancer patients: the mediating
+role of self-esteem. Nurs Open. 2021;8(4):1642–1651.
+57. Lei H, Tian X, Jin YF, Tang L, Chen WQ, Jim�enez-Herrera MF. The chain mediating
+role of social support and stigma in the relationship between mindfulness and
+psychological distress among Chinese lung cancer patients. Support Care Cancer :
+ofﬁcial journal of the Multinational Association of Supportive Care in Cancer. 2021;
+29(11):6761–6770.
+58. Tian X, Tang L, Yi LJ, Qin XP, Chen GH, Jim�enez-Herrera MF. Mindfulness affects the
+level of psychological distress in patients with lung cancer via illness perception and
+perceived stress: a cross-sectional survey study. Front Psychol. 2022;13, 857659.
+59. Walker J, Sawhney A, Hansen CH, et al. Treatment of depression in people with lung
+cancer: a systematic review. Lung Cancer. 2013;79(1):46–53.
+60. Hong J, Wei Z, Wang W. Preoperative psychological distress, coping and quality of
+life in Chinese patients with newly diagnosed gastric cancer. J Clin Nurs. 2015;24(17-
+18):2439–2447.
+61. Donovan KA, Grassi L, McGinty HL, Jacobsen PB. Validation of the distress
+thermometer worldwide: state of the science. Psycho Oncol. 2014;23(3):241–250.
+62. Tian X, Jin Y, Tang L, Pi Y-P, Chen W-Q, Jimenez-Herrera MF. Predicting the risk of
+psychological distress among lung cancer patients: development and validation of a
+predictive algorithm based on sociodemographic and clinical factors. Asia-Paciﬁc
+Journal of Oncology Nursing. 2021;8(4):403–412.
+63. Zimet GD, Powell SS, Farley GK, Werkman S, Berkoff KA. Psychometric
+characteristics of the multidimensional scale of perceived social support. J Pers
+Assess. 1990;55(3-4):610–617.
+64. Yang J, Li S, Zheng Y. Predictors of depression in Chinese community-dwelling
+people with type 2 diabetes. J Clin Nurs. 2009;18(9):1295–1304.
+65. Feifel H, Strack S. Coping with conﬂict situations: middle-aged and elderly men.
+Psychol Aging. 1989;4(1):26–33.
+66. Shen XH, Jiang JQ. Report on application of Chinese version of MCMQ in 701
+patients. Chinese Journal of Behavioral Medical Science. 2000;9(1):18–20.
+67. Rosenberg M, Schooler C, Schoenbach C. Self-esteem and adolescent problems:
+modeling reciprocal effects. Am Socio Rev. 1989;54(6):1004–1018.
+68. Wu Y, Zuo B, Wen F, Yan L. Rosenberg self-esteem scale: method effects, factorial
+structure and scale invariance across migrant child and urban child populations in
+China. J Pers Assess. 2017;99(1):83–93.
+69. Cai Z, Gui Y, Wang D, Yang H, Mao P, Wang Z. Body image dissatisfaction and
+impulse buying: a moderated mediation model. Front Psychol. 2021;12, 653559.
+70. Qian Y, Yu X, Liu F. Comparison of two approaches to enhance self-esteem and self-
+acceptance in Chinese college students: psychoeducational lecture vs. Group
+intervention. Front Psychol. 2022;13.
+71. Xiao X, Zheng X. The effect of parental phubbing on depression in Chinese junior
+high school students: the mediating roles of basic psychological needs satisfaction
+and self-esteem. Front Psychol. 2022;13, 868354.
+72. Baer RA, Smith GT, Hopkins J, Krietemeyer J, Toney L. Using self-report assessment
+methods to explore facets of mindfulness. Assessment. 2006;13(1):27–45.
+73. Deng Y-Q, Liu X-H, Rodriguez MA, Xia C-Y. The ﬁve facet mindfulness questionnaire:
+psychometric properties of the Chinese version. Mindfulness. 2011;2(2):123–128.
+74. Fong TCT, Wan AHY, Wong VPY, Ho RTH. Psychometric properties of the Chinese
+version of Five Facet Mindfulness Questionnaire-short form in cancer patients: a
+Bayesian structural equation modeling approach. Health Qual Life Outcome. 2021;
+19(1):51.
+75. Cohen S, Kamarck T, Mermelstein R. A global measure of perceived stress. J Health
+Soc Behav. 1983;24(4):385–396.
+76. Yuan LX, Lin N. Research on factor structure of perceived stress scale in Chinese
+college students (in Chinese). Journal of Guangdong Education Institute. 2009;29(2):
+45–49.
+77. Cataldo JK, Slaughter R, Jahan TM, Pongquan VL, Hwang WJ. Measuring stigma in
+people with lung cancer: psychometric testing of the catalog lung cancer stigma
+scale. Oncol Nurs Forum. 2011;38(1):E46–E54.
+78. Yu Y, Wang L, Zhang M, Du YH, Bai Y, Liu JE. Psychometric evaluation of the
+Chinese version of the cataldo lung cancer stigma scale (CLCSS). Chin J Nurs. 2017;
+52(5):636–640.
+79. Weinman J, Petrie KJ, Moss-Morris R. The Illness Perception Questionnaire: a new
+method for assessing illness perceptions. Psychol Health. 1996;1:431–446.
+80. Broadbent E, Petrie KJ, Main J, Weinman J. The brief illness perception
+questionnaire. J Psychosom Res. 2006;60(6):631–637.
+81. Xue F, Lin Y. Brief illness perception questionnaire: Chinese version. Available at:
+www.uib.no/ipq/pdf/B-IPQ-Chinese.pdf.
+82. Zhang N, Fielding R, Soong I, et al. Psychometric assessment of the Chinese version
+of the brief illness perception questionnaire in breast cancer survivors. PLoS One.
+2017;12(3), e0174093.
+83. Schaefert R, H€oner C, Salm F, et al. Psychological and behavioral variables associated
+with the somatic symptom severity of general hospital outpatients in China. Gen Hosp
+Psychiatr. 2013;35(3):297–303.
+84. Steinskog DJ, Tjøstheim DB, Kvamstø NG. A cautionary note on the use of the
+Kolmogorov–smirnov test for normality. Mon Weather Rev. 2007;135(3):1151–1157.
+85. Kim H-Y. Statistical notes for clinical researchers: assessing normal distribution (2)
+using skewness and kurtosis. Restor Dent Endod. 2013;38(1):52–54.
+86. Shenk CE, Putnam FW, Rausch JR, Peugh JL, Noll JG. A longitudinal study of several
+potential mediators of the relationship between child maltreatment and
+posttraumatic stress disorder symptoms. Dev Psychopathol. 2014;26(1):81–91.
+87. Zhang Q, Zhao H, Zheng Y. Effectiveness of mindfulness-based stress reduction
+(MBSR) on symptom variables and health-related quality of life in breast cancer
+patients-a systematic review and meta-analysis. Support Care Cancer : ofﬁcial journal
+of the Multinational Association of Supportive Care in Cancer. 2019;27(3):771–781.
+88. Haller H, Winkler MM, Klose P, Dobos G, Kümmel S, Cramer H. Mindfulness-based
+interventions for women with breast cancer: an updated systematic review and meta-
+analysis. Acta Oncol. 2017;56(12):1665–1676.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+11</paragraph></page><page number="12"><paragraph>89. Kabat-Zinn J. Mindfulness-based interventions in context: past, present, and future.
+Clin Psychol Sci Pract. 2003;10(2):144–156.
+90. Teixeira RJ, Pereira MG. Psychological morbidity, burden, and the mediating effect
+of social support in adult children caregivers of oncological patients undergoing
+chemotherapy. Psycho Oncol. 2013;22(7):1587–1593.
+91. B~arbus¸ E, Pes¸tean C, Larg MI, Piciu D. Quality of life in thyroid cancer patients: a
+literature review. Clujul Med. 2017;90(2):147–153.
+92. Garland E, Gaylord S, Park J. The role of mindfulness in positive reappraisal. Explore.
+2009;5(1):37–44.
+93. Jeffers L, Reid J, Fitzsimons D, Morrison PJ, Dempster M. Interventions to improve
+psychosocial well-being in female BRCA-mutation carriers following risk-reducing
+surgery. Cochrane Database Syst Rev. 2019;10(10), Cd012894.
+94. Galante J, Friedrich C, Dawson AF, et al. Mindfulness-based programmes for mental
+health promotion in adults in nonclinical settings: a systematic review and meta-
+analysis of randomised controlled trials. PLoS Med. 2021;18(1):e1003481–e.
+95. Higgins JPT, Altman DG, Gøtzsche PC, et al. The Cochrane Collaboration's tool for
+assessing risk of bias in randomised trials. BMJ (Clinical research ed). 2011;343:
+d5928–d.
+X. Tian et al.
+Asia-Paciﬁc Journal of Oncology Nursing 10 (2023) 100151
+12</paragraph></page></document>

@@ -1,0 +1,1197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document><page number="1"><paragraph>A randomized pilot study of mindfulness-based stress reduction 
+in a young adult cancer sample: Feasibility, acceptability, and 
+changes in patient reported outcomes
+David Victorson, PhD1, Karly Murphy, PhD1, Catherine Benedict, PhD2, Bruriah Horowitz, 
+MEd1, Carly Maletich, MA1, Evelyn Cordero, MS, John M. Salsman, PhD3, Kristin Smith, 
+BA1, Stacy Sanford, PhD1
+1Department of Medical Social Sciences, Northwestern University Feinberg School of Medicine, 
+Chicago, Illinois
+2Psychiatry and Behavioral Services, Stanford University, Palo Alto, California
+3Department of Social Sciences and Health Policy, Wake Forest School of Medicine, Winston-
+Salem, North Carolina
+Abstract
+Background: The primary purpose of this study was to examine the feasibility and acceptability 
+of participation in a randomized waitlist-controlled intervention of mindfulness-based stress 
+reduction (MBSR) in a young adult cancer sample. A secondary aim was to examine patterns of 
+change in patient reported outcomes (PROs) of physical, social, and emotional functioning.
+Methods: Participants were enrolled at a large Midwestern comprehensive cancer center and 
+randomized to MBSR or a waitlist control. Feasibility and acceptability were examined through 
+enrollment metrics and a survey. PROs were gathered at baseline, 8-weeks, and 16-weeks. 
+Descriptive statistics and mixed models were used in analyses.
+Results: Of 597 eligible participants, 151 (26.5%) consented from which 126 (83.4%) completed 
+baseline measures. Sixty-seven participants were randomized to MBSR, and 59 to the waitlist. 
+Immediately following MBSR, the majority of respondents (72%−78%) reported their experience 
+with mindfulness was very logical and useful to increasing their wellbeing. Compared to waitlist 
+members, MBSR participant’s scores on PROs improved in expected directions.
+Conclusions: Our findings suggest that recruitment for an intensive, in-person, multi-week 
+supportive intervention can be challenging with young adults with cancer, similar to other cancer 
+survivor populations; however once enrolled, feasibility and acceptability of MBSR was 
+supported. Further, initial evidence on the role of MBSR on short-term changes in select PROs 
+with this population was also demonstrated.
+Keywords
+feasibility; mindfulness; oncology; randomized controlled trail; young adults
+Correspondence David Victorson, Department of Medical Social Sciences, Northwestern University Feinberg School of Medicine, 
+2205 Tech Drive, Suite 2-120, Evanston, IL 60208. d-victorson@northwestern.edu. 
+HHS Public Access
+Author manuscript
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Published in final edited form as:
+Psychooncology. 2020 May ; 29(5): 841–850. doi:10.1002/pon.5355.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="2"><paragraph>1 | BACKGROUND
+Each year up to 70 000 young adults in their 20’s and 30’s are diagnosed with cancer,1 many 
+of whom are challenged with a host of negative short and long-term effects that can 
+significantly impact their psychosocial wellbeing and functioning. As young adult cancer 
+survivors make the transition from “cancer patient” to “cancer survivor,” psychosocial and 
+physical challenges abound. A cancer diagnosis and its treatment can significantly derail the 
+normative developmental milestones of young adulthood, often affecting educational and 
+career aspirations, peer-group membership, formation of romantic relationships, changes in 
+appearance, family planning and fertility, finances, and overall quality of life.2–5 It is well 
+established that cancer survivors in general report late effects of treatment including fatigue, 
+pain, fear of recurrence or secondary complications, and uncertainty about the future.6–8 
+However, young adults may experience these sequelae at greater rates than other age 
+cohorts.9–11 Given the psychosocial and physical complications young adult cancer 
+survivors face, they may benefit from mind-body supportive interventions that promote 
+wellness and coping skills across mental, social, and physical domains.4,5
+Mind-body practices are defined as those that “focus on the interactions among the brain, 
+mind, body, and behavior, with the intent to use the mind to affect physical functioning and 
+promote health.”12 The use of mind-body practices has steadily increased in recent years, 
+especially among younger adults.13 Based primarily on the instruction of mindfulness 
+meditation and Hatha yoga, mindfulness-based stress reduction (MBSR)14 has become an 
+empirically supported, gold standard mind-body approach for helping people reduce stress 
+and manage disease and treatment related sequelae across multiple medical conditions.15–18 
+MBSR facilitates the cultivation of mindful awareness through an 8-week program that uses 
+an in-person group format to guide participants in the practice of mindfulness meditation 
+and gentle Hatha yoga.19,20
+Despite numerous randomized controlled trials of MBSR in cancer patient populations 
+(predominantly in breast cancer) demonstrating significant improvements in emotional 
+distress (depression, anxiety), pain, sleep, and health related quality of life,21,22 only a few 
+small studies have examined the impact of mindfulness-based interventions in young adult 
+cancer survivors. This includes a qualitative examination of the impact of Mindfulness-
+Based Cognitive Therapy (n = 14),23 a single arm study of a mindfulness-based intervention 
+for young adult cancer survivors (n = 16),24 and a single-arm study on the role of self-
+compassion resulting from mindfulness training (n = 25).25 To date no randomized 
+controlled trials (RCTs) have been conducted using MBSR with this population.
+Given the sparse nature of this previous study, prior to conducting a full-fledged RCT to 
+examine the potential health benefits of mindfulness-based interventions in this population, 
+it is important to first determine several key components regarding feasibility and 
+acceptability of recruitment, randomization, and retention; intervention delivery, outcomes 
+assessment, and overall design.26 A smaller scale randomized pilot study of MBSR with this 
+population would serve as a “dress rehearsal” to identify the readiness of a full RCT that is 
+powered for efficacy and effectiveness. Therefore, the primary purpose of this study was to 
+examine the feasibility and acceptability of participation in a randomized waitlist-controlled 
+Victorson et al.
+Page 2
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="3"><paragraph>intervention of MBSR in a young adult cancer sample. A secondary aim was to examine 
+initial patterns of change in PROs of physical, social and emotional functioning.
+2 | METHODS
+This study was made possible through research grant funding from the American Cancer 
+Society, Illinois Division. All study procedures and materials were approved by the 
+Institutional Review Board (IRB) of the participating university. The trial was registered on 
+www.clinicaltrials.gov (NCT02495376).
+2.1 | Recruitment and inclusion/exclusion criteria
+Participants were recruited from medical clinics at a large, Midwestern NCI-designated 
+comprehensive cancer center. IRB-approved study flyers were posted in approved locations 
+throughout the hospital. The flyer included the study title, “Reducing Emotional Distress, 
+Enhancing Function and Improving Network Engagement in Adolescent and Young Adult 
+Oncology.” Initial scripted recruitment language included the following to describe the 
+study’s purpose: “intended to reduce anxiety and improve the quality of life of adolescents 
+and young adults diagnosed with cancer.” Not until participants were further along in the 
+consenting process did they learn that this was a mediation and yoga study. A designated 
+medical team member identified and referred potential study participants to speak with a 
+trained research assistant, who described the study, answered questions, and conducted 
+informed consent and HIPAA authorization. All participants signed an informed consent and 
+HIPAA authorization form.
+Inclusion criteria required participants’ current age and age of diagnosis (of any cancer type) 
+to be between the ages of 18–39. They also had to be English-speaking, cognitively and 
+emotionally capable of participating in an intensive, multi-week mindfulness course (as 
+informally determined by referring medical staff), and able to use a touchscreen keypad and 
+tablet device. Patients were also excluded if they reported high use of mindfulness 
+meditation or yoga (eg, ≥3 times per week for the past 2 weeks).
+2.2 | Procedures
+Following enrollment, participants completed a baseline assessment of socio-demographic 
+and clinical information and PRO measures. Then, participants were randomized to either 
+the MBSR course (Mindfulness Group) or a waitlist control condition (Control Group) using 
+a computer generated randomization procedure, following a 1:1 randomization schedule, of 
+which the assignment was determined at the time of enrollment for each participant. PROs 
+were assessed again at 8-weeks, and then again at 16 weeks following 8-additional weeks 
+where some participants were randomized to receive a brief, weekly email message about 
+mindfulness (this was a secondary aim of this study and is beyond the scope of these 
+findings, however receipt of a weekly email was included as a covariate in all analyses). No 
+financial compensation was provided.
+2.2.1 | MBSR intervention—The MBSR intervention was delivered by qualified MBSR 
+instructors who were trained on study-specific protocols, including the use of a standardized 
+Victorson et al.
+Page 3
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="4"><paragraph>manual that adhered to the principles and pedagogy of MBSR. Classes were held at 
+conveniently located meeting rooms at the hospital and nearby community support centers 
+that were large enough to accommodate meditation and yoga activities. Participants met 
+weekly for approximately 2.5 h for 8 weeks and participated in a half-day retreat near the 
+end of the intervention period. Sessions were video and audio recorded to ensure 
+intervention fidelity among MBSR instructors across sessions. Additionally, instructors 
+received regular supervision from the Principal Investigator and other co-investigators. 
+Participants who missed a class were contacted by the instructor who provided them an 
+overview of the session and home practice exercises. After course completion, Mindfulness 
+Group participants were randomized to receive 8-weekly email messages about mindfulness 
+(eg, “Notice what is happening in your body right now”) or receive no emails as a part of a 
+follow-up exploratory study to examine longer-term maintenance gains from receiving 
+weekly mindfulness messages. To control for this, we included whether or not Mindfulness 
+Group participants received weekly mindfulness messages as a covariate in all analyses.
+2.2.2 | Waitlist control—Participants on the waitlist completed all study assessments at 
+baseline, 8-weeks, and 16-weeks. Following their time on the waitlist, participants received 
+the full 8-week MBSR course. All participants received conventional supportive and medical 
+care as defined by the clinic and physician serving those patients.
+2.3 | Study measures
+At baseline, participants completed questions about their previous meditation history using a 
+detailed questionnaire developed by our group27 as well as the Expectancy/Credibility Scale,
+28 which consists of items based on attitudes and perceived benefits of the therapy being 
+offered. This scale is typically administered once prior to the intervention, however given the 
+makeup of these items we administered and analyzed select items again at the 16-week 
+follow up to determine post-intervention acceptability, using ratings of ≥7 (on a 1–9 scale) as 
+indicative of acceptable. Items included: (a) How logical does the course on mindfulness 
+offered to you seem?; (b) How successful do you think this course will be in raising the 
+quality of your wellbeing?; and (c) How confident would you be in recommending this 
+course to a friend who experiences similar problems?
+Common indicators of Health-Related Quality of Life guided the selection of outcomes 
+measures, which included the following three domains and measures below. All scales are 
+scored/interpreted in the direction of the scale name (eg, a high score on perceived stress = 
+higher stress). Score ranges are provided below for each measure, except for PROMIS 
+measures administered via a computer adaptive test, in which case items were adaptively 
+drawn from a full bank of calibrated items and are presented as T-Scores, with a mean of 50 
+and SD of 10.
+2.3.1 | Disease and treatment related symptoms—Patient Reported Outcomes 
+Measurement Information System (PROMIS) Computer Adaptive Tests (CATs) (see 
+www.healthmeasures.net); of Fatigue, Sleep Disturbance, and Pain Interference.
+Victorson et al.
+Page 4
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="5"><paragraph>2.3.2 | Psychosocial distress—PROMIS CATs of Anxiety and Depression, and Social 
+Isolation; Cancer Survivor Concerns,29 score range = 0–36; Uncertainty Intolerance,30 score 
+range = 0–48; Perceived Stress Scale-4 (PSS-4)31 score range = 0–16.
+2.3.3 | Overall wellbeing—PROMIS CATS of Social Role Satisfaction, Emotional 
+Support, and short form of Positive Affect and Wellbeing, score range = 9–45; Mindfulness 
+Attention Awareness Scale (MAAS),32 score range = 15–90; Self-Kindness and Self-
+Judgment subscales of the Self-Compassion Scale (SCS),33 score ranges = 5–25 for each; 
+and the Posttraumatic Growth Inventory—Short Form (PTGI-SF), score range = 0–25.34
+2.4 | Statistical analysis and hypotheses
+All analyses were conducted using SPSS version 25. Descriptive statistics were used to 
+summarize indicators of feasibility and acceptability, which included the following criteria: 
+(a) access to participants, (b) barriers to participation and clinical delivery of the 
+intervention, (c) suitability of assessment procedures, outcome measures, time and resources 
+required to conduct assessments, (d) willingness of participants to be randomized to 
+proposed study arms, (e) instructor adherence to protocols, (f) acceptability to participants of 
+the treatment, (g) participant adherence to treatment, (h) suitability of recruitment/screening 
+processes, (i) participant retention among the allocation groups, and (j) whether intervention 
+effects are consistent with expectations and previous literature. Based on our previous 
+experience and organizational infrastructure delivering mindfulness interventions to other 
+cancer survivor populations27 and recruiting young adult cancer survivors,35–37 we 
+hypothesized that indicators related to access, recruitment/screening, outcomes assessment, 
+and instructor fidelity would all be in the high range of feasibility. Further, we hypothesized 
+that the intervention would be considered acceptable to ≥70% of attendees (as measured by 
+the three previously described acceptability items); that no more than 2%−3% would attrite 
+once randomized; that between 35% and 45% of those approached would enroll; and that we 
+would not see greater than 10%−15% attrition once enrolled.
+To evaluate the aforementioned last indicator, (j) whether intervention effects are consistent 
+with expectations and previous literature, an intent to treat analysis was used. We 
+hypothesized that compared to being on a waitlist, MBSR group participants would 
+experience relatively greater increases in health related quality of life as evidenced by fewer 
+symptoms of psychosocial distress (eg, symptoms of anxiety, depression, stress, social 
+isolation, fear of recurrence, and uncertainty intolerance), fewer disease and treatment-
+related sequelae (eg, fatigue, sleep disturbance, pain interference), and higher overall 
+wellbeing (eg, social role satisfaction, emotional support, positive affect and wellbeing, 
+mindfulness, self-compassion, and posttraumatic growth). Following bivariate analyses 
+(using chi-square and independent samples t-tests) to examine potential group differences 
+between intervention and control conditions and completers/non-completers, we tested for 
+intervention effects on each outcome variable from baseline to 16-weeks. Longitudinal 
+mixed models were specified using data from week 16 as the dependent variable. Each 
+outcome was tested separately as the dependent variable; intervention arm, and time point 
+were entered as fixed effects. All models were adjusted for meditation history, receipt of 
+Victorson et al.
+Page 5
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="6"><paragraph>follow-up texts or e-mails, and class and retreat attendance. Given the primary focus on 
+feasibilty and acceptabilty outcomes, a power analysis was premature for this phase.
+3 | RESULTS
+3.1 | Enrollment and attrition
+In total, 597 eligible participants were identified, of which 151 (26.5%) consented and 126 
+(83.4%) completed baseline measures. Sixty-seven participants were randomized to MBSR, 
+and 59 to the waitlist. A marginally significant baseline difference in meditation history 
+between intervention and control conditions was observed (P = .07); therefore meditation 
+history was included as a covariate in subsequent analyses. Following randomization, 48 
+individuals enrolled in an MBSR course. No statistically significant differences were 
+observed between completers and non-completers. Additional information about enrollment 
+and attrition, including details regarding reasons for dropout, are presented in Figure 1.
+3.2 | Demographic and clinical characteristics
+On average, participants were 32.8 years old (SD = 4.76). The majority of participants were 
+female (78.6%), Caucasian (74.6%), employed full time (61.1%), and had completed at least 
+a college degree (83.3%). Most participants were either married (43.7%) or single and had 
+never been married (41.3%). Participants had been diagnosed on average 2.06 years prior to 
+study enrollment. This breaks down to 48.4% being &lt;1 year since diagnosis; 18.6% being 1–
+3 years post diagnosis; 11.2% being 4–5 years post diagnosis, and 6.4% being 6–10 years 
+post diagnosis. The majority (58.9%) stated they had completed treatment (38.1% were still 
+in treatment, 3% unsure), which included surgery (62.1%), radiation (41.9%), and 
+chemotherapy (81.5%). Breast cancer and lymphoma were the most common cancer types 
+(34.1% and 25.4%, respectively). 81.7% of the participants had never regularly engaged in a 
+meditation practice (Tables 1 and 2).
+3.3 | Feasibility and acceptability of the MBSR intervention
+3.3.1 | Barriers to clinical delivery of the intervention—There were no major 
+barriers to the clinical delivery of the intervention. From time to time an MBSR instructor 
+would be ill or unavailable, however we had a substitute instructor pool in place to 
+accommodate this. Identifying a suitable, large group room within the hospital was also 
+sometimes challenging, however we partnered with a nearby community cancer support 
+center to expand our room options.
+3.3.2 | Willingness of participants to be randomized to proposed study arms
+—Of the 126 individuals who were randomized to MBSR or a waitlist, three individuals 
+reported dropping out due to dissatisfaction with their group assignment. Randomization 
+was explained in the following way, “You will be randomly assigned to one of two groups 
+(Group A or Group B). If assigned to Group A, you will begin the course at its earliest 
+availability. If assigned to Group B, you will be placed on a waitlist for 16 weeks before 
+beginning the course. Group B participants will partake in the study procedures in the same 
+manner as Group A.”
+Victorson et al.
+Page 6
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="7"><paragraph>3.3.3 | Barriers to participation—Of the 446 individuals who declined interest in 
+participating, the vast majority reported it was due to distance (41.5%) or time constraints 
+(21.7%). Relatively smaller groups reported it was due to a lack of interest in research 
+(6.1%), scheduling challenges (5.6%), health issues (5.2%), or a lack of interest in MBSR 
+(4.9%). Some reported having transportation issues (1.8%) or feeling too overwhelmed by 
+current stressors (1.3%). The remaining group passively refused and gave no information 
+(11.9%).
+A subset of individuals who declined (n = 120–126) were asked if they would participate in 
+an MBSR course if it were offered in an alternative locations or formats. Of those asked, 
+73.8% stated they would enroll in MBSR if it were offered at a location closer to home, and 
+70.8% stated they would enroll in an online MBSR course. Eighty-six (n = 86) of the 
+individuals who indicated interest in an online MBSR course were queried about specific 
+online course formats: 68.6% stated they would enroll in a live/synchronous video-
+conference-delivered course taught by an instructor, 70.9% stated they would enroll in a self-
+directed “educational modules” course, and 73.3% stated they would enroll in a “hybrid” 
+course that contained both synchronous experiences in addition to self-directed educational 
+content. Following randomization to MBSR, 48 individuals of the 68 who were randomized 
+actually enrolled in an MBSR course. Of the 19 individuals who dropped out between 
+consent and the start of a course, the most common reason was scheduling conflict.
+3.3.4 | Participant adherence to treatment/retention among the allocation 
+groups—Of those who enrolled in MBSR, 75% (n = 36) completed the course and the 8-
+week assessment. This is consistent with previous studies, in which the average MBSR drop-
+out rate among cancer patients was 23% (13). Fifty-four percent (54%) attended between 6–
+8 sessions. Similarly 54% attended the half-day retreat. Of the eight possible sessions (2.5 h 
+per session X 8 = 20 h) and half-day retreat (4 h), MBSR attendance ranged from 2.5 to 24 h 
+among individuals who participated in the course. The median MBSR attendance was 18 h, 
+while the average was 15 h. Reasons for drop-out included passive withdrawal (not 
+responding to calls/emails) [25.0%], time constraints (25.0%), and health concerns (feeling 
+too ill to continue) [16.7%]. Individuals randomized to the Mindfulness Group who found 
+MBSR to be less credible at baseline were less likely to complete all study procedures, t(66) 
+= −2.40; P = .019. Similarly, those who expected MBSR to be less effective were also less 
+likely to complete all study procedures t(65) = −2.31; P = .024. See Table 3 for means and 
+standard deviations on outcomes measures across different time points.
+3.3.5 | Acceptability to participants of the treatment—Following course 
+participation, the majority of participants reported their experience with mindfulness to be 
+very logical (77.6%) and one that would be very useful in raising the quality of their 
+wellbeing (72.4%). Similarly, the majority stated they would recommend this course to a 
+friend with similar problems (71.1%). These reports at 16 weeks were relatively consistent 
+with, and in some cases higher than ratings provided at baseline (75.4%, 73%, and 62.4%, 
+respectively), suggesting exposure to the MBSR intervention was an overall satisfactory 
+experience.
+Victorson et al.
+Page 7
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="8"><paragraph>3.3.6 | Whether intervention effects are consistent with expectations and 
+previous literature—Compared to waitlist participants, MBSR participants reported 
+significantly greater increases in self-kindness (a sub-domain of self-compassion) over time 
+F(2, 79.48) = 3.64, P = .031, Cohen’s d = 0.44. No other interaction effects were statistically 
+significant. Within group changes on outcomes from baseline to each follow-up were 
+examined among control and treatment conditions. The control condition demonstrated 
+statistically significant changes in perceived stress, F (2, 86.84) = 3.51, P = .034, Cohen’s d 
+= 0.26 and intolerance of uncertainty, F(2, 86.18) = 4.64, P = .012, Cohen’s d = 0.42 
+Pairwise comparisons revealed statistically significant decreases in perceived stress from 
+baseline to 8 weeks (P = .012) and from 8 to 16 weeks (P = .035), as well as decreases in 
+uncertainty intolerance from 8 to 16 weeks (P = .006).
+Individuals in the MBSR group reported statistically significant within group improvements 
+in all three domains of disease and treatment related symptoms, psychosocial distress, and 
+overall wellbeing. A statistically significant improvement from baseline was observed on 
+sleep, F(2, 79.75) = 4.39, P = .016, Cohen’s d = 0.47, indicating sleep disturbance decreased 
+from baseline to 8 weeks (P = .012) and from 8 to 16 weeks (P = .010). MBSR participants 
+also reported reduced intolerance of uncertainty F(2, 82.34) = 3.50, P = .035, Cohen’s d = 
+0.51 with decreases from baseline to 8 weeks (P = .015) and 8 to 16 weeks (P = .006). 
+Finally, improvements were also observed in post-traumatic growth, F(2, 82.95) = 3.41, P 
+= .038, Cohen’s d = 0.41, and self-kindness, F(2, 77.67) = 7.35, P = .001, Cohen’s d = 0.46, 
+with both increasing from week 8 to week 16 (P = .011 and P &lt; .001, respectively).
+4 | DISCUSSION
+Overall, our findings indicate that MBSR was an acceptable intervention for study 
+participants who took part in the program. This may be attributed to MBSR, and/or that 
+study completers were simply inclined to view their experience in a positive way. The 
+current in-person format of MBSR does not seem to be very feasible for this population, 
+however interest in an online version of MBSR was expressed by over 70% of those who 
+declined.
+MBSR is an intensive, in-person, multi-week, mind-body intervention. Participation requires 
+an active commitment to attend as many sessions as possible, participate in daily home 
+practice, and attend a half-day retreat. While our enrollment rate of 26.5% is on par with 
+other MBSR interventions in oncology, suggesting similar challenges to in-person 
+participation as other groups,22,38 this population may experience unique barriers, including: 
+(a) participating in clinical research significantly less than other age groups; (b) harboring 
+skepticism and mistrust toward researchers; and (c) holding attitudes that research is 
+inaccessible, overwhelming, inconvenient, burdensome, and frustrating.39
+Given the pilot nature of this effort, the present study was under-powered for efficacy 
+outcomes. Therefore, the observed group difference in self-kindness or within group 
+improvements in sleep disturbance, uncertainty intolerance and posttraumatic growth should 
+not be used to infer efficacy, but rather as initial evidence that certain outcomes performed 
+Victorson et al.
+Page 8
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="9"><paragraph>consistently with expectations, many of which could have also occurred as a result of the 
+passage of time or expectancy effects.
+4.1 | Study limitations
+In addition to the small sample size, this present study was limited by demographic 
+homogeneity. Another limitation was the inclusion of participants who were at all stages of 
+their cancer journey from active treatment to 10 years post diagnosis, some of whom may 
+have been getting worse from treatment and others in the initial recovery stage immediately 
+after treatment. This could have significantly influenced score variability and the likelihood 
+of observing a change in PROs. Notwithstanding, it should be noted that the majority of 
+PROs trended in expected directions, suggesting future studies be conducted that are 
+powered for efficacy designed trials.
+4.2 | Clinical implications
+Findings from this study support further clinical mindfulness programs and research with 
+this population. A majority of attendees reported finding it valuable for their wellbeing and 
+would recommend it to a friend facing similar challenges. Considering this population’s 
+struggles with loneliness and social isolation, their need for developmentally appropriate 
+psychosocial support, and their status as “digital natives,”40 future clinical and research 
+efforts should examine the effects of technology-enabled interventions. This would increase 
+our understanding on how moving from an in-person group environment to an online 
+environment might affect intervention delivery dynamics, social support, learning styles, and 
+overall uptake.
+5 | CONCLUSION
+The present study was the first randomized-controlled pilot trial of an MBSR intervention 
+with a young adult cancer sample. Overall, this program was feasible to deliver and 
+acceptable to participants who experienced it, yet infeasible for the majority of those to 
+whom it was offered, mostly due to limited time and distance. Given interest and feedback 
+for an online format from those who declined, future iterations of this intervention should 
+consider exploring the impact of online delivery.
+Acknowledgments
+Funding information
+American Cancer Society - Illinois Division; National Cancer Institute-Funded T32 Behavioral and Psychosocial 
+Research Postdoctoral Training Grant in Cancer Prevention and Control; Robert H. Lurie Comprehensive Cancer 
+Center
+The authors have no conflicts of interest to report and no commercial party having a direct financial interest in the 
+results of the research supporting this article has or will confer a benefit upon the authors or upon any organization 
+with which the authors are associated.
+DATA AVAILABILITY STATEMENT
+Data that support the findings of this study are available from the corresponding author upon 
+reasonable request.
+Victorson et al.
+Page 9
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="10"><paragraph>REFERENCES
+1. NCI. Adolescents and Young Adults with Cancer. Reports, Research, and Literature Web site. 
+https://www.cancer.gov/types/aya. Published 2018. Accessed December 5, 2018.
+2. Mattson MR, Demshar RK, Daly BJ. Quality of life of young adult survivors of hematologic 
+malignancies. Cancer Nurs. 2012;35(1):E34–E41. [PubMed: 21760491] 
+3. Benedict C, Thom B, Friedman DN, Pottenger E, Raghunathan N, Kelvin JF. Fertility information 
+needs and concerns post-treatment contribute to lowered quality of life among young adult female 
+cancer survivors. Support Care Cancer MASCC. 2018;26(7):2209–2215.
+4. Harju E, Roser K, Dehler S, Michel G. Health-related quality of life in adolescent and young adult 
+cancer survivors. Support Care Cancer MASCC. 2018;26(9):3099–3110.
+5. Smith AW, Bellizzi KM, Keegan TH, et al. Health-related quality of life of adolescent and young 
+adult patients with cancer in the United States: the adolescent and young adult health outcomes and 
+patient experience study. J Clin Oncol. 2013;31(17):2136–2145. [PubMed: 23650427] 
+6. Victorson D, Cella D, Wagner LI, Kramer L, Smith ML. Measuring quality of life in cancer 
+survivors. In: Feuerstein M, ed. Handbook of Cancer Survivorship. New York, NY: Springer; 
+2007:79–112.
+7. Kwak M, Zebrack BJ, Meeske KA, et al. Prevalence and predictors of post-traumatic stress 
+symptoms in adolescent and young adult cancer survivors: a 1-year follow-up study. Psycho-
+Oncology. 2012;22(8): 1798–1806. [PubMed: 23135830] 
+8. Phillips-Salimi CR, Andrykowski MA. Physical and mental health status of female adolescent/
+young adult survivors of breast and gynecological cancer: a national, population-based, case-control 
+study. Support Care Cancer. 2013;21:1597–1604. [PubMed: 23306935] 
+9. Mor V, Malin M, Allen S. Age differences in the psychosocial problems encountered by breast 
+cancer patients. J Natl Cancer Inst Monogr. 1994;16:191–197.
+10. Mor V, Allen S, Malin M. The psychosocial impact of cancer on older versus younger patients and 
+their families. Cancer. 1994;74(7 Suppl): 2118–2127. [PubMed: 8087779] 
+11. Coccia PF, Altman J, Bhatia S, et al. Adolescent and young adult oncology. Clinical practice 
+guidelines in oncology. J Natl Compr Canc Netw. 2012;10(9):1112–1150. [PubMed: 22956810] 
+12. NCCAM Definition of Mind Body Medicine. In: 2011.
+13. Clarke TC, Black LI, Stussman BJ, Barnes PM, Nahin RL. Trends in the use of complementary 
+health approaches among adults: United States. Natl Health Stat Report. 2002–2012;2015(79):1–
+16.
+14. Kabat-Zinn J Full Catastrophe Living: Using the Wisdom of your Mind to Face Stress, Pain and 
+Illness. New York: Dell Publishing; 1990.
+15. Wong SY. Effect of mindfulness-based stress reduction programme on pain and quality of life in 
+chronic pain patients: a randomised controlled clinical trial. HongKong Med J. 2009;15(Suppl 
+6):13–14.
+16. Chiesa A, Serretti A. Mindfulness-based stress reduction for stress management in healthy people: 
+a review and meta-analysis. J Altern Complement Med. 2009;15(5):593–600. [PubMed: 
+19432513] 
+17. Ledesma D, Kumano H. Mindfulness-based stress reduction and cancer: a meta-analysis. Psycho-
+Oncology. 2009;18(6):571–579. [PubMed: 19023879] 
+18. Bohlmeijer E, Prenger R, Taal E, Cuijpers P. The effects of mindfulness-based stress reduction 
+therapy on mental health of adults with a chronic medical disease: a meta-analysis. J Psychosom 
+Res. 2010;68(6):539–544. [PubMed: 20488270] 
+19. Bishop SR, Lau M, Shapiro S, et al. Mindfulness: a proposed ooperational definition. Clin Psychol 
+Sci Pract. 2004;11(3):230–241.
+20. Kabat-Zinn J, Massion AO, Kristeller J, et al. Effectiveness of a meditation-based stress reduction 
+program in the treatment of anxiety disorders. Am J Psychiatry. 1992;149(7):936–943. [PubMed: 
+1609875] 
+Victorson et al.
+Page 10
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="11"><paragraph>21. Zhang Q, Zhao H, Zheng Y. Effectiveness of mindfulness-based stress reduction (MBSR) on 
+symptom variables and health-related quality of life in breast cancer patients: a systematic review 
+and meta-analysis. Support Care Cancer. 2018;27(3):771–781. [PubMed: 30488223] 
+22. Lengacher CA, Reich RR, Paterson CL, et al. Examination of Broad Symptom Improvement 
+Resulting From Mindfulness-Based Stress Reduction in Breast Cancer Survivors: A Randomized 
+Controlled Trial. J Clin Oncol. 2016;34:2827–2834. [PubMed: 27247219] 
+23. Roth A, Nissim R, Elliott M. Mindfulness-based cognitive therapy for young adults with cancer. 
+Univ West Ont Med J. 2018;87(1):11–13.
+24. Van der Gucht K, Takano K, Labarque V, et al. A mindfulness-based intervention for adolescents 
+and young adults after cancer treatment: Effects on quality of life, emotional distress, and 
+cognitive vulnerability. J Adolesc Young Adult Oncol. 2017;6(2):307–317. [PubMed: 28002681] 
+25. Campo RA, Bluth K, Santacroce SJ, et al. A mindful self-compassion videoconference intervention 
+for nationally recruited posttreatment young adult cancer survivors: feasibility, acceptability, and 
+psychosocial outcomes. Support Care Cancer. 2017;25(6):1759–1768. [PubMed: 28105523] 
+26. Abbott JH. The distinction between randomized clinical trials (RCTs) and preliminary feasibility 
+and pilot studies: what they are and are not. J Orthop Sports Phys Ther. 2014;44(8):555–558. 
+[PubMed: 25082389] 
+27. Victorson D, Hankin V, Burns J, et al. Feasibility, acceptability and preliminary psychological 
+benefits of mindfulness meditation training in a sample of men diagnosed with prostate cancer on 
+active surveillance: results from a randomized controlled pilot trial. Psycho-Oncology. 
+2017;26(8):1155–1163. [PubMed: 27145355] 
+28. Devilly GJ, Borkovec TD. Psychometric properties of the credibility/expectancy questionnaire. J 
+Behav Ther Exp Psychiatry. 2000;31(2):73–86. [PubMed: 11132119] 
+29. Gotay CC, Pagano IS. Assessment of Survivor Concerns (ASC): a newly proposed brief 
+questionnaire. Health Qual Life Outcomes. 2007;5:15. [PubMed: 17352831] 
+30. Carleton RN, Norton MA, Asmundson GJ. Fearing the unknown: a short version of the Intolerance 
+of Uncertainty Scale. J Anxiety Disord. 2007;21(1):105–117. [PubMed: 16647833] 
+31. Cohen S, Kamarck T, Mermelstein R. A global measure of perceived stress. J Health Soc Behav. 
+1983;24:386–396.
+32. Brown KW, Ryan RM. The benefits of being present: mindfulness and its role in psychological 
+well-being. J Pers Soc Psychol. 2003;84(4):822–848. [PubMed: 12703651] 
+33. Neff K. Development and validation of a scale to measure self-compassion. Self Identity. 
+2003;2:223–250.
+34. Cann A, Calhoun LG, Tedeschi, RG A short form of the posttraumatic growth inventory. Anxiety 
+Stress Coping 2010;23(2):127–137. [PubMed: 19582640] 
+35. Salsman JM, Garcia SF, Yanez B, Sanford SD, Snyder MA, Victorson D. Physical, emotional, and 
+social health differences between posttreatment young adults with cancer and matched healthy 
+controls. Cancer. 2014;120(15):2247–2254. [PubMed: 24888335] 
+36. Munoz AR, Kaiser K, Yanez B, et al. Cancer experiences and health-related quality of life among 
+racial and ethnic minority survivors of young adult cancer: a mixed methods study. Support Care 
+Cancer. 2016;24(12):4861–4870. [PubMed: 27435322] 
+37. Victorson D, Garcia SF, Sanford S, Snyder MA, Lampert S, Salsman JM. A qualitative focus group 
+study to illuminate the lived emotional and social impacts of cancer and its treatment on young 
+adults. J Adolesc Young Adult Oncol. 2019.
+38. Shaw JM, Sekelja N, Frasca D, Dhillon HM, Price MA. Being mindful of mindfulness 
+interventions in cancer: A systematic review of intervention reporting and study methodology. 
+Psycho-Oncology. 2018;27(4):1162–1171. [PubMed: 29377335] 
+39. Benedict C, Victorson D, Love B, et al. The Audacity of Engagement: Hearing Directly from 
+Young Adults with Cancer on Their Attitudes and Perceptions of Cancer Survivorship and Cancer 
+Survivorship Research. J Adolesc Young Adult Oncol. 2018;7(1):103–111. [PubMed: 29022839] 
+40. Abrol E, Groszmann M, Pitman A, Hough R, Taylor RM, Aref-Adib G. Exploring the digital 
+technology preferences of teenagers and young adults (TYA) with cancer and survivors: a cross-
+sectional service evaluation questionnaire. J Cancer Surviv. 2017;11(6):670–682. [PubMed: 
+28634734] 
+Victorson et al.
+Page 11
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="12"><paragraph>FIGURE 1. 
+Consort diagram
+Victorson et al.
+Page 12
+Psychooncology. Author manuscript; available in PMC 2021 May 01.
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript</paragraph></page><page number="13"><paragraph>Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Victorson et al.
+Page 13
+Table 1
+Sociodemographic characteristics
+Variable
+Mindfulness
+Control
+Statistic
+P
+Age
+33.01 ± 4.42
+32.56 ± 5.14
+t(124) = 0.535
+.136
+Gender
+ Male
+13 (19.4%)
+14 (23.7%)
+Χ2(1) = 0.349
+.555
+ Female
+54 (80.6%)
+45 (76.3%)
+Race
+ White
+52 (77.6%)
+42 (71.2%)
+ Black/African American
+10 (14.9%)
+8 (13.6%)
+ Asian
+2 (3.0%)
+8 (13.6%)
+Χ2(4) = 6.40
+.171
+ Other
+1 (1.5%)
+1 (1.7%)
+ Not provided
+2 (3.0%)
+0 (0.0%)
+Ethnicity
+ Hispanic
+10 (14.9%)
+9 (15.3%)
+Χ2(1) &lt; 0.01
+.959
+ Non-Hispanic
+57 (85.1%)
+50 (84.7%)
+Marital status
+ Single (never married)
+29 (43.3%)
+23 (39.0%)
+ Living with partner
+3 (4.5%)
+5 (8.5%)
+ Married
+30 (44.8%)
+25 (42.4%)
+Χ2(4) = 1.98
+.739
+ Separated
+2 (3.0%)
+1 (1.7%)
+ Divorced
+3 (4.5%)
+5 (8.5%)
+Education
+ High school
+2 (3.0%)
+2 (3.4%)
+ Some college
+10 (14.9%)
+7 (11.9%)
+ College degree
+27 (40.3%)
+16 (27.1%)
+Χ2(4) = 7.93
+.094
+ Some graduate school
+7 (10.4%)
+2 (3.4%)
+ Graduate degree
+21 (31.3%)
+32 (54.2%)
+Employment
+ Full time
+41 (61.2%)
+36 (61.0%)
+ Part time
+5 (7.5%)
+8 (13.6%)
+Psychooncology. Author manuscript; available in PMC 2021 May 01.</paragraph></page><page number="14"><paragraph>Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Victorson et al.
+Page 14
+Variable
+Mindfulness
+Control
+Statistic
+P
+Age
+33.01 ± 4.42
+32.56 ± 5.14
+t(124) = 0.535
+.136
+ Self-employed
+3 (4.5%)
+5 (8.5%)
+ Not employed (looking for work)
+5 (7.5%)
+2 (3.4%)
+Χ2(6) = 3.92
+.687
+ Not employed (not looking for work)
+5 (7.5%)
+3 (5.1%)
+ Student
+5 (7.5%)
+4 (6.8%)
+ Homemaker
+3 (4.5%)
+1 (1.7%)
+Note:
+*P &lt; .05
+**P &lt; .01.
+Psychooncology. Author manuscript; available in PMC 2021 May 01.</paragraph></page><page number="15"><paragraph>Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Victorson et al.
+Page 15
+Table 2
+Clinical characteristics, meditation history, and expectancy
+Variable
+Mindfulness
+Control
+Statistic
+P
+Cancer type
+Χ2(15) = 12.52
+.639
+ Bone/soft tissue
+4 (6.0%)
+2 (3.4%)
+ Brain
+2 (3.0%)
+2 (3.4%)
+ Breast
+23 (34.3%)
+20 (34.5%)
+ Cervical
+1 (1.5%)
+0 (0.0%)
+ Colorectal
+3 (4.5%)
+2 (3.4%)
+ Head and neck
+0 (0.0%)
+2 (3.4%)
+ Leukemia
+4 (6.0%)
+4 (6.8%)
+ Liver
+1 (1.5%)
+0 (0.0%)
+ Lung
+1 (1.5%)
+1 (1.7%)
+ Lymphoma
+15 (22.4%)
+17 (28.8%)
+ Melanoma
+4 (6.0%)
+2 (3.4%)
+ Ovarian
+1 (1.5%)
+0 (0.0%)
+ Stomach and esophageal
+0 (0.0%)
+1 (1.7%)
+ Testicular
+1 (1.5%)
+2 (3.4%)
+ Thyroid and endocrine
+0 (0.0%)
+2 (3.4%)
+ Other
+7 (10.4%)
+2 (3.4%)
+Meditation history
+Χ2(2) = 5.23
+.073
+ Never
+26 (38.8%)
+19 (32.2%)
+ Occasionally
+25 (37.3%)
+33 (55.9%)
+ Regularly
+16 (23.9%)
+7 (11.9%)
+Expectancy
+0.14 ± 2.91
+−0.15 ± 2.42
+t(123) = 0.60
+.553
+Credibility
+−0.02 ± 2.57
+0.03 ± 2.49
+t(123) = −0.12
+.908
+Note:
+*P &lt; .05
+**P &lt; .01.
+Psychooncology. Author manuscript; available in PMC 2021 May 01.</paragraph></page><page number="16"><paragraph>Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Victorson et al.
+Page 16
+Table 3
+A, Mindfulness group means, standard deviations, and within group changes and B, Waitlist control group means, standard deviations, and within group 
+changes
+Paired Samples t-test (Baseline to Week 16)
+Domain Outcome measure
+Baseline (N = 67)
+Week 8 (N = 36)
+Week 16 (N = 35)
+95% CI
+Mean
+(SD)
+Mean
+(SD)
+Mean
+(SD)
+t
+df
+P
+Lower
+Upper
+Disease and treatment related symptoms
+Pain interference
+53.70
+(10.58)
+51.61
+(10.32)
+52.35
+(11.51)
+0.58
+34
+.566
+−3.10
+5.58
+Fatigue
+57.80
+(8.14)
+54.80
+(8.20)
+53.57
+(9.72)
+−1.82
+34
+.078
+−5.36
+0.30
+Sleep disturbance
+54.92
+(8.21)
+51.63
+(9.14)
+51.48
+(7.59)
+−1.67
+34
+.103
+−4.85
+0.47
+Psychosocial distress
+Anxiety
+59.19
+(7.54)
+57.25
+(6.54)
+56.96
+(8.14)
+−1.07
+34
+.290
+−6.05
+1.86
+Depression
+53.51
+(8.44)
+52.84
+(7.45)
+54.15
+(9.23)
+0.38
+33
+.706
+−2.91
+4.25
+Social isolation
+49.89
+(8.70)
+49.70
+(9.11)
+48.00
+(10.05)
+−0.79
+34
+.434
+−5.68
+2.50
+Cancer survivor concerns
+16.67
+(7.47)
+16.28
+(7.72)
+16.71
+(8.39)
+0.19
+33
+.848
+−2.60
+3.14
+Perceived stress
+7.00
+(2.46)
+5.86
+(2.79)
+5.82
+(2.52)
+−1.48
+33
+.147
+−1.81
+0.28
+Self-judgement
+3.28
+(0.91)
+3.18
+(0.93)
+3.06
+(0.81)
+−1.95
+33
+.059
+−0.55
+0.01
+Intolerance of uncertainty
+19.41
+(7.43)
+15.79
+(9.88)
+15.68
+(6.71)
+−2.70
+33
+.011*
+−5.57
+−0.78
+Overall wellbeing
+Emotional support
+53.53
+(8.71)
+54.49
+(8.82)
+54.85
+(7.26)
+1.13
+34
+.267
+−1.10
+3.84
+Role satisfaction
+48.45
+(8.91)
+50.84
+(8.67)
+50.07
+(6.94)
+0.36
+34
+.719
+−2.66
+3.81
+Positive affect and wellbeing
+50.75
+(6.36)
+52.35
+(6.51)
+53.25
+(5.72)
+1.72
+34
+.094
+−0.28
+3.32
+Mindful attention and awareness
+3.88
+(0.88)
+3.65
+(0.82)
+3.91
+(0.93)
+0.85
+33
+.403
+−0.19
+0.46
+Post-traumatic growth
+3.24
+(1.16)
+3.39
+(1.21)
+3.66
+(0.94)
+2.40
+33
+.022*
+0.06
+0.78
+Self-kindness
+3.17
+(0.72)
+3.18
+(0.74)
+3.51
+(0.58)
+3.95
+33
+&lt;.001*
+0.22
+0.69
+Paired Samples t-test (Baseline to Week 16)
+Domain Outcome measure
+Baseline (N = 67)
+Week 8 (N = 36)
+Week 16 (N = 35)
+95% CI
+Mean
+(SD)
+Mean
+(SD)
+Mean
+(SD)
+t
+df
+P
+Lower
+Upper
+Disease and treatment related symptoms
+Pain interference
+53.13
+(10.32)
+51.37
+(9.09)
+53.08
+(9.63)
+−0.50
+41
+.622
+−4.43
+2.68
+Fatigue
+55.61
+(8.20)
+55.03
+(8.47)
+54.18
+(9.03)
+−1.16
+41
+.254
+−3.47
+0.94
+Psychooncology. Author manuscript; available in PMC 2021 May 01.</paragraph></page><page number="17"><paragraph>Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Victorson et al.
+Page 17
+Sleep disturbance
+51.84
+(9.14)
+51.92
+(8.98)
+51.19
+(7.42)
+−1.51
+41
+.139
+−4.17
+0.61
+Psychosocial distress
+Anxiety
+59.17
+(6.54)
+58.76
+(6.38)
+57.38
+(7.94)
+−1.78
+41
+.083
+−3.84
+0.25
+Depression
+54.95
+(7.45)
+54.58
+(7.36)
+53.65
+(8.15)
+−3.01
+41
+.004*
+−4.73
+−0.94
+Social isolation
+50.75
+(9.11)
+51.92
+(7.96)
+52.05
+(8.41)
+0.47
+41
+.644
+−1.92
+3.06
+Cancer survivor concerns
+16.44
+(7.72)
+17.32
+(8.49)
+17.43
+(7.45)
+0.45
+41
+.657
+−1.57
+2.46
+Perceived Stress
+7.31
+(2.79)
+6.65
+(2.83)
+6.55
+(2.82)
+−2.30
+41
+.026*
+−2.01
+−0.13
+Self-judgement
+3.18
+(0.93)
+3.29
+(0.91)
+3.16
+(0.96)
+−0.95
+41
+.350
+−0.32
+0.12
+Intolerance of uncertainty
+19.91
+(9.88)
+18.43
+(9.08)
+16.67
+(8.21)
+−2.83
+41
+.007*
+−5.90
+−0.99
+Overall wellbeing
+Emotional support
+52.17
+(8.82)
+51.50
+(8.51)
+51.37
+(9.02)
+−0.90
+41
+.376
+−3.06
+3.06
+Role satisfaction
+47.91
+(8.67)
+49.56
+(8.88)
+49.03
+(10.24)
+0.74
+41
+.464
+−1.91
+4.12
+Positive affect and wellbeing
+51.11
+(6.51)
+51.59
+(6.44)
+51.96
+(7.05)
+1.48
+41
+.147
+−0.52
+3.36
+Mindful attention and awareness
+4.12
+(0.82)
+3.98
+(0.76)
+4.00
+(1.04)
+−0.60
+41
+.554
+−0.24
+0.13
+Post-traumatic growth
+3.01
+(1.21)
+3.17
+(1.27)
+3.07
+(1.26)
+0.77
+41
+.446
+−0.19
+0.42
+Self-kindness
+3.22
+(0.74)
+3.19
+(0.76)
+3.22
+(0.73)
+−0.05
+41
+.962
+−0.20
+0.19
+Psychooncology. Author manuscript; available in PMC 2021 May 01.</paragraph></page></document>

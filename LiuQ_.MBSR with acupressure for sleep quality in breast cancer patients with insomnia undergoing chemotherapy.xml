@@ -1,0 +1,1403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document><page number="1"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+Available online 5 October 2022
+1462-3889/© 2022 Elsevier Ltd. All rights reserved.
+Mindfulness-based stress reduction with acupressure for sleep quality in 
+breast cancer patients with insomnia undergoing chemotherapy: A 
+randomized controlled trial 
+Qixi Liu a,b,1, Chunfeng Wang a,1, Ying Wang a, Wenkui Xu a, Chenju Zhan b, Jinqing Wu b, 
+Rong Hu a,* 
+a The School of Nursing, Fujian Medical University, No. 1 of Xueyuan Road, Shangjie Town, Minhou County, Fuzhou City, Fujian Province, China 
+b Mindong Hospital Affiliated to Fujian Medical University, No.89 of Heshan Road, Fu’an City, Fujian Province, China   
+A R T I C L E  I N F O   
+Keywords: 
+Breast cancer 
+Fatigue 
+Sleep disorders 
+Acupressure 
+Mindfulness-based stress reduction 
+A B S T R A C T   
+Purpose: The objective of this randomized controlled trial was to evaluate and compare the effectiveness of 
+mindfulness-based stress reduction (MBSR), acupressure, and MBSR combined with acupressure in improving 
+sleep quality in breast cancer patients with sleep disorders, as well as the potential effects of these interventions 
+on relieving fatigue, anxiety, and depression. 
+Methods: A four-arm parallel-group randomized controlled trial was conducted in a tertiary hospital in Fujian 
+between July 2019 and January 2021. A total of 147 breast cancer patients were randomly assigned to a usual 
+care group (n = 34), a MBSR group (n = 38), an acupressure group (n = 36), or a combined group (n = 39). We 
+assessed patients’ sleep quality (Pittsburgh Sleep Quality Index-PSQI and 6 actigraphy indices), fatigue, anxiety, 
+and depression at baseline and at the mid-intervention (fourth week) and the end of intervention (eighth week). 
+Results: The ANOVA showed a significant difference (p &lt; 0.05) in PSQI, and all sleep parameters measured by 
+wrist actigraphy, and anxiety between groups. The three active treatments led to better PSQI outcomes (p &lt;
+0.001), reduced fatigue (p &lt; 0.001), decreased anxiety (p &lt; 0.05), and improved sleep measured by all actig-
+raphy indices with two exceptions (MBSR did not differ from control on Sleep Latency (p = 0.235) and mean 
+waking by time (MWBT) (p = 0.058)). Both acupressure and the combined intervention outperformed MBSR on 
+four actigraphy indices: Sleep Efficiency (SE), Sleep Latency (SL), Totatl Sleep Time (TST), and Wake after sleep 
+onset (WASO) (p &lt; 0.05), and the combined intervention further outperformed MBSR on PSQI (p = 0.03) and 
+Number of awakings (NOA) (p = 0.003). Moreover, there was no significant difference across all outcomes 
+between acupressure and combined intervention (p ≥ 0.05). 
+Conclusions: MBSR, acupressure, and combined therapy all show a remarkable advantages in allemiating sleep 
+quality, fatigue, and anxiety. Acupressure and combined therapy outperformed MBSR in improving sleep quality.   
+1. Introduction 
+Global Cancer Statistics 2020 showed that female breast cancer has 
+surpassed lung cancer as the most commonly diagnosed cancer with an 
+estimated 2.3 million new cases (11.7%) (Sung et al., 2021). While ad-
+vancements in early detection and treatment have increased breast 
+cancer survival rates, the outlook for the physical and psychosocial 
+health of breast cancer patients is still not optimistic (Guimond et al., 
+2020; Maass et al., 2020). Approximately 14%–93% of breast cancer 
+patients experience sleep problems (Leysen et al., 2019). Long-term 
+sleep disturbances may potentiate the vulnerability of immune alter-
+ations caused by chemotherapy and increase susceptibility to infections 
+during cancer care (Ruel et al., 2020). In addition, chemotherapy may 
+cause a series of side effects and further impair patients’ sleep quality 
+(Ratcliff et al., 2021). Cancer-related fatigue is another burdensome and 
+long-lasting symptom among breast cancer patients, affecting up to 72% 
+during treatment, and it may remain a continuous burden even after 
+treatment completion (Puigpinos-Riera et al., 2020). Meanwhile, the 
+* Corresponding author. The School of Nursing, Fujian Medical University, Fuzhou City, Fujian Province, China. 
+E-mail address: ronghu1246@fjmu.edu.cn (R. Hu).   
+1 Qixi Liu and Chunfeng Wang contributed to this work equally and are co-first authors. 
+Contents lists available at ScienceDirect 
+European Journal of Oncology Nursing 
+journal homepage: www.elsevier.com/locate/ejon 
+https://doi.org/10.1016/j.ejon.2022.102219 
+Received 14 April 2022; Received in revised form 29 August 2022; Accepted 30 September 2022</paragraph></page><page number="2"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+2
+majority of breast cancer patients are reported to experience varying 
+degrees of depression and anxiety during chemotherapy treatment (Hajj 
+et al., 2021; Liu et al., 2021; Pilevarzadeh et al., 2019). 
+Several interventions have been conducted to alleviate the physical 
+or psychological symptoms experienced by breast cancer patients un-
+dergoing chemotherapy (Abrahams et al., 2020; Vallance et al., 2020; 
+VanderWalde et al., 2021). Mindfulness-based stress reduction (MBSR) 
+is an eight-week program originally developed by Professor Jon 
+Kabat-Zinn and characterized by learning to concentrate on the present 
+moment with openness, curiosity, and acceptance (Gu et al., 2015). 
+There are three main formal practical exercises: body scan (mindful 
+body perception), gentle yoga, and traditional sitting meditation (Witek 
+Janusek, Tell and Mathews, 2019). MBSR is widely practiced across 
+varied populations, including in the field of breast and lung cancer to 
+help relieve patients’ subjective stress, pain, fatigue, and psychological 
+symptoms including anxiety, depression, and fear of recurrence (Tian 
+et al., 2021; Zhang et al, 2019). In 2019, a review of MBSR for women 
+diagnosed with breast cancer systematically analyzed published ran-
+domized clinical trials and found that MBSR can slightly alleviate fatigue 
+(SMD -0.50, 95% CI -0.86 to −0.14), anxiety (SMD -0.29, 95% CI -0.50 
+to −0.08), moderately reduce depression (SMD -0.54, 95% CI -0.86 to 
+−0.22), and slightly improve sleep quality (SMD -0.38, 95% CI -0.79 to 
+0.04) in the short term (Schell et al., 2019). Relevant studies conducted 
+in Chinese breast cancer patients have demonstrated that MBSR can 
+improve female sexual function and mental health (Chang et al., 2022) 
+and posttraumatic growth (Zhang et al., 2017), and reduce psycholog-
+ical symptoms (Kang et al., 2021). 
+Acupressure, a method derived from traditional Chinese medicine, is 
+a treatment in which pressure is applied with fingers, thumbs, or a de-
+vice on the body’s acupoints. Although the mechanism of acupoint 
+stimulation is unclear, there is sufficient evidence that acupoint stimu-
+lation can play a significant role in medical treatment. Acupressure is 
+well-received because it is noninvasive, safe, and convenient compared 
+with acupuncture (Ge et al., 2022), and it has shown promise as a 
+treatment for chemotherapy-induced nausea, vomiting, and anxiety in 
+patients with breast cancer (Tan et al., 2020). Several studies have 
+demonstrated the positive effects of acupressure on improving sleep 
+quality in breast cancer patients (Nourizadeh et al., 2022; Yoon and 
+Park, 2019). Moreover, a pilot randomized sham-controlled trial indi-
+cated that self-acupressure is feasible for managing the symptom cluster 
+of insomnia, depression, and anxiety in cancer patients undergoing 
+chemotherapy 
+and 
+suggested 
+the 
+potential 
+effectiveness 
+of 
+self-acupressure in improving the targeted symptom cluster (Hoang 
+et al., 2022). In addition, acupressure is also used to improve sleep 
+quality in other various populations such as menopausal women (Abe-
+dian et al., 2015), psychogeriatric inpatients (Lu et al., 2013), and he-
+modialysis patients (Arab et al., 2016). Moreover, acupressure has been 
+demonstrated to decrease cancer-related fatigue in different cancer pa-
+tients (Khanghah et al., 2019; L. Lin et al., 2021). A community-based 
+randomized controlled trial showed that self-acupressure was also 
+beneficial for reducing cancer-related fatigue in ovarian cancer survi-
+vors (Zick et al., 2021). Furthermore, a recent systematic review and 
+meta-analysis including 14 RCTs demonstrated that acupressure is 
+effective in reducing depression and anxiety in various populations (J. 
+Lin et al., 2022). Another systematic review also indicated that 
+acupressure significantly reduced patients’ anxiety (Chen et al, 2022a, 
+2022b). 
+Although there is relatively abundant evidence indicating that MBSR 
+and acupressure both show a positive effect on ameliorating sleep 
+quality, fatigue, anxiety, and depression in cancer patients, we hy-
+pothesize that MBSR combined with acupressure may have stronger 
+positive effects on improving sleep quality, and potentially relieving 
+fatigue, anxiety, and depression compared to MBSR, acupressure, and 
+routine care. Therefore, the primary objective of this randomized 
+controlled trial was to evaluate and compare the effectiveness of MBSR, 
+acupressure, and MBSR combined with acupressure, and routine care in 
+improving sleep quality in breast cancer patients with sleep disorders. 
+The secondary purpose is to evaluate and compare the potential effects 
+of these interventions on relieving fatigue, anxiety, and depression. 
+2. Methods 
+2.1. Study design 
+This study was designed as a four-arm parallel group randomized 
+controlled trial and has been registered in the Chinese Clinical Trial 
+Registry with the number “ChiCTR190002561.” We followed the 
+Consolidated Standards of Reporting Trials (CONSORT 2010). 
+2.2. Setting and participants 
+The participants were recruited from Mindong Hospital Affiliated to 
+Fujian Medical University between July 2019 and January 2021. The 
+inclusion criteria for patients were as follows: (1) inpatients diagnosed 
+with breast cancer; (2) undergoing chemotherapy; (3) aged 18 years or 
+older; (4) informed of disease diagnosis and treatment; (5) the total 
+score of Pittsburgh Sleep Quality Index (PSQI) &gt; 7 and sleep efficiency 
+according to the wrist actigraphy index of &lt;85% simultaneously; and (6) 
+understanding and speaking Chinese. The exclusion criteria for patients 
+were as follows: (1) breast cancer combined with serious organ 
+dysfunction diseases, nervous system diseases, and others; (2) receiving 
+endocrine therapy; (3) taking sleeping pills, antidepressants, and other 
+drugs that might affect observation outcomes; (4) cognitive impairment 
+(comprehension or expression problems); and (5) received psychother-
+apy or exercise therapy within the last three months. 
+2.3. Sample size calculation 
+The sample size was calculated using PASS 15.0 statistical software 
+under the repeat measurement analysis module (Muller and Barton, 
+1989). In this study, sleep quality (PSQI) was recognized as the primary 
+outcome. The sample size was determined according to the results of our 
+preliminary study with 35 subjects divided into four groups (control, 
+MBSR, acupressure and combined group). Assuming a power of 0.8 with 
+an alpha of 0.05, 24 participants were needed in each group. With an 
+expected attrition rate of 30% (Hoang et al., 2022; Witek Janusek et al., 
+2019), each study arm required at least 34 participants. Finally, this 
+study recruited 147 participants, which met the requirements of the 
+sample size. 
+2.4. Randomized allocation 
+A random sequence set was generated from the Research Random-
+izer Website (https://www.randomizer.org/). The sequence contained 
+136 nonrepeating numbers ranging from 1 to 136. The random numbers 
+were packaged in sequentially numbered, sealed, opaque envelopes by a 
+third party to ensure allocation concealment. After the participants were 
+included, we randomly divided them into groups according to the 
+numbers in the envelopes with 1–34 as the MBSR, 35–68 as the 
+acupressure, and 69–102 as the MBSR with acupressure, and 103–136 as 
+the control groups. Afterwards, these steps were repeated for grouping. 
+In addition, as the interventionists were not blind to group allocation, 
+data collection and analysis were performed by a research assistant and 
+a statistician who did not know the group allocation. 
+2.5. Intervention 
+2.5.1. Training program for interventionists 
+One group of six licensed clinical nurses in the breast oncology 
+department undertook the responsibilities of performing interventions. 
+They were required to attend seven MBSR training sessions (90 min/ 
+time) and one examination performed by one senior nurse (the first 
+Q. Liu et al.</paragraph></page><page number="3"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+3
+author) who was trained and qualified in MBSR. The MBSR training 
+program contains an interpretation of the theoretical basis, skill prac-
+tice, MBSR procedure, and practice exercises. The acupressure training 
+program, containing two training sessions, was performed by one 
+licensed nurse with rich experience in acupressure in the traditional 
+Chinese medicine department. The first training session (lasting 4 h) was 
+conducted to introduce and explain the location, manipulation, and time 
+of acupressure. The second is a practice session (lasting 4 h) for in-
+terventionists to feel the manipulation and strength of the acupressure. 
+Then, the operation exam was performed to check the mastery of all 
+interventionists. The main researcher (the first author) monitored all 
+training sessions and checked the MBSR and acupressure mastery of 
+interventionists after the training sessions in the MBSR, acupressure, and 
+MBSR with acupressure groups. To ensure content equivalency, a Chi-
+nese standardized session-by-session video of MBSR and an instruction 
+manual of acupressure were used as education and guidance materials, 
+and the interventionists were requested to follow these instruction ma-
+terials. Notably, each nurse is responsible for the whole-course inter-
+vention of the patients she recruited. 
+2.5.2. Routine care 
+Control patients received routine care in the breast oncology 
+department including symptom assessment and management, diet 
+guidance, rest and exercise guidance, and usual psychological support. 
+2.5.3. MBSR 
+Patients randomized to the MBSR group received weekly group 
+sessions delivered by the primary interventionist in a large recreational 
+area of the breast oncology department. Patients were required to 
+perform MBSR practice once daily (lasting 45 min) for eight weeks (each 
+session for one week). The weekly group session was led by the main 
+researcher (the first author) and one nurse. The participants were 
+required to conduct the individual practice on their own (using the 
+recording) when they were both inpatient and outpatient, which was 
+monitored and guided by one nurse. After discharge, the interventionist 
+informed that participants must attempt to practice this daily on time 
+and delivered weekly group sessions using WeChat (a popular social 
+media application) to address any issues patients encountered during 
+the practice. The MBSR program followed in this study contained eight 
+sessions including breath awareness, seated mindfulness meditation, 
+focusing on one thing, body scanning, compassionate meditation, 
+sounds and thoughts, choiceless awareness, and coming full circle. The 
+session content of the MBSR program is provided in Appendix 1. During 
+hospitalization, the MBSR practice was suggested to be fixed around 10 
+a.m. daily to avoid interfering with patients’ mealtimes and breaks. 
+Patients were allowed to practice on the ward bed or recreational area if 
+they preferred. Each patient was provided a mini speaker box to listen to 
+the instructions of each session for daily practice. Meanwhile, daily face- 
+to-face discussions were held between interventionists and patients to 
+ensure adherence to program content/objectives and to address any is-
+sues, and participants were asked to log their daily mindfulness practice. 
+Interventionists were asked to check the log daily mindfulness practice 
+of the participants. 
+2.5.4. Acupressure 
+Patients in the acupressure group received a self-administered 
+acupressure program. Five acupoints were selected in this study ac-
+cording to the recommendations of previous studies and included Yin-
+tang, Shenmen, Neiguan, Baihui, and Anmian, which were demonstrated 
+to improve patients’ sleep quality (Ge et al., 2022; Yeung et al., 2022). 
+The specific locations of acupoints appear in Appendix 2. Participants 
+were required to perform acupressure twice daily (each acupoint lasting 
+for 6 min at a time) for eight weeks. Since the instructors of interventions 
+were registered clinical nurses in the study setting, the intervention time 
+was fixed in the daytime to avoid disrupting nurses’ off-duty hours. In 
+addition, to ensure the consistency of program implementation, the 
+acupressure was suggested to be performed around 10 a.m. and 3 p.m. 
+daily to avoid patients’ mealtimes and breaks. Before the formal inter-
+vention, the responsible licensed clinical nurses would teach and 
+instruct the manipulation and strength of acupressure for patients 
+or/and their family caregivers. Patients’ family members could help 
+patients perform acupressure if necessary. Daily discussions were held 
+between the interventionists and patients or family caregivers to ensure 
+the accurate location and appropriate manipulation and strength. The 
+correctness of acupressure was confirmed if the participants felt sore, 
+numb, distended, and/or warm. After discharge, the interventionists 
+sent daily reminders via WeChat to inform the patients to perform 
+acupressure, and delivered a weekly group meeting to address any issues 
+patients encountered during the practice. Likewise, the interventionist 
+needs to check the completion daily via WeChat. 
+2.5.5. MBSR combined with acupressure 
+Patients allocated to the combined group synchronously received 
+MBSR and acupressure for eight weeks. The specific content of the in-
+terventions was the same as that set out in the MBSR and Acupressure 
+sections above. Participants in the combined group were suggested to 
+start the MBSR practice around 10 a.m., followed by half an hour of 
+acupressure. Similarly, patients in the combined group still need to 
+complete one acupressure session around 3 p.m. Daily discussions and 
+weekly group meetings were held between participants and 
+interventionists. 
+2.6. Data collection 
+Two research assistants (RA) were included in the study and trained 
+by the principal investigator (the first author) of the research. After 
+obtaining informed consent, the RA collected the baseline data including 
+sociodemographic information (a self-designed questionnaire) and in-
+formation about sleep, fatigue, anxiety, and depression through a face- 
+to-face questionnaire survey on the day of enrollment (T0). PSQI, 
+Brief Fatigue Inventory (BFI–C), Hospital Anxiety and Depression 
+(HADS), and the sleep parameters of wrist actigraphy data were 
+collected repeatedly at the end of the fourth (T1) and eighth weeks (T2) 
+of intervention. Notably, patients wore the wrist actigraphy for 12 h 
+from 8:00 p.m. to 8:00 a.m. the next day at the data collection point 
+including baseline, the mid-intervention (fourth week), and the end of 
+intervention (eighth week). The data of wrist actigraphy were calculated 
+and generated by ActiLife6.11.4 software. Participants completed 
+questionnaires when they were undergoing chemotherapy in the hos-
+pital or waiting for a chemotherapy appointment at the outpatient clinic. 
+If the participant was not scheduled to return to the hospital at the data 
+collection time, a research assistant performed a telephone interview. 
+2.7. Measurements 
+2.7.1. Pittsburgh Sleep Quality Index (PSQI) 
+The PSQI was used to measure patients’ sleep disturbance (Buysse 
+et al., 1989). It is a self-reported questionnaire including nine items (the 
+fifth item contains ten subitems.) The score for each domain ranges from 
+0 to 3, and the total score ranges from 0 to 21 with a higher score 
+indicating poorer sleep quality. The Chinese-version PSQI was found to 
+have satisfactory reliability and validity in patients with lung cancer 
+(Chen et al., 2008). Only the total score was calculated in this study, and 
+a total score greater than 7 indicates that the patient has sleep disorders 
+(Wang et al., 2022). The Cronbach alpha value was 0.70 in this study. 
+2.7.2. Wrist actigraphy 
+Wrist actigraphy is an instrument developed to monitor activity in-
+tensity and is used in medicine to assess patients’ sleep quality. In this 
+study, the Xiaomi Mi Band 2.0 was uniformly selected to monitor pa-
+tients’ sleep quality (Pino-Ortega et al., 2021), and parameters related to 
+wrist actigraphy were set according to the product manual. The data 
+Q. Liu et al.</paragraph></page><page number="4"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+4
+from the wrist activity meter were analyzed using ActiLife6.11.4 soft-
+ware. The main sleep parameters were (1) sleep efficiency (SE): total 
+sleep time/bedtime; (2) sleep latency (SL): time from going to bed to 
+falling asleep; (3) total sleep time (TST): actual sleep time; (4) wake after 
+sleep onset (WASO): time of waking during sleep; (5) number of 
+awaking (NOA): the number of awakenings during total sleep time; and 
+(6) mean waking by time (MWBT): wake after sleep onset/number of 
+awaking. 
+2.7.3. Brief Fatigue Inventory (BFI–C) 
+The nine-item BFI was used to assess participants’ fatigue (Mendoza 
+et al., 1999). The first three items assessed fatigue severity at its worst, 
+usual, and right now, and the final six assessed impacts of fatigue on 
+daily activity, mood, walking, work, enjoyment of life, and relations 
+with others. Higher scores indicate more severe fatigue or more inter-
+ference in life. The Chinese-version BFI–C had excellent internal con-
+sistency with Cronbach’s coefficient alphas of 0.92 for three fatigue 
+severity items and 0.90 for six fatigue interference items in cancer pa-
+tients, and a rating of 0–6 for fatigue severity indicates “non-severe”, 
+and 7 or greater indicates “severe” (Wang et al., 2004). The Cronbach 
+alpha value was 0.86 in this study. 
+2.7.4. Hospital Anxiety and Depression (HADS) 
+The HADS was widely used to assess nonpsychotic anxiety and 
+depression of inpatients (Zigmond and Snaith, 1983). It contains 14 
+items—7 for assessing anxiety and 7 for depression. Each item is scored 
+from 0 to 3, and the subscale total scores range from 0 to 21 with higher 
+scores indicating more anxiety or depressive symptoms. In this study, 
+the subscale with a score ≥8 would represent significant anxiety or 
+depression (Bjelland et al., 2002). The Chinese version demonstrated 
+good validity and reliability in cancer patients (Li et al., 2016). In this 
+study, the Cronbach alpha values were 0.63 and 0.67 for the subscales of 
+anxiety and depression, respectively. 
+2.8. Statistical analysis 
+IBM SPSS Statistics for Windows, version 26.0 (IBM SPSS Data 
+Collection, New York, NY, USA), was used to analyze data. Participants’ 
+demographic and clinical characteristics were compared using variance 
+analysis, Mann–Whitney U test, chi-square, or Fisher’s exact test when 
+appropriate. The intention-to-treat (ITT) principle was adopted for 
+analyzing the data. Missing data were supplemented using a multiple 
+imputation approach. A repeated-measures analysis of variance 
+(ANOVA) was used to explore between-group, within-group, and 
+interaction effects, followed by a Least Significant Difference (LSD) test 
+used to compare the outcomes between groups. The data of non-normal 
+distribution (SL, WASO, MWBT) were transformed by rank order fol-
+lowed by repeated-measures ANOVA. The criterion for statistical sig-
+nificance was set at p &lt; 0.05 in a two-tailed test. 
+2.9. Ethical considerations 
+This study was approved by the Ethics Committee of Mindong Hos-
+pital Affiliated to Fujian Medical University (No.: 2019/0621–2). Par-
+ticipants were given detailed information about the study and written 
+informed consent was obtained from each patient before data collection. 
+Patients’ wishes are fully respected, and they had the right to withdraw 
+from the study at any time. The information collected was kept confi-
+dential and will not be disclosed to others. 
+3. Results 
+3.1. Characteristics of participants 
+Total 147 patients were included and randomly assigned to the 
+routine care (n = 34), MBSR (n = 38), acupressure (n = 36), or MBSR 
+with acupressure group (n = 39). Thirteen patients withdrew from the 
+study after eight weeks due to condition deterioration (n = 1), refusal to 
+participate (n = 10), and family caregivers’ refusal (n = 2)—10 in the 
+MBSR group and three from the MBSR with acupressure group. Fig. 1 
+presents a flowchart of recruitment and specific reasons for participants’ 
+dropout. Notably, the 13 dropout patients show a significant (p &lt; 0.05) 
+lower fatigue, anxiety, depression, WASO, MWBT, and higher SE and 
+TST in the baseline compared to the completer (Appendix 3). Table 1 
+demonstrates that there were no significant differences (p ≥ 0.05) in 
+sociodemographic and clinical characteristics across the four groups. 
+The vast majority of participants were female (98.64%) and married 
+(98.64%). Their mean age was 51.41 ± 8.85 years, and the majority had 
+a primary-school education level or below (68.03%), were unemployed 
+(81.63%), and had undergone surgery (90.48%) without recurrence 
+(99.32%). In addition, most patients were at neoplasm stage II or below 
+(76.87%). Most (70.75%) had already received between one and five 
+rounds of chemotherapy. 
+3.2. Study outcomes 
+The results of interventions on PSQI, sleep parameters measured by 
+wrist actigraphy, fatigue, anxiety, and depression are presented in 
+Table 2. The changes over time in the mean (and standard deviation) of 
+all outcomes are shown in Appendix 4. The results of ANOVA showed a 
+significant difference (p &lt; 0.05) in PSQI, and all sleep parameters 
+measured by wrist actigraphy, and anxiety between groups. Simulta-
+neously, ANOVA showed a significant difference (p &lt; 0.05) over time in 
+PSQI, and all sleep parameters measured by wrist actigraphy, fatigue, 
+and anxiety. The interaction effects were significant for PSQI, anxiety, 
+and all sleep parameters measured by wrist actigraphy with an excep-
+tion for SL (p = 0.243). Notably, there was no significant difference (p ≥
+0.05) in the depression between groups, within the group, and interac-
+tion effects. The results of further pairwise comparisons between the 
+four groups by LSD are presented in Table 3. The three active treatments 
+led to better PSQI outcomes (p &lt; 0.001), reduced fatigue (p &lt; 0.001), 
+decreased anxiety (p &lt; 0.05), and improved sleep measured by all 
+actigraphy indices with two exceptions (MBSR did not differ from con-
+trol on SL (p = 0.235) and MWBT (p = 0.058)). Additionally, MBSR, but 
+not acupressure and combined treatment, led to reduced depression, 
+compared to control (p &lt; 0.05). Importantly, both acupressure and the 
+combined intervention outperformed MBSR on four actigraphy indices: 
+SE, SL, TST, and WASO (p &lt; 0.05), and the combined intervention 
+further outperformed MBSR on PSQI (p = 0.03) and NOA (p = 0.003). 
+Moreover, there was no significant difference (p ≥ 0.05) across all 
+outcomes between acupressure and combined intervention. 
+4. Discussion 
+This study is the first to compare the effects of MBSR, acupressure, 
+and MBSR combined with acupressure on sleep quality and fatigue in 
+patients with breast cancer. The main findings are that MBSR, 
+acupressure, and MBSR with acupressure all have varying degrees of 
+positive effect on breast cancer patients’ sleep quality, fatigue, and 
+anxiety. Notably, MBSR combined with acupressure shows a remarkable 
+advantage in improving sleep quality in breast cancer patients. 
+Unexpectedly, the rate of participants refusing to participate 
+(37.76%) was high. This may be partly explained by how most cancer 
+patients and family members are more concerned with disease treatment 
+and prognosis than psychological well-being. In addition, all partici-
+pants in this study experienced sleep disorders, possibly resulting in 
+their disinterest in participation. Surprisingly, the dropout rate was 
+relatively higher (26.32%) in the MBSR group. This may be because 
+more than half of the patients (64.29%) in the MBSR group had a 
+primary-school education level or below, which may have caused some 
+difficulty in understanding and maintaining the essence of MBSR. This 
+result is consistent with a previous study with a drop-out rate of 28.89% 
+Q. Liu et al.</paragraph></page><page number="5"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+5
+after completion of an eight-week MBSR intervention (Witek Janusek 
+et al., 2019). Another surprising result is that the mean age was signif-
+icantly lower for dropout patients than for included patients. This might 
+be partly due to the fact that the majority of older patients are more 
+accustomed to a static lifestyle and are more likely to accept and adhere 
+to MBSR practices. The dropout participants also showed lower fatigue, 
+anxiety, depression, WASO, and MWBT as well as higher SE and TST 
+than the included participants. This may explain one reason for drop-
+ping out; patients were less motivated to participate after their sleep and 
+psychological problems improved. 
+In this study, the participants were patients diagnosed with sleep 
+disorders through both self-reporting and actigraphy monitoring; thus, 
+the simple subjective sleep disorder can be partly avoided. This study 
+showed that MBSR, acupressure, and MBSR with acupressure all 
+significantly improved patients’ sleep quality compared to the control 
+group. Meanwhile, further pairwise comparison results indicated that 
+acupressure and combined therapy were more effective for improving 
+objective sleep quality than MBSR, and the combined treatment further 
+outperformed MBSR on subjective sleep quality. However, compared to 
+acupressure, combined treatment had no significant advantage in 
+improving sleep quality. This suggests that acupressure alone can 
+improve the objective sleep quality of patients in the short term, while 
+combined treatment was recommended to improve patients’ subjective 
+and objective sleep. A recent study indicated that self-administered 
+acupressure taught as a short training course is effective in improving 
+sleep quality in individuals with insomnia disorder (Yeung et al., 2022). 
+Since acupressure can stimulate body nerves, and muscles through 
+finger massage and pressure to promote nerve and muscle regulation 
+and inhibit cerebral cortex response, the human body enters a relaxed 
+and comfortable natural state, and sleep quality is improved (Min et al., 
+2021). 
+Although MBSR is not better than acupressure or combined therapy 
+at improving patients’ subjective or objective sleep quality, MBSR was 
+effective at improving patients’ subjective or objective sleep quality 
+compared with the control group. As MBSR intends to cultivate 
+nonjudgmental awareness of the present moment to develop greater 
+emotional balance, it may reduce stress and facilitate sleep quality in 
+those confronted with cancer (Zhang et al., 2019). Related research 
+indicated that mindfulness meditation can affect cognitive behavior 
+patterns and improve sleep quality by changing brain structures and 
+networks, decreasing automatic responses, and increasing relaxation 
+responses (Black et al, 2015). However, there is limited evidence that 
+MBSR can improve actigraphy sleep parameters, and most studies only 
+focus on patients’ self-reported sleep quality rather than objective out-
+comes (Chen et al., 2020). In addition, the actual effect of MBSR may be 
+affected by the higher rate of loss to follow-up in the MBSR group. 
+Gaining patients’ trust and making MBSR more well-received are 
+important for improving compliance with MBSR interventions in future 
+studies. 
+Our study indicated that MBSR, acupressure, and MBSR with 
+acupressure were all beneficial for relieving breast cancer patients’ fa-
+tigue. Further, pairwise comparison results showed that there was no 
+significant difference in effect on fatigue among the three intervention 
+groups. This shows that acupressure, MBSR, or combined therapy can be 
+used as an effective strategy for relieving fatigue in breast cancer pa-
+tients. Research has demonstrated that acupressure is effective at alle-
+viating the fatigue of cancer patients undergoing chemotherapy and has 
+suggested that nursing personnel could incorporate acupressure into 
+clinical practice as part of a multimodal approach to alleviating fatigue 
+in cancer survivors (Khanghah et al., 2019). Although compliance was 
+lower in the MBSR group, patients who remained enrolled in the study 
+still benefited from MBSR practice. In this study, MBSR with acupressure 
+did not demonstrate better effects in alleviating patients’ fatigue. The 
+combination of the two interventions could cause patients to be 
+distracted or choose only one intervention in practice based on their 
+preferences. 
+MBSR, acupressure, and combined therapy all showed a positive 
+effect on patients’ anxiety; there was no difference between their out-
+comes. This result is consistent with those of previous studies indicating 
+that acupressure can promote sleep and calm emotions by stimulating 
+nerve responses and releasing serotonin (Chen et al., 2022a, 2022b). In 
+addition, research has demonstrated that sleep quality is associated with 
+anxiety, which can indirectly explain why MBSR, acupressure, and 
+combined therapy can alleviate patients’ anxiety (Maass et al., 2020). 
+Since anxiety is characterized as a kind of agitated emotion produced by 
+excessive worry about the safety of relatives or their own lives, future, 
+Fig. 1. Participants CONSORT flow chart.  
+Q. Liu et al.</paragraph></page><page number="6"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+6
+and fate (Zigmond and Snaith, 1983), the practice of MBSR and 
+acupressure allows patients to focus on the present, relax their mind and 
+body, get rid of worries about irrelevant things, and further ameliorate 
+anxiety. Interestingly, MBSR is beneficial for decreasing depression, 
+compared with the control group. This result is consistent with a pre-
+vious systematic review indicating that MBSR interventions are highly 
+beneficial for reducing depression in the short term (Chang et al., 2021). 
+However, acupressure and combined therapy were ineffective at alle-
+viating patients’ depression. This result is inconsistent with an existing 
+systematic review (Lin et al., 2022). This may be partly explained by the 
+fact that the baseline depression score of participants in this study was 
+&gt;10. The significant difference in anxiety and depression between in-
+terventions was not likely to be found due to a ceiling effect because the 
+average baseline HADS scores of participants in this study were over the 
+threshold for clinically significant anxiety and depression. 
+Notably, in this study, the MBSR and acupressure were delivered by 
+trained clinical nurses. Integrating acupressure and MBSR into clinical 
+nursing care might achieve positive effects. This reflects the dissemi-
+nation and application potential of MBSR, and acupressure in hospital-
+ized patients. In this study, the adherence of participants in the 
+acupressure group was higher than that of the MBSR and combined 
+groups. This may be partly explained by that acupressure, as a common 
+treatment of traditional Chinese medicine, is more easily accepted and 
+trusted by the Chinese population. MBSR practice requires participants 
+to fully understand instructions and focus their attention, which may be 
+difficult for some older patients with low education levels. Notably, 
+although there was no COVID-19 outbreak in the study setting, many 
+public health measures such as quarantine requirements for admission 
+to the hospital were still being implemented to prevent the spread of 
+COVID-19, which makes recruitment and follow-up of this study more 
+difficult. 
+4.1. Limitations 
+Despite the positive effects of MBSR, acupressure, and MBSR with 
+acupressure on patients’ sleep quality, fatigue, and anxiety, this study 
+has several limitations. First, the participants were recruited from only 
+one hospital in the south of China, which limits the generalizability of 
+the findings. Second, although the number of participants met the re-
+quirements of sample size, the sample size is relatively small, which may 
+reduce the possibility of finding positive results. Third, part of the in-
+terventions was performed in an inpatient setting, which may increase 
+the risk of some contamination and confounding factors. Notably, the 10 
+repeated measure ANOVAs conducted increase the likelihood of a type I 
+error. In addition, although the intervention lasted for eight weeks, the 
+long-term effects cannot be observed due to a lack of further follow-up. 
+A future study with a longer follow-up period should be conducted to 
+confirm the effects. Moreover, since the control group received routine 
+Table 1 
+Social-demographic and clinical characteristics of participants.  
+Variables 
+Total(N = 147) n 
+(%) 
+Control (N = 34) n 
+(%) 
+MBSR (N = 38) n 
+(%) 
+Acupressure (N = 36) n 
+(%) 
+Combined (N = 39) n 
+(%) 
+F/χ2 
+p 
+Gender      
+5.949 
+0.114a 
+Male 
+2(1.36) 
+2(5.88) 
+0(0) 
+0(0) 
+0(0)   
+Female 
+145(98.64) 
+32(94.12) 
+38(100) 
+36(100) 
+39(100) 
+Age(Mean ± SD) 
+51.41 ± 8.85 
+51.41 ± 10.10 
+48.58 ± 8.48 
+53.06 ± 8.29 
+52.67 ± 8.19 
+2.013 
+0.115b 
+Age cohorts      
+14.002 
+0.122a 
+≤44 
+27(18.37) 
+7(20.59) 
+11(28.95) 
+3(8.34) 
+6(15.38)   
+45–59 
+89(60.54) 
+20(58.82) 
+24(63.16) 
+21(58.33) 
+24(61.54) 
+60–74 
+29(19.73) 
+6(17.65) 
+3(7.89) 
+12(33.33) 
+8(20.52) 
+75–89 
+2(1.36) 
+1(2.94) 
+0(0) 
+0(0) 
+1(2.56) 
+Marital status      
+2.774 
+0.428a 
+Married 
+145(98.64) 
+34(100) 
+37(97.37) 
+35(97.22) 
+39(100)   
+Unmarried or Divorced 
+2(1.36) 
+0(0) 
+1(2.63) 
+1(2.78) 
+0(0) 
+Education level      
+3.619 
+0.728a 
+Primary school or below 
+100(68.03) 
+26(76.47) 
+25(65.79) 
+24(66.67) 
+25(64.11)   
+Middle or high school 
+27(18.36) 
+5(14.71) 
+9(23.68) 
+7(19.44) 
+6(15.38) 
+University degree 
+20(13.61) 
+3(8.82) 
+4(10.53) 
+5(13.89) 
+8(20.51) 
+Employment      
+2.678 
+0.444a 
+Employed 
+27(18.37) 
+6(17.65) 
+4(10.53) 
+8(22.22) 
+9(23.08)   
+Unemployed 
+120(81.63) 
+28(82.35) 
+34(89.47) 
+28(77.78) 
+30(76.92) 
+Relapse      
+2.951 
+0.399a 
+Yes 
+1(0.68) 
+1(2.94) 
+0(0) 
+0(0) 
+0(0)   
+No 
+146(99.32) 
+33(97.06) 
+38(100) 
+36(100) 
+39(100)   
+Surgery      
+7.294 
+0.063a 
+Yes 
+133(90.48) 
+33(97.06) 
+37(97.37) 
+30(83.33) 
+34(87.18)   
+No 
+14(9.52) 
+1(2.94) 
+1(2.63) 
+6(16.67) 
+5(12.82)   
+Neoplasm staging      
+5.064 
+0.956a 
+0 
+5(3.40) 
+2(5.88) 
+0(0) 
+1(2.78) 
+2(5.13)   
+I 
+33(22.45) 
+8(23.53) 
+8(21.05) 
+9(25.00) 
+8(20.51)   
+II 
+75(51.02) 
+17(50.00) 
+20(52.64) 
+17(47.22) 
+21(53.85)   
+III 
+25(17.01) 
+5(14.71) 
+8(21.05) 
+7(19.44) 
+5(12.82)   
+IV 
+9(6.12) 
+2(5.88) 
+2(5.26) 
+2(5.56) 
+3(7.69)   
+Frequency of 
+chemotherapy      
+2.013 
+0.339a 
+1-5 
+104(70.75) 
+26(76.47) 
+27(71.06) 
+24(66.67) 
+27(69.23)   
+6-10 
+31(21.09) 
+4(11.76) 
+9(23.68) 
+10(27.77) 
+8(20.51)   
+11-15 
+5(3.40) 
+1(2.95) 
+2(5.26) 
+0(0) 
+2(5.13)   
+16-20 
+3(2.04) 
+2(5.88) 
+0(0) 
+1(2.78) 
+0(0)   
+20 or above 
+4(2.72) 
+1(2.94) 
+0(0) 
+1(2.78) 
+2(5.13)   
+Note：. 
+MBSR: Mindfulness-based stress reduction. 
+SD: Standard deviation. 
+a χ2 test. 
+b Analysis of variance. 
+Q. Liu et al.</paragraph></page><page number="7"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+7
+care and was not given a placebo, we could not find and explain the 
+contribution of the placebo effect in this study. Lastly, a consistency 
+analysis between subjective and objective sleep quality was not con-
+ducted in this study. 
+5. Conclusion 
+These findings provide supplementary evidence for ameliorating 
+sleep quality, fatigue, anxiety, and depression in breast cancer patients 
+with sleep disorders by comparing the effects of MBSR, acupressure, and 
+MBSR with acupressure. Compared to MBSR, acupressure and combined 
+therapy demonstrate a remarkable advantage in improving actigraphy- 
+assessed sleep quality. Importantly, MBSR combined with acupressure 
+outperformed MBSR in improving subjective sleep quality. In future 
+clinical practice, we should select appropriate intervention methods 
+according to the symptoms and characteristics of cancer patients with 
+sleep disorders. This study suggested that it would be a valuable attempt 
+to incorporate MBSR and acupressure as complementary therapies for 
+ameliorating patients’ sleep quality into daily nursing care. 
+Credit author statement 
+Qixi Liu: Conceptualization, project implementation. Chunfeng 
+Wang: Methodology, drafting the article, and revising. Ying Wang: Data 
+curation, Writing – review &amp; editing. Wenkui Xu: Data curation and 
+interpretation of data. Jinqing Wu: Resources, project administration. 
+Chenju Zhan: Resources, project administration. Rong Hu: Methodol-
+ogy, Validation, project design, and supervision. 
+Funding 
+This study was supported by the Clinical special project of Fujian 
+University of Traditional Chinese Medicine (Grant No. XB2019060). 
+Table 2 
+Comparisons of outcomes between three intervention groups and control group at different time points.  
+Outcomes 
+Group 
+T0（Mean ± SD） 
+T1（Mean ± SD） 
+T2（Mean ± SD） 
+Between groups (F, p) 
+Within group (F, p) 
+Interaction effect (F, p) 
+PSQI 
+Control 
+11.15 ± 1.73 
+11.21 ± 2.98 
+11.26 ± 2.84 
+13.223,＜0.001 
+101.560, &lt;0.001 
+15.529, &lt;0.001 
+MBSR 
+10.82 ± 2.51 
+10.26 ± 2.89 
+7.18 ± 2.84 
+Acupressure 
+11.42 ± 2.38 
+8.33 ± 2.48 
+7.03 ± 2.15 
+Combined 
+11.28 ± 2.73 
+8.10 ± 2.86 
+5.92 ± 1.91 
+SE 
+Control 
+81.32 ± 4.32 
+82.11 ± 4.98 
+80.61 ± 9.57 
+21.856, &lt;0.001 
+69.126, &lt;0.001 
+11.986, &lt;0.001 
+MBSR 
+81.86 ± 5.69 
+84.52 ± 8.37 
+92.42 ± 6.63 
+Acupressure 
+82.29 ± 3.33 
+91.27 ± 6.13 
+91.86 ± 7.60 
+Combined 
+80.77 ± 5.81 
+90.47 ± 6.99 
+93.74 ± 5.72 
+SL* 
+Control 
+271.97 ± 89.36 
+265.99 ± 106.96 
+221.16 ± 163.04 
+5.245, 0.002 
+10.704, &lt;0.001 
+1.330, 0.243 
+MBSR 
+268.87 ± 117.87 
+240.79 ± 106.78 
+191.53 ± 116.83 
+Acupressure 
+239.18 ± 114.79 
+162.88 ± 119.22 
+199.83 ± 117.64 
+Combined 
+255.81 ± 134.11 
+181.15 ± 134.80 
+161.45 ± 133.62 
+TST 
+Control 
+439.13 ± 23.35 
+443.41 ± 26.92 
+435.31 ± 51.70 
+20.307, &lt;0.001 
+57.674, &lt;0.001 
+9.621, &lt;0.001 
+MBSR 
+442.07 ± 30.73 
+458.01 ± 50.12 
+491.58 ± 45.32 
+Acupressure 
+444.34 ± 18.00 
+492.85 ± 33.11 
+496.06 ± 41.05 
+Combined 
+436.17 ± 31.40 
+490.72 ± 40.00 
+505.35 ± 32.75 
+WASO* 
+Control 
+309.41 ± 72.69 
+289.93 ± 102.45 
+268.21 ± 126.18 
+17.301, &lt;0.001 
+84.082, &lt;0.001 
+7.011, &lt;0.001 
+MBSR 
+290.70 ± 95.73 
+238.36 ± 134.11 
+138.63 ± 101.72 
+Acupressure 
+309.65 ± 75.28 
+146.06 ± 92.39 
+113.81 ± 108.17 
+Combined 
+292.89 ± 104.75 
+156.49 ± 99.86 
+117.04 ± 97.86 
+NOA 
+Control 
+20.74 ± 5.78 
+19.03 ± 6.80 
+19.09 ± 7.75 
+11.968, &lt;0.001 
+36.118, &lt;0.001 
+2.815, 0.011 
+MBSR 
+20.32 ± 5.75 
+17.55 ± 7.45 
+13.66 ± 5.23 
+Acupressure 
+20.39 ± 6.35 
+14.00 ± 7.06 
+12.67 ± 4.07 
+Combined 
+19.82 ± 7.94 
+12.95 ± 7.67 
+10.72 ± 5.37 
+MWBT* 
+Control 
+249.94 ± 92.49 
+264.21 ± 124.05 
+256.51 ± 138.05 
+4.51, 0.005 
+11.202, &lt;0.001 
+2.505, 0.024 
+MBSR 
+234.50 ± 101.45 
+238.38 ± 136.05 
+195.13 ± 136.77 
+Acupressure 
+258.03 ± 93.55 
+187.08 ± 129.10 
+127.15 ± 119.26 
+Combined 
+262.95 ± 98.17 
+215.27 ± 123.32 
+169.80 ± 151.85 
+Fatigue 
+Control 
+7.00 ± 2.01 
+6.90 ± 1.39 
+7.01 ± 1.54 
+15.856, &lt;0.001 
+50.568, &lt;0.001 
+6.349, &lt;0.001 
+MBSR 
+6.40 ± 1.43 
+5.61 ± 1.43 
+4.65 ± 1.26 
+Acupressure 
+6.79 ± 1.10 
+5.39 ± 1.30 
+5.25 ± 1.36 
+Combined 
+6.69 ± 1.15 
+5.17 ± 1.28 
+4.80 ± 1.06 
+Anxiety 
+Control 
+11.18 ± 2.12 
+11.24 ± 2.27 
+11.47 ± 2.29 
+3.439, 0.019 
+10.893, &lt;0.001 
+2.289, 0.039 
+MBSR 
+10.47 ± 3.40 
+9.74 ± 3.47 
+9.29 ± 2.95 
+Acupressure 
+11.25 ± 3.07 
+10.39 ± 2.76 
+9.06 ± 3.07 
+Combined 
+11.15 ± 3.45 
+10.56 ± 2.54 
+8.85 ± 2.33 
+Depression 
+Control 
+10.29 ± 2.26 
+10.74 ± 2.09 
+11.44 ± 3.14 
+2.226, 0.088 
+0.145, 0.853 
+0.808, 0.558 
+MBSR 
+9.74 ± 4.68 
+9.74 ± 3.52 
+9.34 ± 3.29 
+Acupressure 
+10.69 ± 3.38 
+10.42 ± 3.10 
+10.17 ± 3.46 
+Combined 
+10.21 ± 3.48 
+9.92 ± 4.16 
+9.26 ± 3.06 
+These results were obtained from a repeated-measures analysis of variance (ANOVA). 
+MD: Mean difference. 
+SD: Standard deviation. 
+MBSR: Mindfulness-based stress reduction. 
+PSQI: Pittsburgh Sleep Quality Index. 
+SE: sleep efficiency. 
+SL: sleep latency. 
+TST: total sleep time. 
+WASO: wake after sleep onset. 
+NOA: number of awakings. 
+MWBT: mean waking by time. 
+Q. Liu et al.</paragraph></page><page number="8"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+8
+Data availability 
+The datasets used or analyzed during the current study are available 
+from the corresponding author on reasonable request. 
+Declaration of competing interest 
+The authors declare no conflict of interest. 
+Acknowledgments 
+We would like to thank all participants for their time and feedback. 
+We would like to thank Editage (www.editage.cn) for English language 
+editing. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.ejon.2022.102219. 
+References 
+Abedian, Z., Eskandari, L., Abdi, H., Ebrahimzadeh, S., 2015. The effect of acupressure 
+on sleep quality in menopausal women: a randomized control trial. Iran. J. Med. Sci. 
+40 (4), 328–334. 
+Abrahams, H.J.G., Knoop, H., Schreurs, M., Aaronson, N.K., Jacobsen, P.B., Newton, R. 
+U., Courneya, K.S., Aitken, J.F., Arving, C., Brandberg, Y., Chambers, S.K., 
+Gielissen, M.F.M., Glimelius, B., Goedendorp, M.M., Graves, K.D., Heiney, S.P., 
+Horne, R., Hunter, M.S., Johansson, B., Northouse, L.L., Oldenburg, H.S.A., Prins, J. 
+B., Savard, J., van Beurden, M., van den Berg, S.W., Verdonck-de Leeuw, I.M., 
+Buffart, L.M., 2020. Moderators of the effect of psychosocial interventions on fatigue 
+in women with breast cancer and men with prostate cancer: Individual patient data 
+meta-analyses. Psychooncology 29 (11), 1772–1785. https://doi.org/10.1002/ 
+pon.5522. 
+Arab, Z., Shariati, A.R., Asayesh, H., Vakili, M.A., Bahrami-Taghanaki, H., Azizi, H., 
+2016. A sham-controlled trial of acupressure on the quality of sleep and life in 
+haemodialysis patients. Acupunct. Med. 34 (1), 2–6. https://doi.org/10.1136/ 
+acupmed-2014-010369. 
+Bjelland, I., Dahl, A., Haug, T., Neckelmann, D.J. J.o. p. r., 2002. The validity of the 
+hospital anxiety and depression scale: an Updated literature review. J. Psychosom. 
+Res. 52 (2), 69–77. https://doi.org/10.1016/s0022-3999(01)00296-3. 
+Black, D., O’Reilly, G., Olmstead, R., Breen, E., Irwin, M., 2015. Mindfulness meditation 
+and improvement in sleep quality and daytime impairment among older adults with 
+sleep disturbances: a randomized clinical trial. JAMA Intern. Med. 175 (4), 494–501. 
+https://doi.org/10.1001/jamainternmed.2014.8081. 
+Buysse, D., Reynolds, C., Monk, T., Berman, S., Kupfer, D., 1989. The Pittsburgh Sleep 
+Quality Index: a new instrument for psychiatric practice and research. Psychiatr. 
+Res. 28 (2), 193–213. https://doi.org/10.1016/0165-1781(89)90047-4. 
+Chang, Y., Lin, G., Yeh, T., Chang, Y., Yang, C., Lo, C., Hu, W.Y., 2022. Impact of 
+mindfulness-based stress reduction on female sexual function and mental health in 
+patients with breast cancer. Support. Care Cancer 30 (5), 4315–4325. https://doi. 
+org/10.1007/s00520-021-06540-y. 
+Chang, Y.C., Yeh, T.L., Chang, Y.M., Hu, W.Y., 2021. Short-term effects of randomized 
+mindfulness-based intervention in female breast cancer survivors: A systematic 
+review and meta-analysis. Cancer Nurs 44 (6), E703–E714. https://doi.org/ 
+10.1097/NCC.0000000000000889. 
+Chen, M.L., Yu, C.T., Yang, C.H., 2008. Sleep disturbances and quality of life in lung 
+cancer patients undergoing chemotherapy. Lung Cancer 62 (3), 391–400. https:// 
+doi.org/10.1016/j.lungcan.2008.03.016. 
+Chen, S., Hou, W., Lai, J., Kwong, J., Lin, P., 2022a. Effects of acupressure on anxiety: a 
+systematic review and meta-analysis. J. Integr. Compl. Med. 28 (1), 25–35. https:// 
+doi.org/10.1089/jicm.2020.0256. 
+Chen, S.R., Hou, W.H., Lai, J.N., Kwong, J.S.W., Lin, P.C., 2022b. Effects of acupressure 
+on anxiety: a systematic review and meta-analysis. J. Integr. Complement. Med. 28 
+(1), 25–35. https://doi.org/10.1089/jicm.2020.0256. 
+Chen, T.L., Chang, S.C., Hsieh, H.F., Huang, C.Y., Chuang, J.H., Wang, H.H., 2020. 
+Effects of mindfulness-based stress reduction on sleep quality and mental health for 
+insomnia patients: a meta-analysis. J. Psychosom. Res. 135, 110144 https://doi.org/ 
+10.1016/j.jpsychores.2020.110144. 
+Ge, L., Wang, Q., He, Y., Wu, D., Zhou, Q., Xu, N., International Trustworthy traditional 
+Chinese Medicine Recommendations Working, G, 2022. Acupuncture for cancer 
+pain: an evidence-based clinical practice guideline. Chin. Med. 17 (1), 8. https://doi. 
+org/10.1186/s13020-021-00558-4. 
+Gu, J., Strauss, C., Bond, R., Cavanagh, K., 2015. How do mindfulness-based cognitive 
+therapy and mindfulness-based stress reduction improve mental health and 
+wellbeing? A systematic review and meta-analysis of mediation studies. Clin. 
+Psychol. Rev. 37, 1–12. https://doi.org/10.1016/j.cpr.2015.01.006. 
+Guimond, A.J., Ivers, H., Savard, J., 2020. Clusters of psychological symptoms in breast 
+cancer: is there a common psychological mechanism? Cancer Nurs. 43 (5), 343–353. 
+https://doi.org/10.1097/NCC.0000000000000705. 
+Hajj, A., Hachem, R., Khoury, R., Hallit, S., El, J.B., Nasr, F., Rabbaa Khabbaz, L., 2021. 
+Clinical and genetic factors associated with anxiety and depression in breast cancer 
+patients: a cross-sectional study. BMC Cancer 21 (1), 872. https://doi.org/10.1186/ 
+s12885-021-08615-9. 
+Hoang, H.T.X., Molassiotis, A., Chan, C.W., Vu, A.H., Bui, P.T., 2022. Pilot randomized 
+sham-controlled trial of self-acupressure to manage the symptom cluster of 
+insomnia, depression, and anxiety in cancer patients undergoing chemotherapy. 
+Sleep Breath. 26 (1), 445–456. https://doi.org/10.1007/s11325-021-02370-8. 
+Kang, C., Sun, S., Yang, Z., Fan, X., Yuan, J., Xu, L., Yang, J., 2021. The psychological 
+effect of internet-based mindfulness-based stress reduction on the survivors of breast 
+cancer during the COVID-19. Front. Psychiatr. 12, 738579 https://doi.org/10.3389/ 
+fpsyt.2021.738579. 
+Khanghah, A.G., Rizi, M.S., Nabi, B.N., Adib, M., Leili, E.K.N., 2019. Effects of 
+acupressure on fatigue in patients with cancer who underwent chemotherapy. 
+J. Acupunct. Meridian Stud. 12 (4), 103–110. https://doi.org/10.1016/j. 
+jams.2019.07.003. 
+Leysen, L., Lahousse, A., Nijs, J., Adriaenssens, N., Mairesse, O., Ivakhnov, S., 
+Beckwee, D., 2019. Prevalence and risk factors of sleep disturbances in breast 
+Table 3 
+Pairwise comparisons of sleep quality, fatigue, anxiety and depression between three intervention groups and control group.  
+Outcomes 
+MBSR vs. Control 
+Acupressure vs. Control 
+Combined vs. Control 
+MBSR vs. Acupressure 
+MBSR vs. Combined 
+Acupressure vs. Combined 
+MD 
+p 
+MD 
+p 
+MD 
+p 
+MD 
+p 
+MD 
+p 
+MD 
+p 
+PSQI 
+−1.785 
+&lt;0.001 
+−2.280 
+&lt;0.001 
+−2.770 
+&lt;0.001 
+0.495 
+0.283 
+0.985 
+0.030 
+0.490 
+0.285 
+SE 
+4.920 
+&lt;0.001 
+7.124 
+&lt;0.001 
+6.976 
+&lt;0.001 
+−2.204 
+0.026 
+−2.056 
+0.034 
+0.148 
+0.879 
+SL 
+−19.311 
+0.235 
+−52.410 
+0.002 
+−53.569 
+0.001 
+33.098 
+0.040 
+34.258 
+0.030 
+1.160 
+0.942 
+TST 
+24.603 
+&lt;0.001 
+38.469 
+&lt;0.001 
+38.132 
+&lt;0.001 
+−13.866 
+0.013 
+−13.529 
+0.014 
+0.337 
+0.951 
+WASO 
+−66.620 
+&lt;0.001 
+−99.343 
+&lt;0.001 
+−100.378 
+&lt;0.001 
+32.723 
+0.038 
+33.758 
+0.029 
+1.035 
+0.947 
+NOA 
+−2.442 
+0.008 
+−3.933 
+&lt;0.001 
+−5.122 
+&lt;0.001 
+1.490 
+0.096 
+2.680 
+0.003 
+1.190 
+0.180 
+MWBT 
+−34.216 
+0.058 
+−66.133 
+&lt;0.001 
+−40.883 
+0.023 
+31.916 
+0.072 
+6.667 
+0.700 
+−25.250 
+0.152 
+Fatigue 
+−1.418 
+&lt;0.001 
+−1.157 
+&lt;0.001 
+−1.418 
+&lt;0.001 
+−0.261 
+0.268 
+−0.000 
+1.000 
+0.261 
+0.265 
+Anxiety 
+−1.461 
+0.003 
+−1.063 
+0.029 
+−1.106 
+0.021 
+0.398 
+0.397 
+−0.355 
+0.442 
+0.043 
+0.926 
+Depression 
+−1.218 
+0.024 
+−0.398 
+0.465 
+−1.029 
+0.055 
+−0.821 
+0.122 
+−0.190 
+0.714 
+0.631 
+0.231 
+These results were obtained from a Least Significant Difference (LSD) test. 
+MD: Mean difference. 
+SD: Standard deviation. 
+MBSR: Mindfulness-based stress reduction. 
+PSQI: Pittsburgh Sleep Quality Index. 
+SE: sleep efficiency. 
+SL: sleep latency. 
+TST: total sleep time. 
+WASO: wake after sleep onset. 
+NOA: number of awaking. 
+MWBT: mean waking by time. 
+Q. Liu et al.</paragraph></page><page number="9"><paragraph>European Journal of Oncology Nursing 61 (2022) 102219
+9
+cancersurvivors: systematic review and meta-analyses. Support. Care Cancer 27 (12), 
+4401–4433. https://doi.org/10.1007/s00520-019-04936-5. 
+Li, Q., Lin, Y., Hu, C., Xu, Y., Zhou, H., Yang, L., Xu, Y., 2016. The Chinese version of 
+hospital anxiety and depression scale: psychometric properties in Chinese cancer 
+patients and their family caregivers. Eur. J. Oncol. Nurs. 25, 16–23. https://doi.org/ 
+10.1016/j.ejon.2016.09.004. 
+Lin, J., Chen, T., He, J., Chung, R.C.K., Ma, H., Tsang, H.W.H., 2022. Impacts of 
+acupressure treatment on depression: a systematic review and meta-analysis. World 
+J. Psychiatr. 12 (1), 169–186. https://doi.org/10.5498/wjp.v12.i1.169. 
+Lin, L., Zhang, Y., Qian, H.Y., Xu, J.L., Xie, C.Y., Dong, B., Tian, L., 2021. Auricular 
+acupressure for cancer-related fatigue during lung cancer chemotherapy: a 
+randomised trial. BMJ Support. Palliat. Care 11 (1), 32–39. https://doi.org/ 
+10.1136/bmjspcare-2019-001937. 
+Liu, B., Wu, X., Shi, L., Li, H., Wu, D., Lai, X., Li, D., 2021. Correlations of social isolation 
+and anxiety and depression symptoms among patients with breast cancer of 
+Heilongjiang province in China: the mediating role of social support. Nurs. Open 8 
+(4), 1981–1989. https://doi.org/10.1002/nop2.876. 
+Lu, M.J., Lin, S.T., Chen, K.M., Tsang, H.Y., Su, S.F., 2013. Acupressure improves sleep 
+quality of psychogeriatric inpatients. Nurs. Res. 62 (2), 130–137. https://doi.org/ 
+10.1097/NNR.0b013e3182781524. 
+Maass, S., Boerman, L.M., Brandenbarg, D., Verhaak, P.F.M., Maduro, J.H., de Bock, G. 
+H., Berendsen, A.J., 2020. Symptoms in long-term breast cancer survivors: a cross- 
+sectional study in primary care. Breast 54, 133–138. https://doi.org/10.1016/j. 
+breast.2020.09.013. 
+Mendoza, T., Wang, X., Cleeland, C., Morrissey, M., Johnson, B., Wendt, J., Huber, S., 
+1999. The rapid assessment of fatigue severity in cancer patients: use of the Brief 
+Fatigue Inventory. Cancer 85 (5), 1186–1196. https://doi.org/10.1002/(sici)1097- 
+0142(19990301)85:5&lt;1186::aid-cncr24&gt;3.0.co;2-n. 
+Min, J., Kim, B., Park, H., 2021. The effects of auricular acupressure on the sleep of the 
+elderly using polysomnography, actigraphy and blood test: randomized, single-blind, 
+sham control. Compl. Ther. Clin. Pract. 45, 101464 https://doi.org/10.1016/j. 
+ctcp.2021.101464. 
+Muller, K.E., Barton, C.N., 1989. Approximate power for repeated-measures ANOVA 
+lacking sphericity. J. Am. Stat. Assoc. 84 (406), 549–555. 
+Nourizadeh, R., Khanipour, S., Zamiri, R., Namin, M., Khalili, A., Hakimi, S.J. M.a., 2022. 
+A comparison of the effects of self-acupressure and aerobic exercises on sleep 
+disorders of breast cancer survivors: A controlled randomized clinical trial. Med. 
+Acupunct. 34 (2), 131–136. https://doi.org/10.1089/acu.2020.1515. 
+Pilevarzadeh, M., Amirshahi, M., Afsargharehbagh, R., Rafiemanesh, H., Hashemi, S.M., 
+Balouchi, A., 2019. Global prevalence of depression among breast cancer patients: a 
+systematic review and meta-analysis. Breast Cancer Res. Treat. 176 (3), 519–533. 
+https://doi.org/10.1007/s10549-019-05271-3. 
+Pino-Ortega, J., Gomez-Carmona, C.D., Rico-Gonzalez, M., 2021. Accuracy of Xiaomi Mi 
+Band 2.0, 3.0 and 4.0 to measure step count and distance for physical activity and 
+healthcare in adults over 65 years. Gait Posture 87, 6–10. https://doi.org/10.1016/j. 
+gaitpost.2021.04.015. 
+Puigpinos-Riera, R., Serral, G., Sala, M., Bargallo, X., Quintana, M.J., Espinosa, M., 
+Vidal, E., 2020. Cancer-related fatigue and its determinants in a cohort of women 
+with breast cancer: the DAMA Cohort. Support. Care Cancer 28 (11), 5213–5221. 
+https://doi.org/10.1007/s00520-020-05337-9. 
+Ratcliff, C.G., Zepeda, S.G., Hall, M.H., Tullos, E.A., Fowler, S., Chaoul, A., Cohen, L., 
+2021. Patient characteristics associated with sleep disturbance in breast cancer 
+survivors. Support. Care Cancer 29 (5), 2601–2611. https://doi.org/10.1007/ 
+s00520-020-05777-3. 
+Ruel, S., Ivers, H., Savard, M., Gouin, J., Lemieux, J., Provencher, L., Savard, J., 2020. 
+Insomnia, immunity, and infections in cancer patients: results from a longitudinal 
+study. Health Psychol. 39 (5), 358–369. https://doi.org/10.1037/hea0000811. 
+Schell, L.K., Monsef, I., Wockel, A., Skoetz, N., 2019. Mindfulness-based stress reduction 
+for women diagnosed with breast cancer. Cochrane Database Syst. Rev. 3, CD011518 
+https://doi.org/10.1002/14651858.CD011518.pub2. 
+Sung, H., Ferlay, J., Siegel, R.L., Laversanne, M., Soerjomataram, I., Jemal, A., Bray, F., 
+2021. Global cancer Statistics 2020: GLOBOCAN estimates of incidence and 
+mortality worldwide for 36 cancers in 185 countries. CA A Cancer J. Clin. 71 (3), 
+209–249. https://doi.org/10.3322/caac.21660. 
+Tan, J.Y., Liu, J., Suen, L.K.P., Molassiotis, A., Wang, T., 2020. Development and 
+validation of an evidence-based auricular acupressure intervention for managing 
+chemotherapy-induced nausea and vomiting in breast cancer patients. Compl. Ther. 
+Med. 52, 102502 https://doi.org/10.1016/j.ctim.2020.102502. 
+Tian, X., Zhang, Z.L., Jin, Y.F., Chen, H., Jimenez-Herrera, M.F., 2021. The use of 
+mindfulness-based stress reduction (MBSR) for lung cancer patients: protocol for a 
+systematic review and meta-analysis. Ann. Palliat. Med. 10 (7), 8276–8282. https:// 
+doi.org/10.21037/apm-21-194. 
+Vallance, J.K., Nguyen, N.H., Moore, M.M., Reeves, M.M., Rosenberg, D.E., Boyle, T., 
+Milton, S., Friedenreich, C.M., English, D.R., Lynch, B.M., 2020. Effects of the 
+ACTIVity And TEchnology (ACTIVATE) intervention on health-related quality of life 
+and fatigue outcomes in breast cancer survivors. Psychooncology 29 (1), 204–211. 
+https://doi.org/10.1002/pon.5298. 
+VanderWalde, N., Martin, M., Kocak, M., Morningstar, C., Deal, A., Nyrop, K., Muss, H., 
+2021. Randomized phase II study of a home-based walking intervention for 
+radiation-related fatigue among older patients with breast cancer. J. Geriatr. 12 (2), 
+227–234. https://doi.org/10.1016/j.jgo.2020.09.013. 
+Wang, L., Wu, Y.X., Lin, Y.Q., Wang, L., Zeng, Z.N., Xie, X.L., Wei, S.C., 2022. Reliability 
+and validity of the Pittsburgh Sleep Quality Index among frontline COVID-19 health 
+care workers using classical test theory and item response theory. J. Clin. Sleep Med. 
+18 (2), 541–551. https://doi.org/10.5664/jcsm.9658. 
+Wang, X.S., Hao, X.S., Wang, Y., Guo, H., Jiang, Y.Q., Mendoza, T.R., Cleeland, C.S., 
+2004. Validation study of the Chinese version of the Brief fatigue inventory (BFI-C). 
+J. Pain Symptom Manag. 27 (4), 322–332. https://doi.org/10.1016/j. 
+jpainsymman.2003.09.008. 
+Witek Janusek, L., Tell, D., Mathews, H.L., 2019. Mindfulness based stress reduction 
+provides psychological benefit and restores immune function of women newly 
+diagnosed with breast cancer: a randomized trial with active control. Brain Behav. 
+Immun. 80, 358–373. https://doi.org/10.1016/j.bbi.2019.04.012. 
+Yeung, W., Yu, B., Chung, K., Zhang, Z., Lao, L., Ho, F., 2022. Self-administered 
+acupressure for insomnia disorder: a randomized controlled trial. 
+Phytopharmacology 99, 153993. https://doi.org/10.1016/j.phymed.2022.153993. 
+Yoon, H.G., Park, H., 2019. The effect of auricular acupressure on sleep in breast cancer 
+patients undergoing chemotherapy: a single-blind, randomized controlled trial. 
+Appl. Nurs. Res. 48, 45–51. https://doi.org/10.1016/j.apnr.2019.05.009. 
+Zhang, J.Y., Zhou, Y.Q., Feng, Z.W., Fan, Y.N., Zeng, G.C., Wei, L., 2017. Randomized 
+controlled trial of mindfulness-based stress reduction (MBSR) on posttraumatic 
+growth of Chinese breast cancer survivors. Psychol. Health Med. 22 (1), 94–109. 
+https://doi.org/10.1080/13548506.2016.1146405. 
+Zhang, Q., Zhao, H., Zheng, Y., 2019. Effectiveness of mindfulness-based stress reduction 
+(MBSR) on symptom variables and health-related quality of life in breast cancer 
+patients-a systematic review and meta-analysis. Support. Care Cancer 27 (3), 
+771–781. https://doi.org/10.1007/s00520-018-4570-x. 
+Zick, S.M., Kruger, G., Harte, S., Sen, A., Harris, R.E., Pearce, C.L., 2021. Acupressure for 
+Cancer-fatigue in Ovarian Cancer Survivor (AcuOva) Study: a community-based 
+clinical trial study protocol examining the impact of self-acupressure on persistent 
+cancer-related fatigue in ovarian cancer survivors. Contemp. Clin. Trials 107, 
+106477. https://doi.org/10.1016/j.cct.2021.106477. 
+Zigmond, A., Snaith, R., 1983. The hospital anxiety and depression scale. Acta Psychiatr. 
+Scand. 67 (6), 361–370. https://doi.org/10.1111/j.1600-0447.1983.tb09716.x. 
+Q. Liu et al.</paragraph></page></document>

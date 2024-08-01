@@ -1,0 +1,1211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document><page number="1"><paragraph>Original Article
+Mindfulness-Based Cognitive Therapy for Psychological
+Distress, Fear of Cancer Recurrence, Fatigue, Spiritual
+Well-Being, and Quality of Life in Patients With Breast
+CancerdA Randomized Controlled Trial
+Sunre Park, MA, CPSY, RN, Yasuko Sato, MHSc, RN, Yuka Takita, MSN, RN, Noriko Tamura, MA, CPSY,
+Akira Ninomiya, MD, Teppei Kosugi, MD, Mitsuhiro Sado, MD, PhD, MSc, Atsuo Nakagawa, MD, PhD,
+Maiko Takahashi, MD, Tetsu Hayashida, MD, PhD, and Daisuke Fujisawa, MD, PhD, CPSY
+Faculty of Nursing and Medical Care (S.P., Y.T.), Keio University, Shinjuku-ku, Tokyo; Department of Nursing (Y.S.), National Hospital
+Organization Tokyo Medical Center, Meguro-ku, Tokyo; Department of Nursing (Y.T.), Faculty of Health Sciences, Tokyo Kasei University,
+Itabashi-ku, Tokyo; Department of Neuropsychiatry (N.T., Ak.N., T.K., M.S., At.N., D.F.), Keio University School of Medicine, Shinjuku-ku,
+Tokyo; Clinical and Translational Research Center (At.N.), Keio University Hospital, Shinjuku-ku, Tokyo; Department of Surgery (M.T.,
+T.H.), Keio University School of Medicine, Shinjuku-ku, Tokyo; and Division of Patient Safety (D.F.), Keio University School of Medicine,
+Shinjuku-ku, Tokyo, Japan
+Abstract
+Context. Mindfulness-based interventions have been receiving growing attention in cancer care.
+Objectives. The purpose of this randomized controlled trial is to examine the effectiveness of mindfulness-based cognitive
+therapy (MBCT) for psychological distress (anxiety and depression), fear of cancer recurrence (FCR), fatigue, spiritual well-
+being, and quality of life (QOL) in Japanese ambulatory patients with Stage IeIII breast cancer.
+Methods. A total of 74 patients were randomly assigned to either an eight-week MBCT intervention group (n ¼ 38) or a
+wait-list control group (n ¼ 36). The primary outcome was psychological distress, measured on Hospital Anxiety and
+Depression Scale. The secondary outcomes were FCR (Concerns About Recurrence Scaledoverall anxiety subscale), fatigue
+(Brief Fatigue Inventory), spiritual well-being (Functional Assessment of Chronic Illness TherapydSpiritual), QOL
+(Functional Assessment of Cancer TherapydGeneral), and mindfulness skills (Five Facet Mindfulness Questionnaire). The
+participants were assessed at baseline (T0), Week 8 (T1), and Week 12 (T2). The results were analyzed using a intention-to-
+treat linear mixed model.
+Results. The participants in the MBCT group experienced signiﬁcantly better outcomes in their psychological distress
+(Cohen’s d ¼ 1.17; P &lt; 0.001), FCR (d ¼ 0.43; P &lt; 0.05), fatigue (d ¼ 0.66; P &lt; 0.01), spiritual well-being (d ¼ 0.98; P &lt; 0.001),
+and QOL (d ¼ 0.79; P &lt; 0.001) compared with the control group. The difference remained signiﬁcant at T2 (four weeks after
+completion of the intervention).
+Conclusion. MBCT was demonstrated to improve well-being that encompasses psychological, physical, and spiritual
+domains in Japanese patients with nonmetastatic breast cancer. The favorable effect was maintained up to four weeks after the
+completion of the intervention.
+J Pain Symptom Manage 2020;60:381e389. � 2020 American Academy of Hospice and Palliative
+Medicine. Published by Elsevier Inc. All rights reserved.
+Key Words
+Breast cancer, fatigue, fear of cancer recurrence, mindfulness, psychological distress, quality of life
+S. P. and D. F. contributed equally.
+Address correspondence to: Sunre Park, MA, CPSY, RN, Faculty
+of
+Nursing
+and
+Medical
+Care,
+Keio
+University,
+35
+Shinanomachi,
+Shinjuku-ku,
+Tokyo
+160-8582,
+Japan.
+E-mail: spark@keio.jp
+Accepted for publication: February 14, 2020.
+� 2020 American Academy of Hospice and Palliative Medicine.
+Published by Elsevier Inc. All rights reserved.
+0885-3924/$ - see front matter
+https://doi.org/10.1016/j.jpainsymman.2020.02.017
+Vol. 60 No. 2 August 2020
+Journal of Pain and Symptom Management
+381</paragraph></page><page number="2"><paragraph>Key Message
+This article describes a randomized controlled trial
+that demonstrated the effectiveness of mindfulness-
+based cognitive therapy for psychological distress
+(anxiety and depression), fear of cancer recurrence,
+fatigue, spiritual well-being, and quality of life in Japa-
+nese ambulatory patients with Stage IeIII breast
+cancer.
+Introduction
+Breast cancer is the most common kind of cancer
+among women.1 Patients experience a variety of phys-
+ical, psychosocial, and spiritual problems related to
+the illness and its treatment. Clinically signiﬁcant psy-
+chological distress is experienced by up to 50% of
+patients with breast cancer.2,3 Even for patients with
+a good prognosis or for patients who have completed
+cancer treatment, potential risk of cancer progression
+and relapse continues to cause long-term distress to
+patients and survivors, known as the fear of cancer
+recurrence (FCR).4,5 Furthermore, physical symptoms
+such as fatigue and pain impair their social func-
+tioning and quality of life (QOL).6,7 In fact, FCR
+and fatigue are the two most common symptoms
+that cancer survivors experience after completion of
+cancer treatment.4e6,8
+Mindfulness-based approaches have been recently
+establishing
+strong
+evidence
+in
+cancer
+care.9
+Mindfulness-based interventions (MBIs) guide pa-
+tients to focus on the present moment, foster their
+awareness,
+and
+cultivate
+compassionate
+attitudes
+through meditation, yoga, group discussion, and daily
+contemplative practices. These processes lead to bet-
+ter control in their emotion, cognition, and behavior,
+and ultimately to the stability of the mind.9,10 The
+most commonly used MBIs are mindfulness-based
+stress
+reduction
+(MBSR)
+and
+mindfulness-based
+cognitive therapy (MBCT). Although there is no
+substantial difference in the structure of these two
+programs; MBCT incorporates a cognitive therapy
+approach and provides more explicit psychoeducation
+on the relationship among mood, cognition, and
+functioning compared with MBSR.11
+A series of systematic reviews demonstrate that
+MBIs are effective to alleviate psychological distress
+of patients with cancer.12e16 However, the effective-
+ness of MBIs for physical symptoms has been contro-
+versial. Although a few studies have shown beneﬁcial
+effects of MBIs for fatigue and pain,17e20 the results
+have been inconsistent.21,22 Furthermore, research
+for patients with breast cancer so far has been largely
+focused on MBSR, and there have been only a few
+randomized
+controlled
+trials
+of
+MBCT
+in
+this
+context.12,14,15 Of those MBCT trials, there has been
+only one study that speciﬁcally targeted patients
+with breast cancer.19 This study demonstrated the
+efﬁcacy of MBCT on pain and QOL but failed to
+demonstrate a signiﬁcant effect on anxiety, depres-
+sion, or well-being. Thus, to date, the effectiveness
+of MBCT for patients with breast cancer has not
+been conﬁrmed.
+In contrast, in our previous observational study, we
+demonstrated that MBCT yielded signiﬁcant improve-
+ment in psychological distress, spiritual well-being,
+and QOL in a sample of Japanese patients with breast
+cancer.23
+For these reasons, the present study aimed to
+examine the effectiveness of MBCT for psychological
+distress (anxiety and depression) of patients with
+breast cancer in randomized controlled design. Also,
+we aimed to examine whether MBCT alleviates other
+important clinical issues, such as FCR, fatigue, spiri-
+tual well-being, and QOL. The authors hypothesized
+that MBCT is effective for these outcomes.
+Methods
+Design
+This was a randomized controlled trial comparing
+an
+MBCT
+intervention
+and
+the
+wait-list
+control
+(WLC) in ambulatory nonmetastatic breast cancer
+patients.
+Participants
+The eligibility criteria were the following: 1) clinical
+diagnosis of Stage 0eIII breast cancer, 2) aged be-
+tween 20 and 74 years, 3) the Hospital Anxiety and
+Depression Scale (HADS) total score of ﬁve or higher,
+4) Eastern Cooperative Oncology Group performance
+status of 0e2, 5) expected clinical prognosis of one
+year or longer, 6) ability to communicate in Japanese,
+and 7) submission of written informed consent. Pa-
+tients were excluded if they had the experience of
+MBCT or MBSR, or if they had any serious physical
+or
+psychiatric
+symptoms
+to
+impede
+with
+study
+participation.
+Recruitment
+The participants were recruited at Keio University
+Hospital, a tertiary medical facility in central Tokyo,
+Japan. The participants were recruited by self-referral
+through ﬂyers or by referral from oncologists and
+other medical staff during the period between January
+2015 and August 2016. Potential participants were
+invited to an introductory session, where they were ex-
+plained about the details of the study and submitted
+written informed consent.
+Assessments
+Assessments were conducted at three time pointsdat
+baseline (before random allocation) (T0), at eight
+382
+Vol. 60 No. 2 August 2020
+Park et al.</paragraph></page><page number="3"><paragraph>weeks
+(postintervention
+for
+the
+intervention
+group) (T1), and at 12 weeks (i.e., four weeks
+after the completion of the intervention for the inter-
+vention group) (T2).
+Intervention
+The intervention group received an eight-week
+MBCT program (two hours per week) in a group
+format (Table 1). The details of the program are
+illustrated elsewhere.23 The program was based on
+the original MBCT program,11 with minimal modiﬁ-
+cation to ﬁt with the needs of patients with breast
+cancer.23 Although the original MBCT program has
+a daylong retreat session between the sixth and
+seventh weeks, we deleted this session because it
+was considered too burdensome for Japanese patients
+with cancer to join a daylong program. We added
+brief psychoeducation to the ﬁrst session regarding
+the distress of patients with cancer and on how
+MBIs can be helpful for it. Lectures and exercises
+on compassion were provided. Other components
+of the original MBCT program were kept unchanged.
+The program consisted of formal meditational exer-
+cises, psychoeducation based on cognitive therapy,
+and discussion and interaction among the partici-
+pants to facilitate their learning. Homework was
+assigned to the participants at every session, which
+was supposed to take 20e45 minutes every day. Par-
+ticipants
+were
+provided
+with
+a
+meditation-guide
+compact disc. Each group consisted of four to nine
+participants.
+The therapists were clinical psychologists, psychia-
+trists, and nurses who had ﬁve to seven years of mind-
+fulness
+experience
+and
+had
+undergone
+MBCT
+training provided by the Oxford Mindfulness Center.
+The therapists followed the intervention protocol
+schedule at each session to ensure treatment integrity.
+A research assistant directly observed the session and
+checked for treatment adherence.
+For the participants who were allocated to the
+intervention group, there was no restriction on any
+cointerventions during the study period.
+Control
+The participants who were allocated to the control
+group received assessments only during the study
+period. They were asked to refrain from participating
+in any type of MBIs or from engaging in meditational
+exercise (including yoga) during the study period.
+They were invited to an MBCT program conducted
+by the research team after the study period.
+Measurements
+Primary Outcome.
+The primary outcome was psycho-
+logical distress (anxiety and depression), measured by
+the HADS.24 The HADS is a 14-item self-administered
+questionnaire that measures the severity of anxiety
+and depression by seven items each. Scores for each
+subscale range from zero (no distress) to 21 (maximum
+distress). Higher scores indicate a greater level of psy-
+chological distress.
+Table 1
+Contents of the Program
+Session
+Theme
+Contents
+1
+Overview of
+mindfulness
+Psychoeducation: psychological
+reactions of patients with
+cancer/what is mindfulness
+Exercise: Mindfulness eating
+(raisin exercise)/body scan
+Homework: mindfulness eating/
+body scan
+2
+Facing difﬁculties
+Psychoeducation: association of
+mood and thoughts
+Exercise: body scan/mindful
+breathing meditation
+Homework: body scan/mindful
+breathing meditation/pleasant
+activity and event record
+3
+Mindful breathing
+Psychoeducation: pleasant
+activities and events
+Exercise: mindfulness
+meditation/gentle yoga/
+mindful walking
+Homework: mindfulness
+meditation/gentle yoga/
+mindful walking
+4
+Staying present
+Psychoeducation: reactions to
+pleasant and unpleasant events
+Exercise: mindfulness meditations
+Homework: mindfulness
+meditations/three-minute
+breathing space exercise
+5
+Allowing
+(letting it be)
+Psychoeducation: compassion
+(appreciation and gratitude in
+life)
+Exercise: mindfulness
+meditation/compassion
+meditation (loving &amp; kindness)
+Homework: building pleasant
+habits/record of appreciation
+and gratitude/mindfulness
+meditations
+6
+Thoughts are
+not facts
+Psychoeducation: cognitive biases
+Exercise: mindfulness
+meditations/compassion
+meditation
+Homework: record of
+appreciation and gratitude/
+mindfulness meditations
+7
+Taking care
+of yourself
+Psychoeducation: choosing
+functional behaviors/
+behavioral activation/
+identifying triggers
+Exercise: mindfulness
+meditations/compassion
+meditation
+Homework: responses to triggers/
+record of appreciation and
+gratitude/mindfulness
+meditations
+8
+Dealing with
+future
+struggles
+Review of and course/personal
+reﬂections of course/plans for
+future practice/farewell
+Exercise: body scan/mindfulness
+meditations
+Vol. 60 No. 2 August 2020
+383
+MBCT for Breast Cancer: RCT</paragraph></page><page number="4"><paragraph>Secondary Outcomes
+Fear of cancer recurrence.
+We used the Concerns About
+Recurrence Scale (CARS) to evaluate the participants’
+FCR.25 The CARS has been validated in measuring
+FCR in patients with breast cancer. In the present
+study, only the subscale of overall FCR (four items)
+was used to lessen the burden of the participants to
+administer. Higher scores indicate a greater level of
+FCR.
+Fatigue.
+We used the Brief Fatigue Inventory (BFI) to
+evaluate the participants’ fatigue.26 The BFI is a vali-
+dated measure that consists of 10 items. The higher
+scores indicate more intense fatigue.
+Spiritual Well-Being.
+We used the Functional Assess-
+ment of Chronic Illness TherapydSpiritual (FACIT-
+Sp) to measure the participants’ spiritual well-being.27
+The FACIT-Sp is a 12-item self-administered instru-
+ment, which comprises two subscalesdthe sense of
+meaning and faith.
+Quality of Life.
+We evaluated the participants’ QOL
+using the Functional Assessment of Cancer Thera-
+pydGeneral.28 This widely used questionnaire con-
+sists of 27 items, with a higher score indicating
+better
+QOL.
+The
+questionnaire
+comprises
+four
+domainsdphysical, social, emotional, and functional
+well-being.
+Mindfulness Skills.
+We used the Five Facet Mindful-
+ness Questionnaire to assess the participants’ mindful-
+ness
+skills.29
+This
+39-item
+self-administered
+questionnaire measures ﬁve domains of mindfulness
+skillsdobserving, describing, acting with awareness,
+nonjudging of inner experience, and nonreacting
+with inner experience. This scale was used as a process
+measure of the interventiondto measure whether the
+participants have taken up mindfulness skills.
+Adherence to the Intervention.
+The participants’ adher-
+ence to the intervention was evaluated using the atten-
+dance of the program and homework. The patients
+who attended less than four (of eight) sessions were
+considered to be dropouts.
+Sample Size and Randomization
+The sample size of the study was calculated based on
+the results of our pilot study.23 We assumed that the
+HADS total score would decrease from 17.0 to 11.8,
+with SD of 8.0 in the MBCT group, whereas the score
+would remain unchanged in the control group. These
+estimates were considered to satisfy the minimal clini-
+cally important difference of the HADS.24 With 80%
+power and alpha of 0.05, the required sample size
+was calculated as 37 participants in each arm. We
+estimated the dropout rate as 15%, resulting in 88 par-
+ticipants in total.
+The participants were randomly assigned to MBCT
+or WLC at a ratio of 1:1. The randomization was
+managed by an organization independent of the
+research team (Keio University Clinical and Transla-
+tional Research Center). Block randomization was
+conducted by a computer-generated random number
+list
+using
+an
+electronic
+software
+(http://www.
+randomization.com), stratiﬁed by the participants’
+anxiety levels at baseline (10 $ vs. &lt;10 on the
+HADS-anxiety subscale [HADS-A]).
+Statistical Analysis
+Demographic and clinical characteristics of the par-
+ticipants were analyzed by t-test or Chi-squared test to
+examine differences between the groups at baseline.
+For minor missing values (&lt;20% of a scale), we
+imputed them with mean scores of the scale. Primary
+and secondary outcomes were analyzed by a repeated-
+measures approach using a linear intention-to-treat
+mixed-effects model. The model included interactions
+of intercept, time, and time � group as ﬁxed effects.
+The effect size was calculated using Cohen’s d statistics.
+The effect sizes were considered large when d ¼ 0.8 or
+higher, d ¼ 0.5e0.8 as medium, and d ¼ 0.2e0.5 as
+low. Statistical analyses were performed with SPSS,
+Version 25 (IBM SPSS, Chicago, IL).
+Results
+Participants
+Of the 108 potential participants, 34 patients were
+excluded (six ineligible, four declined, and 24 not
+shown up for the introductory session), resulting in
+74
+participants
+who
+submitted
+written
+informed
+consent. Because the dropout rate was lower than
+expected (7.9%), we aborted recruitment before
+reaching the target sample size. These 74 participants
+were randomized to either the MBCT group (n ¼ 38)
+or the control group (n ¼ 36) (Consolidated Stan-
+dards of Reporting Trials diagram: Fig. 1).
+The participants’ mean age was 53.7 years, ranging
+from 38 to 70. Patients with Stage I and II breast can-
+cer comprise the majority. The mean length of time
+since cancer diagnosis was approximately three years.
+There was no signiﬁcant difference in the demo-
+graphic and clinical characteristics of the participants
+between the intervention group and the control group
+(Table 2).
+Intervention Adherence
+Three of 38 patients in the MBCT group attended
+less than four sessions and considered as dropouts
+384
+Vol. 60 No. 2 August 2020
+Park et al.</paragraph></page><page number="5"><paragraph>(dropout rate 7.9%). The reasons for not attending
+were health problems, work circumstances, and family
+issues. The mean number of attended sessions was
+6.76. The mean time spent on homework was 24.2 mi-
+nutes per day (SD 14.6).
+Primary Outcome
+The MBCT group experienced signiﬁcantly greater
+improvement at the eighth week in their psychological
+distress (both in anxiety and depression), compared
+with the control group (the mean difference in the
+HADS
+total
+score
+of
+7.82,
+with
+95%
+CI
+of
+11.28e6.35; P &lt; 0.001), with an effect size of Cohen’s
+d ¼ 1.17. The difference remained signiﬁcant at 12
+weeks (Table 3).
+Secondary Outcomes
+The MBCT group experienced signiﬁcantly greater
+improvement compared with the control group in all
+the secondary outcomes. The effect sizes were large
+for
+spiritual
+well-being
+(FACIT-Sp:
+Cohen’s
+d ¼ 0.91; P &lt; 0.001), moderate for fatigue (BFI:
+d ¼ 0.66; P &lt; 0.01) and QOL (Functional Assess-
+ment
+of
+Cancer
+TherapydGeneral
+total
+score:
+d ¼ 0.79; P &lt; 0.001), and small for FCR (CARS:
+d ¼ 0.43; P &lt; 0.05). The total score of the Five Facet
+Mindfulness
+Questionnaire
+showed
+a
+signiﬁcant
+increase, suggesting that the participants successfully
+acquired mindfulness skills through the program
+(Table 3). No adverse events were observed during
+the study.
+Assessed for eligibility
+(n=108)
+Excluded(n=34)
+Not meeting inclusion criteria(n=6)
+Lower than distress criteria(n=5)
+Age&lt;75years(n=1)
+Declined to participate(n=4)
+No interest(n=1)
+Schedule conflict(n=2)
+Moving out(n=1)
+No show at orientation(n=24)
+Randomized
+(n=74)
+MBCT
+(n=38)
+Wait-list control
+(n=36)
+Discontinued (n=3 ; 7.9%)
+(
+4 sessions)
+Health reasons(n=1)
+Schedule conflict(n=1)
+Family reasons(n=1)
+Post intervention (8 weeks)
+(n=35)
+Post intervention (12 weeks)
+(n=35)
+Included in analyses
+(n=38)
+Post intervention (12weeks)
+(n=35)
+Post intervention (8 weeks)
+(n=36)
+Included in analyses
+(n=36)
+Baseline assessment
+(n=74)
+Fig. 1. Consolidated Standards of Reporting Trials study ﬂow diagram. MBCT ¼ mindfulness-based cognitive therapy.
+Vol. 60 No. 2 August 2020
+385
+MBCT for Breast Cancer: RCT</paragraph></page><page number="6"><paragraph>Discussion
+The present study demonstrated that our MBCT
+intervention
+signiﬁcantly
+reduced
+psychological
+distress (both anxiety and depression) in patients
+with nonmetastatic breast cancer. Also, MBCT was
+proven effective for increasing spiritual well-being
+and QOL and reducing the FCR and fatigue. The ef-
+fect was maintained at four weeks after the completion
+of the treatment. To the best of authors’ knowledge,
+this is the ﬁrst study in Japan that demonstrated the
+effectiveness of MBCT in patients with cancer.
+The HADS total score decreased from 16.13 to 6.18
+after the MBCT intervention. Although there has been
+a variation in proposed cutoff scores for the HADS,
+patients with cancer with a HADS total score of 13
+or more are considered to require psycho-oncologic
+support.30 In a sample of Japanese patients with can-
+cer, a cutoff score of 11 or higher corresponds to
+adjustment disorder.31 In the present study, MBCT
+contributed to alleviating the participants’ psycholog-
+ical distress from a clinical level to a subclinical level.
+This drastic improvement in psychological distress
+agrees with the ﬁndings of the past MBCT study that
+had been conducted in a mixed cancer population.32
+Alleviation of FCR by MBCT is noteworthy. FCR is
+one of the commonest problems of cancer survivors.
+It has been known that FCR will not resolve spontane-
+ously even long after cancer remission, thus speciﬁc
+intervention is needed for cancer survivors who suffer
+from clinically signiﬁcant FCR.4 It is reasonable that
+MBCT is effective for alleviating FCR because MBCT
+considers rumination as a key focus of intervention,
+and rumination is one of the key psychological mech-
+anisms
+of
+FCR.33
+So
+far,
+a
+few
+psychological
+approaches
+have
+been
+developed
+to
+address
+FCR.34e36 They are all relatively new and were specif-
+ically developed for FCR. MBCT may have an advan-
+tage over such interventions in that it is not only
+effective for FCR but also covers a broad spectrum of
+symptom burden.
+Also, it is noteworthy that MBCT relieved patients’
+fatigue. Fatigue is one of the two commonest symp-
+toms of cancer survivors, which signiﬁcantly impairs
+the QOL of patients with cancer. Effective pharmaco-
+therapy has not been established. Although physical
+exercise and sleep management have been proven
+effective, their effect sizes are not intense.8 Further-
+more, it is often not easy for clinicians to lead fatigued
+cancer survivors to physical exercise.
+Furthermore, our MBCT intervention substantially
+improved patients’ QOL and spiritual well-being. It
+is of note that MBCT not only alleviated negative psy-
+chological aspects of patients with cancer but also
+increased positive aspects of their daily lives. Spiritual
+well-being serves to buffer clinically important issues,
+such as pain, fatigue, depression, and wish of hastened
+death.37 Mindfulness, which cultivates a sense of
+wholeness and internal unity, may have the potential
+to
+elucidate
+self-insight
+of
+patients
+with
+cancer
+regarding the meaning of life despite the presence
+of a life-threatening illness.
+A recent meta-analysis on the effectiveness of MBIs
+for patients with cancer and survivors demonstrated
+that larger effects were observed in studies adhering
+to the original MBI manuals, with younger patients,
+with passive control conditions, and with shorter
+time
+to
+follow-up.16
+Our
+study
+ﬁts
+with
+these
+characteristics.
+The strength of the present study includes a robust
+randomized controlled trial design and the low attri-
+tion rate. This attrition rate is substantially low
+compared with the past MBIs. A recent meta-analysis
+showed that the median attrition rate of MBIs in anx-
+iety disorder and depressive disorders was 15.5%.38
+Our MBCT program, which was tailored to ﬁt the
+needs of patients with breast cancer, seems to have
+been well accepted by Japanese patients with breast
+cancer.
+Study Limitations
+The present study has some limitations. First, the
+study sample was relatively small and was limited to
+ambulatory nonmetastatic breast cancer patients in a
+single facility. Second, using of a WLC instead of an
+active control weakens the robustness of the study.
+The effectiveness of our intervention may partly derive
+from nonspeciﬁc effect of group therapy.
+Table 2
+Sociodemographic and Clinical Characteristics of the
+Participants
+Characteristic
+MBCT
+WLC
+P
+n ¼ 38 (%)
+n ¼ 36 (%)
+Sociodemographic
+Age (yrs); mean
+53.21; SD ¼ 8.4
+54.19; SD ¼ 9.27
+0.63
+Married
+23 (60.5)
+30 (83.3)
+0.08
+Not married
+15 (39.5)
+6 (16.7)
+Employed
+17 (44.7)
+18 (50.0)
+0.65
+Unemployed
+21 (55.3)
+18 (50.0)
+Clinical
+Time since diagnosis
+(month); mean
+39.25; SD ¼ 37.24 41.12; SD ¼ 64.92 0.88
+Cancer stage
+0 (carcinoma in situ)
+9 (23.7)
+6 (16.7)
+0.81
+I
+13 (34.2)
+14 (38.9)
+II
+14 (36.8)
+15 (41.7)
+III
+2 (5.3)
+1 (2.7)
+Treatment
+Breast surgery
+37 (97.4)
+35 (97.2)
+0.97
+Chemotherapy
+20 (52.6)
+18 (50.0)
+0.82
+Radiotherapy
+26 (68.4)
+21 (58.3)
+0.37
+Hormonal therapy
+30 (78.9)
+25 (69.4)
+0.35
+Performance status
+0
+34 (89.5)
+31 (86.1)
+0.66
+1
+4 (10.5)
+5 (13.9)
+MBCT ¼ mindfulness-based cognitive therapy; WLC ¼ wait-list control.
+386
+Vol. 60 No. 2 August 2020
+Park et al.</paragraph></page><page number="7"><paragraph>Despite these limitations, our study is noteworthy
+because this is the ﬁrst study that demonstrated that
+our MBCT program, which was speciﬁcally targeted
+for patients with breast cancer, signiﬁcantly improved
+a wide spectrum of symptoms encompassing psycho-
+logical, physical, and spiritual domains. Also, this is
+the ﬁrst study in Japan that demonstrated the effec-
+tiveness of MBCT in patients with cancer. Given that
+MBCT can improve wide range of symptoms (anxiety,
+depression, FCR, fatigue, spiritual well-being, and
+QOL), and given that the program can be delivered
+to many patients at a time in a group format, it would
+be a fascinating option for patients with breast cancer
+who suffer from such symptoms.
+Future research implications include examining
+the long-term effects of the program because the pre-
+sent study evaluated the participants only up to four
+weeks after completion of the intervention. Another
+research implication is dismantling the mechanism
+of the intervention. The program may be shortened
+if essential components of the program become
+clearer. Because we observed that MBCT was effective
+for
+multiple
+symptoms,
+disentangling
+the
+inter-
+relations between each variable and elucidating the
+focus of MBCT can contribute to a more efﬁcient
+way to address symptoms of patients with cancer.
+Exploring the biological effects of MBIs is another
+orientation of research.39,40
+Conclusions
+To the best of authors’ knowledge, this is the ﬁrst
+study that demonstrated that an MBCT program
+that was speciﬁcally targeted for patients with breast
+cancer signiﬁcantly improved a wide spectrum of
+symptoms encompassing psychological, physical, and
+Table 3
+Primary and Secondary Outcomes of MBCT and WLC Groups With Effect Sizes
+MBCT
+WLC
+Difference in Mean Change
+P
+Cohen’s d
+Mean (SD)
+Mean (SD)
+Scorea,b (95% CI)
+Primary outcome
+HADS-overall
+T0
+16.13 (7.47)
+14.81 (6.99)
+T1
+6.18 (4.83)
+14.00 (8)
+�7.82 (�11.28 to �6.35)
+&lt;0.001
+1.17
+T2
+6.77 (5.64)
+13.33 (6.97)
+�6.56 (�10.09 to �5.22)
+&lt;0.001
+1.03
+HADS-anxiety
+T0
+8.29 (3.52)
+7.61 (3.36)
+T1
+3.49 (2.62)
+6.89 (3.98)
+�3.40 (�5.39 to �2.63)
+&lt;0.001
+1.01
+T2
+3.83 (3.04)
+6.64 (3.64)
+�2.81 (�4.80 to �2.04)
+&lt;0.001
+1.06
+HADS-depression
+T0
+7.84 (4.38)
+7.19 (4.21)
+T1
+2.48 (2.82)
+7.11 (4.53)
+�4.63 (�6.49 to �3.73)
+&lt;0.001
+1.22
+T2
+2.94 (2.98)
+6.69 (4.17)
+�3.75 (�5.62 to �2.88)
+&lt;0.001
+1.28
+Secondary outcome
+FCR
+T0
+13.58 (5.31)
+13.78 (4.93)
+T1
+10.53 (4.93)
+12.69 (5.16)
+�2.16 (�3.66 to �0.15)
+0.033
+0.43
+T2
+10.29 (4.62)
+13.03 (4.71)
+�2.74 (�4.30 to �0.81)
+0.004
+0.59
+BFI
+T0
+3.54 (2.28)
+3.22 (2.42)
+T1
+1.80 (1.8)
+3.37 (2.81)
+�1.57 (�2.67 to �0.75)
+0.001
+0.66
+T2
+1.81 (1.84)
+3.04 (2.37)
+�1.23 (�2.35 to �0.45)
+0.004
+0.58
+FACIT-Sp
+T0
+21.58 (8.86)
+24.28 (7.36)
+T1
+32.70 (9.63)
+24.61 (8.25)
+8.09 (7.66e13.95)
+&lt;0.001
+0.91
+T2
+32.51 (10.09)
+24.83 (8.72)
+7.68 (7.34e13.56)
+&lt;0.001
+0.82
+FACT-G
+T0
+65.20 (16.77)
+68.91 (16.63)
+T1
+84.94 (14.59)
+71.59 (18.73)
+13.35 (10.38e21.33)
+&lt;0.001
+0.79
+T2
+85.41 (16.08)
+71.90 (18.5)
+13.51 (11.27e22.1)
+&lt;0.001
+0.78
+FFMQ
+T0
+117.32 (18.4)
+118.89 (13.03)
+T1
+133.67 (17.87)
+120.47 (14.37)
+13.2 (8.22e21.38)
+&lt;0.001
+0.82
+T2
+137.03 (18.85)
+119.19 (13.44)
+17.84 (12.84e25.86)
+&lt;0.001
+1.09
+MBCT ¼ mindfulness-based cognitive therapy; WLC ¼ wait-list control; HADS ¼ Hospital Anxiety and Depression Scale; FCR ¼ fear of cancer recurrence; BFI ¼
+Brief Fatigue Inventory; FACIT-Sp ¼ Functional Assessment of Chronic Illness TherapydSpiritual; FACT-G ¼ Functional Assessment of Cancer TherapydGen-
+eral; FFMQ ¼ Five Facet Mindfulness Questionnaire.
+Note: Data presented as mean (SD) unless otherwise noted.
+aThe difference in mean change scores is the between-group difference in the least squares mean treatment change score from baseline to the data point; mixed-
+effect model for repeated-measures analysis.
+bThe between-group difference is the intervention group value minus the control group value.
+Vol. 60 No. 2 August 2020
+387
+MBCT for Breast Cancer: RCT</paragraph></page><page number="8"><paragraph>spiritual domains. Also, this is the ﬁrst study in Japan
+that demonstrated the effectiveness of MBCT for pa-
+tients with cancer. Given that MBCT can be delivered
+to many patients at a time in a group-therapy format,
+it would be a fascinating option in clinical practice.
+Disclosures and Acknowledgments
+The authors are grateful to all the patients who
+participated in this trial. They thank Prof. Hiromitsu
+Jinno (Teikyo University) for referring patients to
+the trial, Prof. Yasunori Sato (Keio University Hospital
+Clinical and Translational Research Center) for his
+comments on the statistical analyses, and Prof. Yuko
+Takeda (Keio University Faculty of Nursing and Medi-
+cal
+Care)
+for
+her
+mentorship.
+This
+study
+was
+supported by Keio Gijuku Academic Development
+Funds and Japan Society for the Promotion of Science
+KAKENHI (grant number: JP15K09875). The authors
+declare no conﬂicts of interest.
+Data availability: The data of this study are available
+from
+the
+corresponding
+author
+on
+reasonable
+request.
+Ethical approval: This study was approved by the
+Institutional Review Board of Keio University School
+of Medicine and was registered in the Japanese Clin-
+ical Trial Registry (registry ID: UMIN000016142).
+References
+1. Global
+Burden
+of
+Disease
+Cancer
+Collaboration,
+Fitzmaurice C, Akinyemiju TF, et al. Global, regional, and
+national cancer incidence, mortality, years of life lost, years
+lived with disability, and disability-adjusted life-years for 29
+cancer groups, 1990 to 2016: a systematic analysis for the
+global
+burden
+of
+disease
+study.
+JAMA
+Oncol
+2018;4:
+1553e1568.
+2. Burgess C, Cornelius V, Love S, et al. Depression and
+anxiety in women with early breast cancer: ﬁve year observa-
+tional cohort study. BMJ 2005;330:702.
+3. Singer S, Das-Munshi J, Brahler E. Prevalence of mental
+health conditions in cancer patients in acute careda meta-
+analysis. Ann Oncol 2010;21:925e930.
+4. Simard S, Thewes B, Humphris G, et al. Fear of cancer
+recurrence in adult cancer survivors: a systematic review of
+quantitative studies. J Cancer Surviv 2013;7:300e322.
+5. Mitchell AJ, Ferguson DW, Gill J, Paul J, Symonds P.
+Depression and anxiety in long-term cancer survivors
+compared with spouses and healthy controls: a systematic
+review and meta-analysis. Lancet Oncol 2013;14:721e732.
+6. Denlinger CS, Sanft T, Baker KS, et al. Survivorship,
+version
+2.2018,
+NCCN
+clinical
+practice
+guidelines
+in
+oncology. J Natl Compr Canc Netw 2018;16:1216e1247.
+7. Hamer J, McDonald R, Zhang L, et al. Quality of Life
+(QOL) and Symptom Burden (SB) in patients with breast
+cancer. Support Care Cancer 2017;25:409e419.
+8. Berger AM, Mooney K, Alvarez-Perez A, et al. Cancer-
+related fatigue, version 2.2015. J Natl Compr Canc Netw
+2015;13:1012e1039.
+9. Kabat-Zinn J. Full catastrophe living: Using the wisdom
+of your body and mind to face stress, pain, and illness.
+New York: Delacorte Press, 1990.
+10. Kuyken W, Watkins E, Holden E, et al. How does
+mindfulness-based cognitive therapy work? Behav Res Ther
+2010;48:1105e1112.
+11. Segal ZV, Williams JMG, Teasdale JD. Mindfulness-based
+cognitive therapy for depression: A new approach to pre-
+venting relapse. New York: Guilford Press, 2002.
+12. Schell LK, Monsef I, Wockel A, Skoetz N. Mindfulness-
+based stress reduction for women diagnosed with breast
+cancer. Cochrane Database Syst Rev 2019;3:CD011518.
+13. Piet
+J,
+Wurtzen
+H,
+Zachariae
+R.
+The
+effect
+of
+mindfulness-based therapy on symptoms of anxiety and
+depression in adult cancer patients and survivors: a system-
+atic review and meta-analysis. J Consult Clin Psychol 2012;
+80:1007e1020.
+14. Zainal NZ, Booth S, Huppert FA. The efﬁcacy of
+mindfulness-based stress reduction on mental health of
+breast cancer patients: a meta-analysis. Psychooncology
+2013;22:1457e1465.
+15. Huang HP, He M, Wang HY, Zhou M. A meta-analysis of
+the beneﬁts of mindfulness-based stress reduction (MBSR)
+on psychological function among Breast Cancer (BC) survi-
+vors. Breast Cancer 2016;23:568e576.
+16. Cillessen L, Johannsen M, Speckens AEM, Zachariae R.
+Mindfulness-based interventions for psychological and phys-
+ical health outcomes in cancer patients and survivors: a
+systematic
+review
+and
+meta-analysis
+of
+randomized
+controlled trials. Psychooncology 2019;28:2257e2269.
+17. Lengacher CA, Reich RR, Paterson CL, et al. Examina-
+tion
+of
+broad
+symptom
+improvement
+resulting
+from
+mindfulness-based stress reduction in breast cancer survi-
+vors: a randomized controlled trial. J Clin Oncol 2016;34:
+2827e2834.
+18. Haller H, Winkler MM, Klose P, et al. Mindfulness-based
+interventions for women with breast cancer: an updated sys-
+tematic review and meta-analysis. Acta Oncol 2017;56:
+1665e1676.
+19. Johannsen M, O’Connor M, O’Toole MS, et al. Efﬁcacy
+of
+mindfulness-based
+cognitive
+therapy
+on
+late
+post-
+treatment pain in women treated for primary breast cancer:
+a randomized controlled trial. J Clin Oncol 2016;34:
+3390e3399.
+20. van der Lee ML, Garssen B. Mindfulness-based cognitive
+therapy reduces chronic cancer-related fatigue: a treatment
+study. Psychooncology 2012;21:264e272.
+21. Ball
+EF,
+Nur
+Shaﬁna
+Muhammad
+Sharizan
+E,
+Franklin G, Rogozinska E. Does mindfulness meditation
+improve chronic pain? A systematic review. Curr Opin Ob-
+stet Gynecol 2017;29:359e366.
+22. Zhang J, Xu R, Wang B, Wang J. Effects of mindfulness-
+based therapy for patients with breast cancer: a systematic
+review and meta-analysis. Complement Ther Med 2016;26:
+1e10.
+388
+Vol. 60 No. 2 August 2020
+Park et al.</paragraph></page><page number="9"><paragraph>23. Park S, Sado M, Fujisawa D, et al. Mindfulness-based
+cognitive therapy for Japanese breast cancer patients-a feasi-
+bility study. Jap J Clin Oncol 2018;48:68e74.
+24. Kugaya
+A,
+Akechi
+T,
+Okuyama
+T,
+Okamura
+H,
+Uchitomi Y. Screening for psychological distress in Japanese
+cancer patients. Jpn J Clin Oncol 1998;28:333e338.
+25. Momino K, Akechi T, Yamashita T, et al. Psychometric
+properties of the Japanese version of the Concerns About
+Recurrence Scale (CARS-J). Jpn J Clin Oncol 2014;44:
+456e462.
+26. Okuyama T, Akechi T, Kugaya A, et al. Development and
+validation of the cancer fatigue scale: a brief, three-
+dimensional, self-rating scale for assessment of fatigue in
+cancer patients. J Pain Symptom Manage 2000;19:5e14.
+27. Noguchi W, Ohno T, Morita S, et al. Reliability and
+validity of the Functional Assessment of Chronic Illness
+Therapy-Spiritual (FACIT-Sp) for Japanese patients with can-
+cer. Support Care Cancer 2004;12:240e245.
+28. Cella DF, Bonomi AE, Lloyd SR, et al. Reliability and val-
+idity of the Functional Assessment of Cancer Therapy-Lung
+(FACT-L) quality of life instrument. Lung Cancer 1995;12:
+199e220.
+29. Sugiura Y, Sato A, Ito Y, Murakami H. Development and
+validation of the Japanese version of the ﬁve Facet mindful-
+ness questionnaire. Mindfulness 2012;3:85e94.
+30. Singer S, Kuhnt S, Gotze H, et al. Hospital anxiety and
+depression scale cutoff scores for cancer patients in acute
+care. Br J Cancer 2009;100:908e912.
+31. Akizuki N, Akechi T, Nakanishi T, et al. Development of
+a brief screening interview for adjustment disorders and
+major depression in patients with cancer. Cancer 2003;97:
+2605e2613.
+32. Foley E, Baillie A, Huxter M, Price M, Sinclair E. Mind-
+fulness-based cognitive therapy for individuals whose lives
+have been affected by cancer: a randomized controlled trial.
+J Consult Clin Psychol 2010;78:72e79.
+33. Almeida SN, Elliott R, Silva ER, Sales CMD. Fear of can-
+cer recurrence: a qualitative systematic review and meta-
+synthesis of patients’ experiences. Clin Psychol Rev 2019;
+68:13e24.
+34. Butow PN, Turner J, Gilchrist J, et al. Randomized trial
+of ConquerFear: a novel, theoretically based psychosocial
+intervention for fear of cancer recurrence. J Clin Oncol
+2017;35:4066e4077.
+35. Lichtenthal WG, Corner GW, Slivjak ET, et al. A pilot
+randomized controlled trial of cognitive bias modiﬁcation
+to reduce fear of breast cancer recurrence. Cancer 2017;
+123:1424e1433.
+36. Dieng M, Butow PN, Costa DS, et al. Psychoeducational
+intervention to reduce fear of cancer recurrence in people
+at high risk of developing another primary melanoma:
+results of a randomized controlled trial. J Clin Oncol 2016;
+34:4405e4414.
+37. Winger JG, Adams RN, Mosher CE. Relations of mean-
+ing in life and sense of coherence to distress in cancer
+patients: a meta-analysis. Psychooncology 2016;25:2e10.
+38. Strauss C, Cavanagh K, Oliver A, Pettman D. Mindful-
+ness-based interventions for people diagnosed with a current
+episode of an anxiety or depressive disorder: a meta-analysis
+of randomised controlled trials. PLoS One 2014;9:e96110.
+39. Carlson LE, Beattie TL, Giese-Davis J, et al. Mindfulness-
+based cancer recovery and supportive-expressive therapy
+maintain telomere length relative to controls in distressed
+breast cancer survivors. Cancer 2015;121:476e484.
+40. Villalba DK, Lindsay EK, Marsland AL, et al. Mindfulness
+training and systemic low-grade inﬂammation in stressed
+community
+adults:
+evidence
+from
+two
+randomized
+controlled trials. PLoS One 2019;14:e0219120.
+Vol. 60 No. 2 August 2020
+389
+MBCT for Breast Cancer: RCT</paragraph></page></document>

@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document><page number="1"><paragraph>P A P E R
+Internet‐delivered mindfulness‐based cognitive therapy for
+anxiety and depression in cancer survivors: A randomized
+controlled trial
+Eva Rames Nissen1
+| Maja O'Connor1
+| Viktor Kaldo2,3
+| Inger Højris4 |
+Michael Borre5 | Robert Zachariae1,4
+| Mimi Mehlsen1
+1Department of Psychology and Behavioural
+Sciences, Aarhus University, Aarhus, Denmark
+2Centre for Psychiatry Research, Department
+of Clinical Neuroscience, Karolinska Institutet,
+and Stockholm Health Care Services,
+Stockholm, Sweden
+3Department of Psychology, Linnaeus
+University, Växjö, Sweden
+4Department of Oncology, Aarhus University
+Hospital, Aarhus, Denmark
+5Department of Urology, Aarhus University
+Hospital, Aarhus, Denmark
+Correspondence
+Eva Rames Nissen, Department of Psychology,
+Aarhus University, Bartholins Allé 11, DK‐8000
+Aarhus. Denmark.
+Email: enissen@psy.au.dk
+Funding information
+Danish Cancer Society, Grant/Award Number:
+R113‐A7015‐14‐S34; TrygFonden, Grant/
+Award Number: 7‐12.0736
+Abstract
+Objective:
+Internet‐delivered interventions may alleviate distress in cancer survi-
+vors with limited access to psychological face‐to‐face treatment. In collaboration with
+a group of cancer survivors, we developed and tested the efficacy of a therapist‐
+assisted internet‐delivered mindfulness‐based cognitive therapy (iMBCT) program
+for anxiety and depression in cancer survivors.
+Methods:
+A total of 1282 cancer survivors were screened for anxiety and depres-
+sion during their routine oncology follow‐up; eligible breast (n = 137) and prostate
+cancer (n = 13) survivors were randomized to iMBCT or care‐as‐usual (CAU) wait‐list.
+Primary outcomes of anxiety and depression were assessed at baseline, 5 weeks,
+10 weeks (post intervention), and 6 months.
+Results:
+Significant effects were found for both anxiety (Cohen's d = 0.45; P = .017)
+and depressive symptoms (d = 0.42; P = .024) post intervention. The effects were
+maintained at follow‐up for anxiety (d = 0.40; P = .029), but not for depressive symp-
+toms (d = 0.28; P = .131).
+Conclusions:
+Our preliminary findings suggest iMBCT to be a helpful intervention
+for cancer survivors suffering from symptoms of anxiety. Further studies on the effi-
+cacy for symptoms of depression are needed.
+KEYWORDS
+anxiety, breast cancer, cancer, cancer survivors, cognitive therapy, depressive symptoms, internet,
+mindfulness, oncology, prostate cancer
+1
+|
+BACKGROUND
+The number of cancer survivors is increasing because of improved
+diagnosis and treatment. In North America and Europe combined,
+almost 1 500 000 new cases of breast and prostate cancer were
+diagnosed in 2018.1,2 Since 5‐year survival rates for these cancer
+types are above 85%,3 a significant number of former breast and
+prostate cancer patients must cope with cancer survivorship.
+Anxiety and depression are prevalent among cancer survivors,
+even several years after successful treatment,4-6 with 2 to 4 times
+higher prevalence of mood disorders compared with the general
+population.5,7 High levels of distress are associated with impaired
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+This is an open access article under the terms of the Creative Commons Attribution‐NonCommercial‐NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.
+© 2019 The Authors. Psycho‐Oncology published by John Wiley &amp; Sons Ltd
+Received: 1 May 2019
+Revised: 12 September 2019
+Accepted: 12 September 2019
+DOI: 10.1002/pon.5237
+68
+Psycho‐Oncology. 2020;29:68–75.
+wileyonlinelibrary.com/journal/pon</paragraph></page><page number="2"><paragraph>quality of life, poorer daily function, and—possibly—poorer cancer
+prognosis.8,9
+Meta‐analyses have shown mindfulness‐based interventions (MBIs)
+to be efficacious for anxiety and depression with effect sizes (Hedges's
+g) up to 0.97 and 0.95 in patients with mood disorders10 and 0.39 and
+0.44 with cancer patients and survivors.11 Despite documented effi-
+cacy, challenges remain to make MBIs available to patients in need
+because of limited number of trained therapists, costs, and restricted
+mobility and time constraints among cancer patients and survivors.12-15
+Delivering interventions over the internet is an increasingly popular
+approach to overcome these challenges. A systematic review of
+eHealth interventions aimed at breast cancer patients and survivors
+supports the general feasibility and acceptability of internet‐delivered
+interventions within this group,16 and two previous studies of inter-
+net‐delivered MBIs for psychological distress in cancer patients show
+promising results.17,18 One study of cancer patients participating in
+an online “Mindfulness‐Based Cancer Recovery program” found an
+effect at post intervention on mood disturbance (d = 0.44) when com-
+pared with a wait‐list control.17 The second study explored mindful-
+ness‐based cognitive therapy (MBCT) for psychological distress in
+cancer patients and found relatively comparable post‐intervention
+effects of internet‐delivered (d = 0.71) and face‐to‐face–delivered
+MBCT (d = 0.45) compared with care‐as‐usual (CAU).18 However, in
+both studies, long‐term effects went uninvestigated and participants
+were recruited through self‐referral, possibly introducing self‐selection
+bias. Offering the intervention to patients identified through a system-
+atic screening for distress during follow‐up will add knowledge about
+the need for intervention and acceptability of internet delivery of such
+interventions.
+Our aim was therefore to evaluate the efficacy of internet‐deliv-
+ered MBCT (iMBCT) offered as part of routine follow‐up care to breast
+and prostate cancer survivors experiencing symptoms of anxiety and
+depression. Breast and prostate cancer were chosen as they are prev-
+alent cancer types with high long‐term survival rates.19 We chose
+iMBCT as our group has previously found MBCT to be well‐accepted
+and efficacious for treating persistent pain in breast cancer survi-
+vors.20,21 We compared iMBCT with waitlist CAU controls at post
+intervention and 6 months follow‐up.
+2
+|
+METHODS
+2.1
+|
+Participants
+A total of 150 breast and prostate cancer survivors were randomized
+to iMBCT (70%) or wait‐list control (30%). Inclusion criteria were as
+follows: scoring greater than or equal to 3 when screened for symp-
+toms of anxiety or depression on a 0‐ to 10‐point numeric rating scale,
+more than or equal to 3 months and less than or equal to 5 years after
+completed primary treatment for primary breast or prostate cancer,
+age 18 years and older, ability to understand and read Danish, internet
+access, and mobile phone ownership. Exclusion criteria are as follows:
+cancer recurrence or active cancer treatment (except adjuvant
+endocrine treatment), insufficient IT skills (self‐reported), and severe
+mental illness. The study was approved by the regional Science Ethics
+Committee
+(registration
+no:
+1‐10‐72‐16‐16)
+and
+registered
+at
+ClinicalTrials.gov (NCT03100981).
+2.2
+|
+Sample size and randomization
+The study was designed to include 155 participants. Randomization
+was conducted in blocks of 10, with seven blocks allocated to inter-
+vention and three to control. The unbalanced allocation aimed at
+increasing power for subsequent mediation analyses. On the basis of
+previous reports, we expected an uneven attrition rate of 25% in the
+intervention group and 15% in the control group,22 leading to a final
+80 and 41 participants in intervention and control, respectively. This
+would allow the detection of a statistical significant (P &lt; .05)
+Time × Group interaction corresponding to an effect size (Hedge's g)
+of 0.60 with a statistical power of 83%. While larger than previously
+found for cancer patients and survivors,11 the effect size is more con-
+servative than those found for face‐to‐face MBIs with patients
+screened for mood disorders.10 Because of resource and time con-
+straints, recruitment was terminated after inclusion of 150 partici-
+pants. Expecting an uneven number of eligible breast and prostate
+cancer survivors, computerized randomization was stratified according
+to cancer type.23 The allocation sequence was generated by the pri-
+mary investigator. Research assistants handling recruitment were
+unaware of group allocation until after the participant was included.
+2.3
+|
+Procedure
+Participants were recruited between February 24, 2016 and August
+28, 2017 at the Departments of Oncology and Urology, Aarhus Uni-
+versity Hospital. Oncologists or nurses screened all breast and prostate
+cancer patients for anxiety and depressive symptoms during routine
+control visits after primary treatment. Eligible interested patients were
+contacted by telephone for further information about the study. After
+completing a consent form and online baseline questionnaires (T1),
+participants were randomly assigned to intervention or wait‐list con-
+trol. Additional online questionnaires were completed after 5 (T2/mid-
+way), 10 (T3/post treatment), and 34 weeks (T4/6 months follow‐up).
+Follow‐up data collection was finalized on June 27, 2018.
+The iMBCT program was developed in collaboration with cancer
+survivor representatives who recommended program adjustments to
+meet cancer survivorship needs. For details on this process, see Nissen
+et al.24 Program content, including the incorporation of cancer‐specific
+adjustments,20 was adapted from the original face‐to‐face MBCT man-
+ual25 by clinical psychologists (M.O.C. and E.R.N.) trained at Oxford
+Mindfulness Centre with experience of MBCT with cancer survivors.26
+Each of the eight 1 week modules included written material, audio
+exercises, writing tasks, cancer‐specific patient examples, and videos
+with patients and experts. Participants completed a weekly training
+diary and mailed it to their therapist who gave written, asynchronous
+feedback on a prearranged day of the week. Participants were given
+access to the next module after submitting the tasks of the week
+NISSEN ET AL.
+69</paragraph></page><page number="3"><paragraph>(See Data S1 for an overview of intervention content). After complet-
+ing the program, which included an optional 1 week break, participants
+had access to treatment materials for 6 months. The secure and
+encrypted intervention platform was provided by the Department of
+Internet Psychiatry, Karolinska Institutet, Stockholm, Sweden27 (See
+Data S2 for screen dump examples). A smartphone‐compliant website
+with login provided access to daily exercises to participants. Nine ther-
+apists, including eight Master's level psychology students trained in
+MBCT,28 and one experienced psychologist trained in MBCT (E.R.N.)
+provided the therapist feedback. The student therapists, supervised
+by two authors (M.O.C., E.R.N.), based their written feedback to partic-
+ipants on a manual‐consistent guide developed for the present study.
+Wait‐list controls received auto generated emails asking them to
+complete online questionnaires at times T2, T3, and T4. If question-
+naires were not completed within 1 week, participants received up to
+three reminder emails. If participants did not respond to reminders, they
+received a telephone call from a research assistant. The reminder proce-
+dures were identical for the intervention and control group. After com-
+pleting the T4 follow‐up questionnaire, controls were offered iMBCT.
+2.4
+|
+Measures
+2.4.1
+|
+Screening
+Eligible participants were screened for symptoms of depression and
+anxiety. Because routine care only allowed a brief screening procedure,
+a short two‐item measure was used. Patients indicated on 11‐point
+numerical rating scales (0 = not at all, 10 = very much) “Within the past
+week, how depressed and sad have you been?” and “Within the past
+week, how worried and anxious have you been?”. The 3‐point cut‐off
+was based on our experiences with similar recruitment procedures.21
+2.4.2
+|
+Participant characteristics
+At T1, participants provided sociodemographic and clinical information
+on gender, date of birth, marital status, educational level, occupation,
+cancer type, time of diagnosis, and comorbidities.29
+2.4.3
+|
+Outcomes
+The primary outcomes of anxiety and depression were assessed at T1,
+T2, T3, and T4 with the state subscale of the State‐Trait Anxiety
+Inventory Y‐Form (STAI‐Y)30 and the Beck Depression Inventory
+(BDI‐II).31 Internal consistencies (Cronbach's α) in the present sample
+were .94 and .85, respectively. Secondary outcomes included per-
+ceived stress measured at T1, T2, T3, and T4 with the Perceived Stress
+Scale (PSS‐10)32; well‐being assessed at T1, T3, and T4 with the World
+Health Organization Well‐Being Index (WHO‐5)33; and sleep distur-
+bance measured at T1, T3, and T4 with the Insomnia Severity Index
+(ISI).34 Internal consistencies in the present sample ranged from 0.85
+to 0.87. Therapist time spent was recorded for each module and par-
+ticipant adherence to the intervention was assessed as total login
+times for the intervention platform and training website and the
+number of completed modules. A module was considered completed
+if the participant had returned a completed “tasks of the week” work-
+ing sheet to the therapist. Additional variables, not reported on in the
+present paper, included measures of mindfulness, self‐compassion,
+weekly distress, and therapeutic alliance.
+2.5
+|
+Statistical methods
+Data were analysed using IBM SPSS Statistics, version 25. Baseline dif-
+ferences were explored with t‐ and chi2 tests. Main intention‐to‐treat
+analyses were conducted with two‐level multilevel modelling (MLM),
+with assessments at time points at level 1 nested within individuals
+at level 2. To compare endpoint effects between groups, a linear func-
+tion of time was estimated from T1 (baseline) through T3 (post‐assess-
+ment) and from T1 through T4 (6‐month follow‐up). Effect sizes
+(Cohen's d) were derived from the Group × Time F test and calculated
+as d ¼ 2*
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+F=df
+p
+,35 with magnitudes of 0.2, 0.5, and 0.8 considered
+small, medium, and large, respectively. MLMs were furthermore
+employed to evaluate the best fit of time (T1‐T4), including a linear
+effect (continued improvement), a log‐linear effect (improvement and
+then maintenance of effect), and a quadratic effect (worsening). This
+evaluation was based on log likelihood fit statistics (‐2LL), taking into
+account the number of parameters in the model. The moderating
+effect of cancer type was analysed with the three‐way MLM interac-
+tion term (Time × Group × Cancer type). Because of uneven attrition
+in the intervention and control group, sensitivity analyses were con-
+ducted by repeating analyses for primary outcomes with imputed data
+for missing responses with the “zero‐effect from baseline”(ZEFB)
+method, which assumes that participants with missing data do not
+experience any change during the study period. Adherence‐related
+effects for participants in the intervention group were explored with
+two‐way MLM interaction terms (Time × Moderator).
+3
+|
+RESULTS
+3.1
+|
+Participant characteristics
+A total of 1282 cancer survivors were screened to obtain the final
+sample of 150 participants (Figure 1). Of these, 137 had been treated
+for breast cancer (mean age 54.55) and 13 for prostate cancer (mean
+age = 64.94). The screened patients (n = 1282) had an average score
+of 1.64 (SD = 2.39) on the depression screening item and 1.85
+(SD = 2.55) on the anxiety screening item. Among the included partic-
+ipants, 21 (14.0%) scored greater than or equal to 3 on the anxiety
+item only, 10 (6.7%) scored greater than or equal to 3 on the depres-
+sion item only, and 119 (79.3%) scored greater than or equal to 3 on
+both items. The mean scores of the included participants were 5.5
+(SD = 2.1) for anxiety and 4.9 (SD = 2.2) for depression. No baseline
+differences between the intervention and control groups were found
+for any sociodemographic, clinical, or outcome variables (Table S3).
+Participants treated for prostate cancer were significantly older,
+had shorter time since diagnosis, and used less prescription medication
+NISSEN ET AL.
+70</paragraph></page><page number="4"><paragraph>than participants treated for breast cancer. Breast cancer survivors had
+higher baseline scores on stress (P = .015) and well‐being (P = .033)
+compared with prostate cancer survivors. Attrition rates were higher
+in the intervention group (26.0% [T2], 30.8% [T3], and 28.8% [T4])
+compared with controls (17.4% [T2 and T3] and 19.6%[T4]). Attrition
+was associated with older age (P = .025) and being a woman/breast
+cancer survivor (P = .028). When comparing adherent (more than four
+completed modules) and non‐adherent participants (less than or equal
+to four completed modules), no statistically significant differences
+were found for any of the participant characteristics assessed.
+3.2
+|
+Primary outcomes
+Statistically significant Time × Group interactions corresponding to
+small‐to‐medium effect sizes were found for both anxiety and depres-
+sion at post intervention (T3). At follow‐up (T4), the Time × Group
+interaction reached statistical significance for anxiety, but not for
+depression (Table 1) (separate results for cancer type are shown in
+Table S4). Model‐fit analyses revealed that for anxiety linear and log‐
+linear models showed comparable fits, whereas a log‐linear model pro-
+vided the best fit of the data for depression (Figure S5).
+No moderating effects of cancer type were found for anxiety or
+depression at any time point (d = 0.07‐0.15; P = .393‐.697). The ZEFB
+sensitivity analyses showed that the effects remained statistically sig-
+nificant for anxiety at both post intervention (T3) (d = 0.39; P = .019)
+and follow‐up (T4) (d = 0.35; P = .033), whereas the post‐intervention
+(T3) effect for depression no longer reached statistical significance
+(d = 0.29, P = .073).
+3.3
+|
+Secondary outcomes
+A statistically significant Time × Group interaction corresponding to a
+medium effect size was found for changes in well‐being (d = 0.48) from
+baseline to follow‐up (T4). The effect on well‐being at post interven-
+tion
+(T3)
+failed
+to
+reach
+statistical
+significance.
+Likewise,
+no
+Time × Group interactions for perceived stress and insomnia severity
+reached statistical significance at any time point (Table 1).
+3.4
+|
+Treatment adherence
+Of the 104 participants randomized to intervention, 82 (79%) started
+iMBCT. Participants completed an average of 5.7 out of eight modules,
+with 46 (56%) completing all eight modules. The reported reasons for
+not starting or discontinuing iMBCT during the first 4 weeks (n = 51,
+49.0%) were lack of motivation (n = 30, 28.8%), insufficient IT skills
+(n = 13, 12.5%), and cancer relapse or other physical problems
+FIGURE 1
+Participant flow diagram
+NISSEN ET AL.
+71</paragraph></page><page number="5"><paragraph>TABLE 1
+Anxiety, depression, stress, well‐being, and insomnia severity at baseline, mid‐intervention, post‐intervention, and follow‐up
+Outcome
+T1: Baseline
+T2: Mid‐
+Intervention
+T3: Post‐Intervention
+T4: 6 Month Follow‐
+Up
+Effects Time × Group
+iMBCT
+Control
+iMBCT
+Control
+iMBCT
+Control
+iMBCT
+Control
+T1‐T3: Baseline–post intervention, Cohen d
+(95%CI); P
+T1‐T4: Baseline–follow‐up (6 months), Cohen d
+(95% CI); P
+N
+104
+46
+77
+38
+73
+38
+74
+37
+Primary outcomes (means and SDs)
+STAI‐Y
+41.7 (10.2)
+42.7 (9.8)
+40.2 (9.2)
+42.7 (9.6)
+37.5 (8.9)
+41.8 (11.9)
+36.3 (9.9)
+40.5 (11.9)
+0.45 (0.26‐0.64); .017
+0.40 (0.00‐0.80); .029
+BDI‐II
+15.1 (7.4)
+17.6 (7.5)
+11.9 (8.3)
+15.0 (8.4)
+10.7 (6.6)
+15.6 (9.2)
+10.2 (7.9)
+14.2 (9.7)
+0.42 (0.23‐0.61); .024
+0.28 (0.09‐0.47); .131
+Secondary outcomes (means and SDs)
+PSS
+18.5 (5.7)
+18.9 (6.2)
+16.7 (6.0)
+17.5 (6.1)
+15.7 (5.9)
+17.0 (6.3)
+15.0 (6.6)
+17.1 (6.8)
+0.18 (−0.21 to 0.57); .331
+0.29 (−0.11 to 0.69); .125
+WHO‐
+5
+17.6 (4.8)
+17.8 (5.4)
+N/A
+15.6 (4.7)
+16.5 (5.0)
+15.0 (5.2)
+17.1 (5.6)
+0.25 (−0.14 to 0.64); .173
+0.48 (0.08‐0.88); .010
+ISI
+11.7 (5.5)
+11.8 (6.3)
+N/A
+10.3 (6.0)
+10.1 (6.9)
+10.1 (6.3)
+10.0 (6.3)
+0.06 (−0.33 to 0.45); .759
+0.04 (−0.36 to 0.44); .847
+Note. N = number of participants who filled out questionnaires at the given time point.
+Abbreviations: BDI, Beck's Depression Inventory31; iMBCT, internet‐delivered mindfulness‐based cognitive therapy; ISI: Insomnia Severity Index34; PSS, Perceived Stress Scale32; STAI‐Y, State‐Trait Anxiety
+Inventory Y‐form30; WHO‐5: World Health Organization 5‐item Well‐Being Index.33
+NISSEN ET AL.
+72</paragraph></page><page number="6"><paragraph>(n = 3, 2.9%). Reasons are unknown for four participants (3.8%). Rea-
+sons for discontinuing treatment later than module four (n = 7, 6.7%)
+were lack of motivation (n = 6, 5.8%) and cancer relapse or other phys-
+ical problems (n = 1, 1.0%). Login data showed that participants spent
+on average 39 hours and 15 minutes using the program, corresponding
+to 6 hours and 38 minutes per completed module. Therapists used an
+average of 117.7 minutes per participant providing feedback, corre-
+sponding to 20.3 minutes per completed module. No statistically sig-
+nificant associations were found between improvements in anxiety
+or depression and number of modules completed, total login time, or
+therapist time spent (d = 0.06‐0.16; P &gt; .2).
+4
+|
+DISCUSSION
+The present study adds to the few available studies of effects of inter-
+net‐delivered MBIs in cancer survivors17,18 and is the first to evaluate
+longer‐term effects. The primary outcomes of anxiety and depression
+were improved immediately after the intervention with between‐
+group effects largely maintained at the 6‐month follow‐up for anxiety,
+but not depression. Model fit analyses showed that the depression
+data fitted a log‐linear curve, suggesting that the improvement in the
+intervention group occurred in the beginning of the study period and
+was maintained over time. However, as controls also experienced
+improvement over time, the between‐group difference diminished at
+follow‐up. Significant between‐group effects were found for well‐
+being at the 6‐month follow‐up assessment (d = 0.48). No effects were
+found for any of the remaining secondary outcomes (stress and insom-
+nia) at any time point.
+The effect on symptoms of anxiety remained statistically significant
+in the sensitivity analysis, suggesting that iMBCT may have a robust,
+durable effect on anxiety symptoms in breast and prostate cancer sur-
+vivors. The effect on depression, however, appeared less robust. One
+possible reason for this could be that the baseline scores were within
+the range of “mild depression,”36 and could thus indicate a floor effect.
+One solution for including the patients most likely to benefit could be
+a more comprehensive screening procedure or a higher cut‐off when
+screening patients.
+While the post‐intervention effect sizes for anxiety and depression
+found in our study (0.45 and 0.42) are within the same range as those
+reported in a meta‐analysis of face‐to‐face group MBIs with cancer
+patients (0.37 and 0.44)11,18 and the effect found on mood distur-
+bance in the feasibility study of online mindfulness‐based cancer
+recovery (0.44),17 they are smaller than the effect found on distress
+in another previous study of iMBCT in cancer patients (0.71). When
+comparing the results, between‐study differences in participant selec-
+tion procedures should be noted. While relatively high distress level
+cut‐offs were applied in the previous studies, ie, HADS scores greater
+than or equal to 1118 and distress thermometer scores greater than or
+equal to 4,17 the present study used a lower cut‐off, which could have
+introduced floor effects. In addition, the previous studies recruited
+patients through self‐referral, yielding higher inclusion rates, ie,
+56%18 and 48%.17 In the present study, only 39% of eligible patients
+were enrolled, and one third of those who gave consent to be
+contacted about the study declined after receiving oral information.
+Thus, while many cancer survivors experience distress, all eligible
+patients may not find iMBCT equally attractive, and providing iMBCT
+as a routine offer based on a screening procedure may have included
+less motivated participants in the present study compared with studies
+with self‐referral.
+Older age emerged a significant predictor of study attrition, i.e.,
+failing to return questionnaires. Age was, however, not associated with
+intervention drop‐out, i.e., discontinuation of the iMBCT program. This
+result may be important to consider when offering internet‐delivered
+therapy to an ageing population in a study setting. Self‐reported rea-
+sons for dropping out of the intervention were lack of motivation
+and insufficient IT skills, and it has previously been found that cancer
+patients prefer face‐to‐face therapy when asked about preferences.37
+With respect to intervention adherence, the number of modules
+completed did not appear to be associated with the magnitude of
+effects. One possible explanation for this somewhat counter‐intuitive
+result could be that adherence to mindfulness is not necessarily
+reflected in the number of modules completed or time spent on the
+platform. Furthermore, dropouts may have different reasons for
+discontinuing the intervention. Some may discontinue because they
+dislike the intervention, whereas others may discontinue when they
+have reached what they experience as sufficient improvement. Such
+reasons are consistent with reports of adherence‐related effects of
+internet‐delivered interventions in various clinical populations.38-40
+Participants spent on average 6 hours and 38 minutes on each com-
+pleted module, which would correspond to 2 hours for the session
+and 39 minutes of practice per day. This is comparable with face‐to‐
+face MBCT with weekly 2‐hour sessions and the required 45 daily
+minutes of practice.
+The present study has several strengths, including the involvement
+of patient representatives in the study development, a relatively large
+sample, a randomized design, and 6 months follow‐up data. In addition,
+participant recruitment was based on systematic screening of breast
+and prostate cancer survivors in routine follow‐up care settings.
+Study limitations
+The present study has a number of limitations that should be noted.
+First, although the sample size was relatively large, we only nearly
+achieved the intended inclusion rate. Second, the control condition
+was a wait‐list CAU condition, which enables the initial evaluation of
+the relevance of the intervention in the clinical setting. This may be
+insufficient when assessing the efficacy of the intervention, where
+an active control condition could have been relevant. Likewise, evalu-
+ating non‐inferiority by directly comparing iMBCT with face‐to‐face
+MBCT, as discussed in Compen et al,18 is highly relevant. We had orig-
+inally planned to include a third face‐to‐face MBCT arm, but were
+forced to abandon this approach because of insufficient resources
+and too few patients available for the study. Third, the distribution
+of breast and prostate cancer participants in our study sample was
+uneven. Between‐cancer type differences in follow‐up procedures
+NISSEN ET AL.
+73</paragraph></page><page number="7"><paragraph>provided fewer eligible prostate cancer survivors. The follow‐up
+period for breast cancer is 5 years compared with only 1 year for pros-
+tate cancer. Because of the nature of their disease, the two patient
+groups also differ on several parameters, including gender, age, late
+effects, and prescription medicine used. While it appears that both
+breast and prostate cancer survivors may benefit from iMBCT (Table
+S4), our study is likely underpowered to discern to which degree such
+cancer type‐related differences influence acceptance and efficacy of
+iMBCT. Finally, a high attrition rate was observed in the intervention
+group, especially at the beginning of intervention, which could indicate
+insufficient recruitment and information procedures. It could be that
+this type of intervention does not fully meet the needs, expectations,
+and skills of the target population. Participants completed online ques-
+tionnaires covering these aspects prior to randomization, but addi-
+tional in‐depth assessment of motivation and computer literacy prior
+to intervention start could have been relevant.
+Clinical implications
+iMBCT appears to be a feasible and flexible intervention for cancer
+survivors experiencing distress, with promising effects on anxiety and
+possibly depressive symptoms. Participants attend the programme
+from their homes, which may be attractive to groups of patients who
+do not typically seek psychological treatment. We find, in particular,
+the completion rate and effect among older men treated for prostate
+cancer encouraging.
+5
+|
+CONCLUSION
+Taken together, iMBCT showed positive effects for anxiety and
+depression immediately after treatment and for anxiety and well‐being
+at the 6‐month follow‐up. Despite our intention of maximizing access
+to treatment by reducing practical barriers for attending face‐to‐face
+treatment, a substantial percentage of distressed cancer survivors
+were not interested in an iMBCT intervention when offered as a part
+of routine follow‐up care.
+ACKNOWLEDGEMENTS
+We wish to thank the participating patients, the staff at the Depart-
+ments of Oncology and Urology at Aarhus University Hospital, the stu-
+dent‐therapists, Nina Bennet Kjær Boisen for helping develop the
+program, and Mia Skytte O'Toole for statistical advice.
+TrygFonden (Grant: 7‐12.0736) and the Danish Cancer Society
+(Grant: R113‐A7015‐14‐S34) funded the study.
+CONFLICT OF INTEREST
+The authors have no conflicts of interest to declare.
+DATA AVAILABILITY STATEMENT
+The data on which the present results are based are available upon
+request from the corresponding author. The data are not publicly avail-
+able due to privacy or ethical restrictions.
+ORCID
+Eva Rames Nissen
+https://orcid.org/0000-0002-9773-6772
+Maja O'Connor
+https://orcid.org/0000-0001-7288-8633
+Viktor Kaldo
+https://orcid.org/0000-0002-6443-5279
+Robert Zachariae
+https://orcid.org/0000-0001-9076-3068
+Mimi Mehlsen
+https://orcid.org/0000-0001-5820-8937
+REFERENCES
+1. International Agency for Research on Cancer. Population Fact Sheet:
+Europe. Vol 513. 2018.
+2. International Agency for Research on Cancer. Population Fact Sheet:
+North America. Vol. 347. 2018.
+3. Danish Cancer Society [Internet]. [cited 2019 Aug 10]. Available from:
+www.cancer.dk
+4. Honda K, Goodwin RD. Cancer and mental disorders in a national com-
+munity
+sample:
+findings
+from
+the
+national
+comorbidity
+survey.
+Psychother Psychosom. 2004;73(4):235‐242.
+5. Mitchell AJ, Ferguson DW, Gill J, Paul J, Symonds P. Depression and
+anxiety in long‐term cancer survivors compared with spouses and
+healthy controls: a systematic review and meta‐analysis. Lancet Oncol.
+2013;14(8):721‐732.
+6. Dalton SO, Laursen TM, Ross L, Mortensen PB, Johansen C. Risk for
+hospitalization with depression after a cancer diagnosis: a nationwide,
+population‐based study of cancer patients in Denmark from 1973 to
+2003. J Clin Oncol. 2009;27(9):1440‐1445.
+7. Mitchell AJ, Chan M, Bhatti H, et al. Prevalence of depression, anxiety,
+and adjustment disorder in oncological, haematological, and palliative‐
+care settings: a meta‐analysis of 94 interview‐based studies. Lancet
+Oncol. 2011;12(2):160‐174.
+8. Reich M, Lesur A, Perdrizet‐Chevallier C. Depression, quality of life and
+breast cancer: a review of the literature. Breast Cancer Res Treat.
+2008;110(1):9‐17.
+9. Prieto JM, Blanch J, Atala J, et al. Psychiatric morbidity and impact
+on hospital length of stay among hematologic cancer patients
+receiving
+stem‐cell
+transplantation.
+J
+Clin
+Oncol.
+2002;20(7):
+1907‐1917.
+10. Hofmann SG, Sawyer AT, Witt A, Oh D. The effect of mindfulness‐
+based therapy on anxiety and depression: a meta‐analytic review. J
+Consult Clin Psychol. 2010;78(2):169‐183.
+11. Piet J, Würtzen H, Zachariae R. The effect of mindfulness‐based ther-
+apy on symptoms of anxiety and depression in adult cancer patients
+and survivors: a systematic review and meta‐analysis. J Consult Clin
+Psychol. 2012;80(6):1007‐1020.
+12. Holm LV, Hansen DG, Johansen C, et al. Participation in cancer rehabil-
+itation and unmet needs: a population‐based cohort study. Support
+Care Cancer. 2012/03/15. 2012;20(11):2913‐2924.
+13. Barak A, Hen L, Boniel‐nissim M, Shapira NA. Comprehensive review
+and a meta‐analysis of the effectiveness of internet‐based psychother-
+apeutic interventions a comprehensive review and a meta‐analysis of
+the effectiveness of internet‐based psychotherapeutic interventions. J
+Technol Hum Serv. 2008;26(2–4):109‐160.
+NISSEN ET AL.
+74</paragraph></page><page number="8"><paragraph>14. Griffiths KM, Christensen H. Review article internet‐based mental
+health programs: a powerful tool in the rural medical kit. Aust J Rural
+Health. 2007;15:81‐87.
+15. Stanton AL. Psychosocial concerns and interventions for cancer survi-
+vors. J Clin Oncol. 2006;24(32):5132‐5137.
+16. Triberti S, Savioni L, Sebri V, Pravettoni G. eHealth for improving qual-
+ity of life in breast cancer patients: a systematic review. Cancer Treat
+Rev. 2019;74(2018):1‐14.
+17. Zernicke KA, Campbell TS, Speca M, McCabe‐Ruff K, Flowers S,
+Carlson LE. A randomized wait‐list controlled trial of feasibility and effi-
+cacy of an online mindfulness‐based cancer recovery program: the
+eTherapy for cancer applying mindfulness trial. Psychosom Med.
+2014;76(4):257‐267.
+18. Compen F, Bisseling E, Schellekens M, et al. Face‐to‐face and internet‐
+based mindfulness‐based cognitive therapy compared with treatment
+as usual in reducing psychological distress in patients with cancer: a
+multicenter
+randomized
+controlled
+trial.
+J
+Clin
+Oncol.
+2018;36
+(23):2413‐2421.
+19. National Cancer Institute. Cancer Stat Facts. Surveillance, Epidemiol-
+ogy, and End Results Program. 2019.
+20. Johannsen M, O'Connor M, O'Toole MS, Jensen AB, Højris I, Zachariae
+R. Efficacy of mindfulness‐based cognitive therapy on late post‐treat-
+ment pain in women treated for primary breast cancer: a randomized
+controlled trial. J Clin Oncol. 2016;34(28):3390‐3399.
+21. Johannsen M, O'Connor M, O'Toole MS, Jensen AB, Zachariae R.
+Mindfulness‐based cognitive therapy and persistent pain in women
+treated for primary breast cancer. Clin J Pain. 2018;34(1):59‐67.
+22. Cuijpers P, van Straten A, Andersson G. Internet‐administered cogni-
+tive behavior therapy for health problems: a systematic review. J
+Behav Med. 2008;31(2):169‐177.
+23. Haahr M, Haahr S. https://www.random.org. 2015.
+24. Nissen ER, Bregnballe V, Mehlsen MY, et al. Patient involvement in the
+development of a psychosocial cancer rehabilitation intervention: eval-
+uation of a shared working group with patients and researchers. Res
+Involv Engagem. 2018;4(24):24.
+25. Segal ZV, Williams JMG, Teasdale JD. Mindfulness‐Based Cognitive
+Therapy for Depression. 2nd ed. New York: The Guilford Press;
+2013:449.
+26. Bartley T. Mindfulness‐Based Cognitive Therapy for Cancer. 1st ed.
+Oxford: Wiley‐Blackwell; 2012:400.
+27. Titov N, Dear B, Nielssen O, et al. ICBT in routine care: a descriptive
+analysis
+of
+successful
+clinics
+in
+five
+countries.
+Internet
+Interv.
+2018;13:108‐115.
+28. Farver‐Vestergaard I, Johannsen M, Nissen ER, O'Connor M. Mindful-
+ness‐Baseret Kognitiv Terapi i en sundhedspsykologisk kontekst:
+Effektstudier og kliniske betragtninger fra Enhed for Psykoonkologi
+og Sundhedspsykologi. Psyke &amp; Logos. 2016;37:12‐29.
+29. Katz J, Chang L, Sangha O. Can comorbidity be measured by question-
+naire rather than medical record review? Med Care. 1996;34(1):73‐84.
+30. Spielberger D, Gorsuch RL, Lushene PR, Vagg PR, Jacobs GA. State‐
+trait anxiety inventory for adults 1983;76.
+31. Beck AT, Steere RA, Brown GK. Manual for the Beck Depression Inven-
+tory‐II. San Antonio. TX: The Psychological Corporation; 1996.
+32. Cohen S, Williamson G. Perceived stress in a probability sample of the
+United States. In: Spacapan S, Oskamp S, eds. The Social Psychology of
+Health. Newbury Park, CA: Sage; 1988:31‐67.
+33. Bonsignore M, Barkow K, Jessen F, Heun R. Validity of the five‐item
+WHO Well‐Being Index (WHO‐5) in an elderly population. Eur Arch
+Psychiatry Clin Neurosci. 2001;251(Suppl):II27‐II31.
+34. Bastien CH, Vallieres A, Morin CM. Validation of the Insomnia Severity
+Index as an outcome measure for insomnia research. Sleep Med. 2001;2
+(4):297‐307.
+35. Verbeke G, Molenberghs G. Linear Mixed Models for Longitudinal Data.
+New York: Springer; 2000.
+36. Beck AT, Ward CH, Mendelson M, Mock J, Erbaugh J. An inventory for
+measuring depression. Arch Gen Psychiatry. 1961;4:561‐571.
+37. Wallin EEK, Mattsson S, Olsson EMG. The preference for internet‐
+based psychological interventions by individuals without past or cur-
+rent use of mental health treatment delivered online: a survey study
+with mixed‐methods analysis. JMIR Ment Heal. 2016;3(2):e25.
+38. Donkin L, Christensen H, Naismith SL, Neal B, Hickie IB, Glozier N. A
+systematic review of the impact of adherence on the effectiveness of
+e‐therapies. J Med Internet Res. 2011;13(3):1‐12.
+39. Donkin L, Hickie IB, Christensen H, et al. Rethinking the dose‐response
+relationship between usage and outcome in an online intervention for
+depression: randomized controlled trial. J Med Internet Res. 2013;15
+(10):e231.
+40. Arndt A, Lutz W, Rubel J, et al. Identifying change‐dropout patterns
+during an internet‐based intervention for depression by applying the
+Muthen‐Roy model. Cogn Behav Ther. 2019.
+SUPPORTING INFORMATION
+Additional supporting information may be found online in the
+Supporting Information section at the end of the article.
+How to cite this article: Nissen ER, O'Connor M, Kaldo V,
+et al. Internet‐delivered mindfulness‐based cognitive therapy
+for anxiety and depression in cancer survivors: A randomized
+controlled trial. Psycho‐Oncology. 2020;29:68‐75. https://doi.
+org/10.1002/pon.5237
+NISSEN ET AL.
+75</paragraph></page></document>

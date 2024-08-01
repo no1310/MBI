@@ -1,0 +1,968 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document><page number="1"><paragraph>227
+© The Author(s) 2022. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+Japanese Journal of Clinical Oncology, 2022, 52(3)227–236
+https://doi.org/10.1093/jjco/hyab198
+Advance Access Publication Date: 28 January 2022
+Original Article
+Original Article
+A randomized clinical trial of guided self-help
+intervention based on mindfulness for patients
+with hepatocellular carcinoma: effects and
+mechanisms
+Zengxia Liu1,2, Min Li3, Yong Jia1, Shuo Wang1, Lufang Zheng1,
+Cong Wang1 and Li Chen
+1,*
+1School of Nursing, Jilin University, Changchun, 2School of Nursing, Changchun University of Chinese Medicine,
+Changchun and 3Invasive Technology Department, The First Hospital of Jilin University, Changchun, China
+*For reprints and all correspondence: Li Chen, Dean of School of Nursing, NO.965 Xinjiang Street, Changchun, Jilin 130021,
+China. E-mail: chen_care@126.com
+Received 12 August 2021; Editorial Decision 24 November 2021; Accepted 26 November 2021
+Abstract
+Background: Compared with face-to-face mindfulness-based interventions (MBIs), online mindful-
+ness interventions may be more convenient for patients with limited resources and can provide self-
+help mindfulness methods to improve the quality of life of cancer patients. This study investigated
+the effects of guided self-help mindfulness-based interventions (GSH-MBIs) on psychological
+distress, quality of life and sleep quality in patients with hepatocellular carcinoma and explored
+the underlying mechanisms.
+Methods: A total of 122 patients with hepatocellular carcinoma were randomly divided into the
+intervention group or the conventional treatment group. Psychological distress, quality of life,
+sleep quality, psychological ﬂexibility and perceived stress were evaluated in the groups before the
+intervention at baseline, after the intervention, at 1-month follow-up and 3-month follow-up. The
+intervention’s effects over time and the potential mediating effects were analysed using generalized
+estimating equations (GEE).
+Results: GEE results indicated signiﬁcant time–group interaction effects on psychological distress
+(P &lt; 0.001) and sleep quality (P &lt; 0.001). The intervention signiﬁcantly improved psychological
+ﬂexibility (β, −2.066; 95% CI, −3.631, −0.500) and reduced perceived stress (β, −2.639; 95%
+CI, −4.110, −1.169). Psychological ﬂexibility and perceived stress played a mediating role in the
+observed results.
+Conclusion: GSH-MBIs can improve psychological distress and sleep quality via changing the
+psychological ﬂexibility and perceived stress in hepatocellular carcinoma patients.
+Key words: hepatocellular carcinoma, mindfulness-based intervention, self-help, psychological distress, sleep quality, quality of life
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="2"><paragraph>228
+Mindfulness intervention for cancer patients
+Introduction
+Hepatocellular carcinoma (HCC) is the sixth most common cancer in
+the world and the third leading cause of cancer-related death, after
+lung cancer and colorectal cancer. HCC is characterized by severe
+symptoms, rapid progression and poor prognosis (1). Approximately
+900 000 new cases of HCC and ∼830 000 deaths related to HCC
+were reported in 2020 worldwide (2). China is one of the countries
+with the heaviest burden of HCC, as the number of HCC patients
+in China accounts for more than half of the global HCC patients
+(2). The level of distress is considerably increased in one-third of
+HCC patients even in comparison to those with other kinds of
+cancer (3). Anxiety and depression are two psychological distress
+that are frequently reported by HCC patients (4,5). The combination
+of psychological and physical issues reduce the quality of life of
+HCC patients. Therefore, it is very important to reduce cancer-related
+symptoms and improve mental health through effective psychologi-
+cal interventions, but there is no clear knowledge about the effect
+of psycho-oncological interventions in HCC patients (3). One study
+included only a small number of HCC patients in the follow-up
+assessment (6) The other study only reported clinically significant
+trends in the intervention group (IG) of the study (7). Therefore, the
+psycho-intervention effect on mental health of HCC patients is not
+clearly clinically objectifiable.
+Mindfulness is defined as the ability to observe thoughts, bodily
+feelings or present feelings with an open and accepting attitude.
+Mindfulness-based interventions (MBIs) teach participants to rec-
+ognize habitual response patterns and focus more on their daily
+lives (8,9). Several researchers have demonstrated the effectiveness of
+MBIs in reducing psychological distress and improving the quality of
+life of cancer patients (10,11). Most reviews demonstrated that mind-
+fulness interventions can effectively reduce the psychological dis-
+tress of cancer patients, including anxiety and depression symptoms
+(12–14).
+Although MBIs have potential benefits for relieving psychological
+distress, cancer patients often cannot participate in psychotherapy
+such as MBIs, as traditional MBIs require patients to participate in
+classroom learning for several weeks (15,16). Physical fatigue and
+discomfort caused by the side effects of anticancer treatments, the
+stigma of cancer, limitations in transportation and the limited number
+of professional psychotherapists makes cancer patient access to MBIs
+difficult (17). MBIs delivered online have advantages as time-saving
+and labour-saving interventions with privacy for patients. Therefore,
+online MBIs are more popular with cancer patients compared with
+face-to-face interventions (18). Some studies have also confirmed
+the effectiveness of online MBIs. A meta-analysis by Spijkerman
+et al. summarized 15 randomized clinical trials (RCTs) and found
+that online MBIs have a positive impact on mental health out-
+comes (19). However, some of these trials included non-clinical
+participants, such as students or employees. A controlled trial of
+64 cancer patients showed that online MBIs can effectively reduce
+stress (20). Another uncontrolled trial of 167 cancer patients showed
+that online MBIs significantly reduced fatigue and psychological
+problems (21).
+Guided self-help (GSH) is a form of self-managed and standard-
+ized psychotherapy using books, manuals or media materials (such
+as the Internet, audio or video) with which participants can conduct
+psychotherapy independently at home. GSH can help participants
+complete interventions through supportive or promotional methods,
+which is different from other self-help methods (22,23). Some RCTs
+have demonstrated the beneficial effects of GSH-based cognitive
+behavioural therapy for psychological distress (24).
+Several studies had investigated the efficacy of MBIs using self-
+help approaches (25). A meta-analysis by Cavanagh et al. including
+15 studies demonstrated that guided self-help mindfulness-based
+interventions (GSH-MBIs) can benefit both healthy participants and
+participants with physical and psychological distress. However, in
+Cavanagh’s review, only four studies evaluated the effect of GSH-
+MBIs, and no studies included cancer patients. Thus, the impact
+of GSH-MBIs on cancer patients is still unclear (26). Fish et al.
+conducted a systematic review of 10 studies on MBI support to
+participants through technical platforms. However, a definitive con-
+clusion on the effectiveness of online MBIs cannot be drawn due
+to methodological differences in these studies (27). Toivonen et al.
+summarized 16 studies in a systematic review and showed that online
+MBIs are a practical choice for individuals with physical problems
+(28). Shao et al. found that GSH-MBIs for patients with breast
+cancer showed reductions in depression and sleep distress symptoms
+compared with a wait-list control group (25).
+To summarize, GSH-MBIs may have potential therapeutic effects
+for cancer patients. The psycho-intervention effect on mental health
+of HCC patients is not clearly. Further randomized controlled studies
+of long-term intervention are needed to further investigate the effects
+of psycho-oncological intervention on HCC patients (3). To date, no
+study has evaluated the effects of GSH-MBIs on HCC patients. In
+addition, the mechanism of GSH-MBIs is still poorly understood.
+Psychological flexibility refers to the ability to fully accept present
+thoughts, feelings and experiences with no evading, persisting or
+change behaviour to align with goals and values (29). The therapeutic
+activity of mindfulness is thought to occur through awareness and
+attention. Meditation training increases the ability for self-regulation
+of emotions and thoughts and improving psychological flexibility
+(30). Previous research has shown that MBIs can improve psycholog-
+ical flexibility and reduce perceived stress (31). However, the effect
+of GSH-MBIs on psychological flexibility and perceived stress and
+their role in reducing psychological distress are not yet clear.
+In this study, we evaluated the impact of GSH-MBIs on the
+psychological symptoms of HCC patients. The primary objective
+was to investigate the effectiveness of 6-week GSH-MBIs on
+HCC patients immediately after the intervention and at follow-
+up timepoints. The first aim was to test the effectiveness of GSH-
+MBIs on primary outcome of psychological distress and secondary
+outcomes of quality of life and sleep quality. To better understand the
+mechanism of GSH-MBI interventions, the secondary objective was
+to investigate the mediator of psychological flexibility and perceived
+stress on these outcomes.
+Methods
+Trial design
+From November 2019 to May 2021, the RCT was conducted at the
+First Hospital of Jilin University, China. Potential participants were
+identified through patient medical records. Patients were evaluated
+and screened; patients were invited to the study if they met the
+inclusion criteria. After providing informed consent, the subjects
+completed the baseline questionnaire (at T0) and then were randomly
+assigned to the IG or the waiting control group. Participants com-
+pleted a questionnaire after 6 weeks of intervention (T1) and at the
+follow-ups at 1 month (T2) and 3 months (T3).
+Randomization
+After completing informed consent, screening, and baseline assess-
+ments, eligible participants were then randomized by an independent
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="3"><paragraph>Jpn J Clin Oncol, 2022, Vol. 52, No. 3
+229
+research assistant who was not affiliated with the trial. Random-
+ization was determined using Research Randomizer (version 4.0)
+(32), which generated a list of random numbers representing the
+participants and allocated them to the IG or the waiting control
+group. The outcome assessors were masked to the participant’s group
+allocation.
+Participants
+The inclusion criteria were as follows: (i) age ≥ 18 years; (ii) diagnosis
+of HCC as an inpatient; (iii) no history of other malignancies; (iv)
+able to operate a smartphone and frequent WeChat (a widely used
+instant-messaging application in China) usage (&gt;5 times per week);
+and (v) able to read, write and speak Chinese. The exclusion criteria
+were as follows: (i) a concurrent diagnosis of other tumour types or
+psychiatric distress; (ii) treatment with any psychotropic medications,
+such as antidepressants, antipsychotics, mood stabilizers, narcotics
+and benzodiazepines, any prescription for insomnia or any other
+antidepressive therapies during the study period; and (iii) previously
+received mindfulness intervention. The diagnosis of HCC was based
+on the European Association for the Study of the Liver (EASL)
+criteria and included histopathologic confirmation (33), positive
+lesion detection by at least two different imaging techniques, or
+positive lesion detection by one imaging technique combined with
+α-fetoprotein (AFP) &gt; 400 ng/ml. The imaging techniques included
+transabdominal ultrasonography, angiography, computed tomogra-
+phy and magnetic resonance imaging.
+Sample size
+A sample size of 61 was selected to gain enough statistical power for
+subsequent analyses. This was based on previous post-intervention
+Hospital Anxiety and Depression Scale (HADS) scores of patients
+with cancer who received online mindfulness intervention (mean,
+11.87; standard deviation [SD], 6.16) compared with those who had
+not received it (mean, 16.37; SD, 6.50). With 80% power and 5%
+type I error, we estimated that at least 44 participants were required
+in each group. To achieve these numbers, and allowing for a 27%
+dropout, we calculated that 61 participants were needed for each
+group (34).
+Intervention
+GSH-MBIs of 6-week duration were applied in the IG. The interven-
+tions were based on Mindfulness-Based Stress Reduction designed
+by Kabat-Zinn et al. and Mindfulness-Based Cognitive Therapy
+designed by Segal et al. (35,36). and was adapted for patients
+with HCC, which were developed by the research team. The team
+consisted of four experienced clinical psychologists. Interventions
+instructed principles and attitudes of mindfulness, guided the partici-
+pants to focus on the present moment, and taught participants how to
+practice non-judgement during intense experiences, which may come
+from physical and psychological events or the external environment.
+Both guidance and home practice were used in the GSH-MBIs. The
+guidance included eight 20-minutes audio files. According to the
+physical condition of HCC patients, the guidance retained the core
+elements of mindfulness such as breath awareness, body scanning
+and awareness of pleasant and unpleasant events. At the same time,
+according to the main problems and demands of HCC patients, emo-
+tion (depression, anxiety) and symptom management (pain, insom-
+nia) were added into the guidance. Home practice included three key
+exercises: breathing sense, body inspection and awareness of pleasant
+and unpleasant moods. Participants were required to conduct home
+practices based on the provided audio and practice 20 min each day
+and 5 days weekly for six consecutive weeks.
+Before the start of the intervention, the psychologist scheduled
+a pre-intervention personal interview with each participant to intro-
+duce this intervention, explain training recommendations and answer
+any questions. Patients were asked to attempt this intervention before
+discharge and provide feedback to the instructor so that they could
+practice correctly. Each participant was provided with a manual
+containing instruction and guidance of this intervention and was
+asked to read it carefully to gain a better understanding of our
+intervention.
+Participants were supervised and reminded to practice by the ther-
+apists everyday by WeChat, including personal guidance, answering
+questions and family practice feedback. After intervention, the partic-
+ipants completed one question: ‘How many days have you listened
+to the audio and mindfulness practice during the intervention?’ If
+participants had completed 20 days during the intervention period,
+they were considered adherent.
+Waiting list group
+Patients in the control group were given routine care, including
+health education and routine nursing guidance. After the study, these
+participants were introduced to the program and were provided with
+the audio and materials of the intervention.
+Outcome measures
+Demographics. Demographic and clinical characteristics, including
+basic demographic sociological information (age, gender, residence
+location, education level, occupation, spouse or absence, family
+economic condition) and clinical diseases (hepatic function classifi-
+cation) were collected.
+Psychological distress. The HADS was used to measure psychological
+distress. The HADS was developed by Zigmond et al. (37) and is
+mainly used to assess the anxiety and depression of general patients.
+The HADS has been extensively validated in clinical practice (38)
+and is also suitable for cancer patients (39). The scale has 14 items,
+including the anxiety subscale (7 items) and the depression subscale
+(7 items). Each item is scored from 0 to 3 points, and the total score
+ranges from 0 to 42 points. A higher score indicates a higher anxiety
+and depression level. For the HADS scale, the test–retest reliability is
+0.945, Cronbach’s α is 0.879, and the criterion validity and construct
+validity are also good (P &lt; 0.001) (40).
+Sleep quality. Sleep quality was assessed by the Pittsburgh Sleep
+Quality Index (PSQI), which was compiled by Buysse et al. (41) and
+is currently the most widely used method for assessing sleep quality
+worldwide. The PSQI is used to assess the subjective sleep quality of
+an individual in the past month. It contains 19 items and is divided
+into seven dimensions: subjective sleep quality, time to fall asleep,
+sleep time, sleep efficiency, sleep disturbance, sleep medication use
+and daytime function. A higher score indicates a worse sleep quality.
+A total score &gt;5 indicates poor sleep quality. For this scale, the test–
+retest reliability is 0.994, Cronbach’s α is 0.845, and the discriminant
+validity and construct validity are also good (P &lt; 0.001) (42).
+Quality of life. Functional Assessment of Cancer Therapy-Hepatobil-
+iary Carcinoma (FACT-Hep) was used to measure quality of life.
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="4"><paragraph>230
+Mindfulness intervention for cancer patients
+The FACT-Hep is a targeted measurement of the quality of life of
+patients with hepatobiliary carcinoma and is the most internationally
+recognized, comprehensive and commonly used assessment tool for
+the quality of life of patients with hepatobiliary cancer. It consists
+of 46 items and five dimensions. A higher score indicates a better
+quality of life of the patient. For this scale, the test–retest reliability
+is 0.330–0.953, Cronbach’s α is 0.916, and the content validity and
+construct validity are also good (P &lt; 0.001) (43).
+Perceived stress. The Perceived Stress Scale (PSS) was used to assess
+the level of perceived stress. The scale, developed by Cohen et al. (44),
+includes 14 items to access the subjective stress of the individual;
+each item uses a 5-level scoring method (0–4 points). The total score
+is determined as the sum of the scores of each item. A higher score
+indicates a greater perceived stress. For the PSS scale, the test–retest
+reliability is 0.89, Cronbach’s α is 0.78, and the discriminant validity
+and construct validity are also good (P &lt; 0.001) (45).
+Psychological flexibility. Psychological flexibility in this study was
+measured by the Acceptance and Action Questionnaire-second Edi-
+tion (AAQ-II), with a total of seven items, that examined empirical
+avoidance, a negative emotion regulation strategy. A higher score
+indicated a higher empirical avoidance and lower psychological
+flexibility. For the AAQ-II scale, the test–retest reliability is 0.80,
+Cronbach’s α is 0.88, and the criterion validity and construct validity
+are also good (P &lt; 0.01) (46).
+Ethical considerations. The protocol and principles of this study were
+conducted under the guidelines of the Declaration of Helsinki. This
+study was approved by the Ethics Committee of the School of
+Nursing of Jilin University (ID#2019112001) and was registered
+in the Chinese Clinical Trial Registry (ChiCTR1900027976). All
+patients provided written informed consent prior to the study and
+were allowed to stop participating at any time.
+Statistical analysis
+The distribution of data was tested using the Shapiro–Wilk test,
+where continuous variables that conformed to the normal distri-
+bution were described with means and SD, and those that did not
+conform to the normal distribution were described with medians
+and quartiles. Frequency and percentage were used for categorical
+variables. Baseline characteristics of the intervention and control
+groups were compared using independent t-tests, nonparametric tests
+or χ 2 test. To measure the outcomes over time, generalized estimated
+equation (GEE) models with an unstructured correlation matrix were
+fitted. The threshold for significance was set at α = 0.05. Intention-
+to-treat analysis method was used to analyse the data so that all
+randomly assigned subjects remained in the assigned corresponding
+group; the data of the missing part were analysed by the last observa-
+tion value carry forward method. Statistical analysis was conducted
+using SPSS, version 22.0 for Windows (IBM Corporation).
+Results
+Baseline characteristics of participants
+Among the 332 patients that were initially recruited, 122 patients
+met the eligibility criteria and agreed to participate in the study.
+Among the 122 patients, 61 patients were randomized into the IG
+and 61 were randomized into the control group (CG) At the end of
+the intervention, 15 were lost in the IG and 13 were lost in the CG,
+leaving 93 participants that completed the assessment. There was no
+statistically significant difference in the lost participants between the
+two groups (P &gt; 0.05), as shown in Figure 1.
+The age range of the participants in the overall group was 36–
+70 years old (average ± SD, 55.69 ± 8.30 years). The demographic
+and clinical data of the IG were not statistically different from those
+of the CG (P &gt; 0.05), as shown in Table 1.
+The effect of the intervention on outcomes
+The home practice time in the IG ranged from 10 to 32 days
+(22.35 ± 4.11 days). Participants that practiced for 21 days were
+defined as showing persistence. The compliance rate of this study
+was 74.2%. Comparisons of outcomes between the intervention and
+CGs are presented in Table 2. Figure 2 shows a visual representation
+of the changing trend. Regarding the results from the GEE analysis
+results, the interaction effects of group-by-time were significant on
+psychological distress and sleep quality (P &lt; 0.001). Regarding
+the results of intragroup comparisons, we could see that in the
+IG, the scores of HADS and PSQI were significantly lower at T1
+(HADS: P &lt; 0.001; PSQI: P &lt; 0.001), T2 (HADS: P &lt; 0.001; PSQI:
+P &lt; 0.001) as well as T3 (HADS: P &lt; 0.001; PSQI: P = 0.007)
+compared with those at the baseline; the FACT-Hep scores were
+markedly higher compared with baseline at T1 (P = 0.015) and T2
+(P = 0.044); whereas in the CG, the scores at T1,T2 andT3 were not
+significantly different from those at the baseline for all the outcomes
+(P &gt; 0.051). Intergroup comparisons at T1, displayed a significantly
+lower HADS score in the IG (11.97 ± 2.88) compared with the CG
+(13.74 ± 4.73; P = 0.012), and PSQI score in IG (9.11 ± 2.85)
+compared with CG (10.52 ± 3.02; P = 0.007). However, FACT-Hep
+score (IG: 123.45 ± 12.91; CG: 121.29 ± 15.59; P = 0.402), was
+not significantly different between the two groups. At T2, the trend
+persisted with significantly lower HADS scores in IG compared with
+CG (IG: 12.03 ± 2.73; CG: 13.85 ± 4.50; P = 0.006), and PSQI
+scores in IG compared with CG (IG: 9.03 ± 2.83; CG: 10.54 ± 2.95;
+P = 0.004). Like T1, at T2, FACT-Hep scores (IG: 123.38 ± 13.06;
+CG: 120.62 ± 15.31; P = 0.281), were still remained insignificant
+between the two groups at T2. At T3, the trend persisted with
+significantly lower HADS scores in IG compared with CG (IG:
+11.95 ± 2.85; CG: 14.11 ± 4.26; P = 0.001), and PSQI scores in IG
+compared with CG (IG: 9.21 ± 2.67; CG: 10.56 ± 2.71; P = 0.005).
+Like T1 and T2, at T3, FACT-Hep scores (IG: 123.18 ± 12.25;
+CG: 120.18 ± 14.76; P = 0.218), were still remained insignificant
+between the two groups at T3.
+The effect of the intervention on mediators
+The GEE model was used to analyse the influence of the intervention
+on psychological flexibility and perceived stress. The differences of
+scores at different times were significant (P &lt; 0.05). The results
+showed that the intervention significantly improved psychological
+flexibility (β, −2.639; 95% CI, −4.110, −1.169) and reduced per-
+ceived stress (β, −2.066; 95% CI, −3.631, −0.500).
+Mediation analysis
+In this study the causal step model proposed by Baron and Kenny was
+followed to test the mediation effect (47). Firstly, we tested whether
+the effect of the intervention on the outcome variable (psychological
+distress and sleep quality) was significant. GEE analysis showed
+that the intervention reduced psychological distress as well as sleep
+problems; then we tested whether the effect of the intervention
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="5"><paragraph>Jpn J Clin Oncol, 2022, Vol. 52, No. 3
+231
+Figure 1. Flowchart showing recruitment and dropout of participants.
+on the mediating variable (psychological flexibility and perceived
+stress) was significant, GEE analysis showed that the intervention
+reduced empirical avoidance and perceived stress. Finally, the effect
+of intervention and mediating variables on outcome variables was
+considered in the model simultaneously, and we tested whether the
+effect of the mediating variable on outcome variables was significant.
+If it was significant, it indicated that the mediation effect is signif-
+icant. At the same time, we tested whether the intervention has a
+significant effect on the outcome variable after controlling for the
+mediating variables.
+We added time, group and their interaction, as well as mediator
+variables, to the model, and the results showed that the effect
+of psychological flexibility and perceived stress on psychological
+distress was significant. The effect of intervention on psychological
+distress was still significant after controlling for the mediating vari-
+ables, indicating a mediating role for psychological flexibility and
+perceived stress on psychological distress. The results also showed
+that the effect of perceived stress on sleep quality was signifi-
+cant. The effect of intervention on psychological distress was non-
+significant after controlling for the mediating variables, indicating a
+complete mediating role for perceived stress on psychological distress
+(Table 3).
+Discussion
+To our knowledge, this is the first randomized controlled trial of
+GSH-MBIs in HCC patients. Our results showed that GSH-MBIs sig-
+nificantly reduced the severity of psychological distress and improved
+sleep quality in HCC patients. The 1-month and 3-month follow-
+up data showed that the improvements in terms of depression and
+sleep quality in the IG was continued at 1 month and 3 months
+after treatment. An improvement of the quality of life after the
+intervention was observed, but without statistical significance, which
+might be related to the changes of the quality of life of cancer patients
+reported in the previous study (34). The mediation analysis revealed
+the possible psychological mechanism of GSH-MBIs. The results
+suggested that changes in psychological flexibility and perceived
+stress in HCC patients mediate the changes in psychological distress
+and sleep quality after the intervention.
+The post-intervention effect sizes for psychological distress found
+in our study are smaller than the effect in another previous study of
+online MBIs in cancer patients (34). When comparing the results,
+between study differences in participant selection procedures should
+be noted. Although relatively high-distress level cutoffs were applied
+in the previous study, HADS scores ≥11, the present study used a
+lower cutoff, which could have introduced floor effects. One solution
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="6"><paragraph>232
+Mindfulness intervention for cancer patients
+Table 1. Demographics and medical characteristics of participants at baseline, n = 122
+Variables
+No.(%)
+t-test or chi-square test
+P
+Intervention Group, n = 61
+Control Group, n = 61
+Age:
+Mean ± SD, years
+54.36 ± 8.46
+57.02 ± 8.00
+–1.78
+0.077
+Gender
+Male
+Female
+46(75.4)
+15(24.6)
+48(78.7)
+13(21.3)
+0.19
+0.67
+Relationship status
+Married
+53(86.9)
+55(90.2)
+0.323
+0.57
+Divorced/widowed
+8(13.1)
+6(9.8)
+Education
+Primary school or below
+Junior high school
+Senior high school
+College or higher
+12(19.7)
+28(45.9)
+16(26.2)
+5(8.2)
+11(18.0)
+28(45.9)
+14(23.0)
+8(13.1)
+0.87
+0.83
+Residence
+City
+Noncity
+32(52.5)
+29(47.5)
+36(59.0)
+25(41.0)
+0.53
+0.466
+Employment state
+Employed
+Unemployed
+29(47.5)
+32(52.5)
+33(54.1)
+28(45.9)
+0.525
+0.469
+Average monthly income
+≤4000yuan
+4001–8000yuan
+&gt;8000yuan
+29(47.5)
+24(39.3)
+8(13.1)
+22(36.1)
+30(49.2)
+9(14.8)
+1.69
+0.43
+Child-Pugh
+Class A
+Class B
+Class C
+47(77.0)
+13(21.3)
+1(1.6)
+40(65.6)
+19(31.1)
+2(3.3)
+2.04
+0.36
+for including the patients most likely to benefit could be a more
+comprehensive screening procedure or a higher cutoff when screening
+patients.
+Our research further verified the effects of GSH-MBIs on cancer
+patients (17,25,34). To our knowledge, it is the first study to evaluate
+the effects of GSH-MBIs on HCC patients. Approximately 50% of
+HCC patients suffered from depression (48), and this study provides
+a new method to reduce the depression of HCC patients. Compared
+with traditional group-based MBIs, GSH-MBIs are more suitable
+in developing countries with limited psychology resources. GSH-
+MBIs can provide HCC patients with audio and files for mind-
+fulness learning and practice through WeChat, and at the same
+time, professionals can keep in touch with patients through online
+platforms. Compared with face-to-face methods, GSH-MBIs greatly
+reduce medical expenses (49). HCC cancer patients generally suffer
+from physical symptoms such as fatigue and pain,HCC patients often
+suffer from physical symptoms such as fatigue and pain, as well as
+limited mobility (50), this method has increased the feasibility of
+obtaining mental health care and ensured the privacy of patients.
+The loss rate during follow-up in this study (34%) was higher
+than other RCTs of face-to-face mindfulness interventions (34,51).
+Among the study dropouts, 43% of the participants responded
+having no time to complete courses and practice because of work
+and housework, 24% did not give any reason, 14% did not continue
+because of physical discomfort and fatigue, 10% of the drop-out
+participants thought that the course content had no effects and 10%
+thought that the evaluation was tedious. Based on these reasons,
+we concluded that the obstacles to completing this study were
+mainly from other daily tasks, physical discomfort and the burden
+of assessment, rather than the course content or duration. These
+observations suggest that GSH-MBIs are suitable for patients with
+a higher willingness to participate, free time and relatively mild
+disease.
+We also investigated the mediating role of GSH-MBIs and showed
+that psychological flexibility and perceived stress influenced the
+symptoms of psychological distress and sleep quality. The findings
+demonstrated that psychological flexibility was an important media-
+tor of stress and emotion in cancer patients (31,52). There is empirical
+avoidance with low psychological flexibility, which is character-
+ized by trying to change or avoid unwanted thoughts and feelings.
+The usual response to negative thoughts and feelings is avoidance
+(53). Mindfulness practice improves participants’ concentration and
+awareness, self-regulation of pain, mental flexibility and reduced
+psychological pressure (54).
+Limitations
+This study has several limitations, First, the collected data are all
+self-reports, and the accuracy of reports could not be confirmed. In
+future studies, more advanced techniques will be used to record the
+practice time of participants. Second, these samples were recruited
+in a tertiary hospital, which limited the conclusions on the effects
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="7"><paragraph>Jpn J Clin Oncol, 2022, Vol. 52, No. 3
+233
+Table 2. Model effect estimation using generalized estimated equations based on the intention-to-treat sample, n = 122
+Out-
+come
+Inter-
+ven-
+tion
+Group
+Con-
+trol
+Group
+Intergroup comparisons
+Linear mixed-effects model (P-value)
+Change from baseline (95% CI)
+Effect Size
+95% CI
+Group
+Time
+Group×time
+Intervention Group
+Control Group
+HADS
+0.039∗
+0.009∗∗
+&lt;0.001∗∗∗
+T0
+13.89 ± 4.67
+13.64 ± 4.65
+0.05
+0.25(−1.39, 1.89)
+—
+—
+T1
+11.97 ± 2.88
+13.74 ± 4.73
+–0.45
+−1.77(−3.15, −0.39)∗
+−1.92(−2.82, −1.02)∗∗∗
+0.10(−0.44, 0.64)
+T2
+12.03 ± 2.73
+13.85 ± 4.50
+–0.49
+−1.82(−3.13, −0.51)∗∗
+−1.85(−2.82, −0.89)∗∗∗
+0.21(−0.28, 0.71)
+T3
+11.95 ± 2.85
+14.11 ± 4.26
+–0.60
+−2.16(−3.44, −0.89)∗∗
+−1.93(−2.82, −1.04)∗∗∗
+0.48(−0.05, 1.00)
+FACT-Hep
+0.393
+0.054
+0.214
+T0
+121.57 ± 16.16
+120.78 ± 15.53
+0.05
+0.79(−4.79, 6.37)
+—
+—
+T1
+123.45 ± 12.91
+121.29 ± 15.59
+0.15
+2.15(−2.88, 7.19)
+1.88(0.36, 3.39)∗
+0.51(−0.47, 1.49)
+T2
+123.38 ± 13.06
+120.62 ± 15.31
+0.19
+2.75(−2.25, 7.76)
+1.80(0.05, 3.56)∗
+−0.16(−1.09, 0.77)
+T3
+123.18 ± 12.25
+120.18 ± 14.76
+0.22
+3.00(−1.77, 7.78)
+1.61(−0.17, 3.39)
+0.0.60(−1.80, 0.60)
+PSQI
+0.019∗
+0.005∗∗
+&lt;0.001∗∗∗
+T0
+9.74 ± 3.31
+10.36 ± 3.29
+–0.19
+−0.63(−1.79, 0.53)
+—
+—
+T1
+9.11 ± 2.85
+10.52 ± 3.02
+–0.55
+−1.41(−2.44, −0.38)∗∗
+−0.62(−0.88, −0.36)∗∗∗
+0.16(0.00, 0.32)
+T2
+9.03 ± 2.83
+10.54 ± 2.95
+–0.60
+−1.51(−2.52, −0.49)∗∗
+−0.70(−0.97, −0.44)∗∗∗
+0.18(−0.06, 0.41)
+T3
+9.21 ± 2.67
+10.56 ± 2.71
+–0.57
+−1.34(−2.29, −0.40)∗∗
+−.52(−0.91, −0.14)∗∗
+0.19(−0.16, 0.55)
+Note: The scores of scales were presented as means ± standard deviations.
+∗P &lt; 0.05.
+∗∗P &lt; 0.01.
+∗∗∗P &lt; 0.001.
+Abbreviations: HADS, Hospital Anxiety and Depression Scale; FACT-Hep, Functional Assessment of Cancer Therapy-Hepatobiliary Carcinoma; PSQI, Pittsburgh Sleep Quality Index; T0, time 0 (baseline); T1, time 1
+(post-intervention); T2, time 2 (1-month follow-up); T3, time 3 (3-month follow-up).
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="8"><paragraph>234
+Mindfulness intervention for cancer patients
+Figure 2. The change trends of outcomes in intervention and control groups over time. Abbreviations: CG, Control Group; IG, Intervention Group; HADS, Hospital
+Anxiety and Depression Scale; FACT-Hep, Functional Assessment of Cancer Therapy-Hepatobiliary Carcinoma; PSQI, Pittsburgh Sleep Quality Index. T0, time 0
+(baseline); T1, time 1 (post-intervention); T2, time 2 (1-month follow-up); T3, time 3 (3-month follow-up). Error bars represent 95% conﬁdence intervals.
+Table 3. Model effect estimation using generalized estimated equations, n = 122
+Outcome
+waldχ2
+Degree of freedom
+P
+Difference of marginal means (95% CI)
+HADS
+Group
+0.01
+1
+0.918
+0.04(−0.71, 0.79)
+Time
+0.59
+1
+0.443
+0.20(−0.31, 0.71)
+Time×group
+10.05
+1
+0.002
+−1.66(−2.68, −0.63)
+Psychological flexibility
+13.53
+1
+&lt;0.001
+0.15(0.07, 0.23)
+Perceived stress
+64.01
+1
+&lt;0.001
+0.28(0.21, 0.35)
+PSQI
+Group
+2.30
+1
+.129
+0.67(−0.20, 1.54)
+Time
+0.09
+1
+0.763
+0.03(−0.17, 0.23)
+Time×group
+2.13
+1
+0.144
+−0.29 (−0.69, 0.10)
+Psychological flexibility
+3.09
+1
+0.079
+0.07(−0.01, 0.14)
+Perceived stress
+20.103
+1
+&lt;0.001
+0.15(0.09, 0.22)
+Abbreviations: HADS, Hospital Anxiety and Depression Scale; PSQI, Pittsburgh Sleep Quality Index.
+and mechanisms of the intervention. Third, this study did not col-
+lect information on the time that the participants were in contact
+with researchers and with social exposure. Future research should
+consider social support and other factors. Finally, a high drop-
+out rate was observed in this study, especially at the beginning
+of intervention, which could indicate insufficient recruitment and
+information procedures. It could be that this type of intervention
+does not fully meet the needs, expectations and skills of the target
+population. Participants completed baseline assessments prior to
+randomization, but additional in-depth assessment of motivation and
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="9"><paragraph>Jpn J Clin Oncol, 2022, Vol. 52, No. 3
+235
+internet literacy prior to intervention start could have been relevant.
+Intervention dropout could possibly be improved by the delivery
+mode of GSH-MBIs.
+Conclusion
+In summary, GSH-MBIs can significantly improve the psychological
+distress of HCC patients, which was mediated by psychological
+flexibility and perceived stress. Simultaneously, we also found that
+GSH-MBIs can improve the sleep quality of HCC patients. Using
+easy and innovative technology, participants can easily learn and
+practice, and professionals can provide support. The study verified
+the advantages of GSH-MBIs, such as high efficiency, low cost, low
+intensity, easy access and anonymity, and also proved its effects on
+HCC patients, and provided for larger scale experimental research
+on GSH-MBIs in the treatment of HCC patients.
+Acknowledgements
+We would like to thank all participants and researchers for their cooperation.
+No funding was received for this study.
+Conﬂicts of interest statement
+None declared.
+References
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray
+F. Global cancer statistics 2020: GLOBOCAN estimates of incidence and
+mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin
+2021;71:209–49.
+2. Llovet JM, Kelley RK, Villanueva A, et al. Hepatocellular carcinoma. Nat
+Rev Dis Primers 2021;7:6.
+3. Graf J, Stengel A. Psychological burden and psycho-oncological interven-
+tions for patients with hepatobiliary cancers-a systematic review. Front
+Psychol 2021;12:662777.
+4. Zhong GC, Liu Y, Chen N, et al. Reproductive factors, menopausal
+hormone therapies and primary liver cancer risk: a systematic review
+and dose-response meta-analysis of observational studies. Hum Reprod
+Update 2016;23:126–38.
+5. Wang Y, O’Connor M, Xu Y, Liu X. Symptom clusters in Chinese patients
+with primary liver cancer. Oncol Nurs Forum 2012;39:E468–79.
+6. Küchler T, Bestmann B, Rappat S, Henne-Bruns D, Wood-Dauphinee S.
+Impact of psychotherapeutic support for patients with gastrointestinal
+cancer undergoing surgery: 10-year survival results of a randomized trial.
+J Clin Oncol 2007;25:2702–8.
+7. Steel JL, Nadeau K, Olek M, Carr BI. Preliminary results of an individually
+tailored psychosocial intervention for patients with advanced hepatobil-
+iary carcinoma. J Psychosoc Oncol 2007;25:19–42.
+8. Deng G, Cassileth B. Complementary or alternative medicine in cancer
+care-myths and realities. Nat Rev Clin Oncol 2013;10:656–64.
+9. Elkins G, Fisher W, Johnson A. Mind-body therapies in integrative oncol-
+ogy. Curr Treat Options Oncol 2010;11:128–40.
+10. Zainal NZ, Booth S, Huppert FA. The efficacy of mindfulness-based stress
+reduction on mental health of breast cancer patients: a meta-analysis.
+Psychooncology 2013;22:1457–65.
+11. Rouleau CR, Garland SN, Carlson LE. The impact of mindfulness-based
+interventions on symptom burden, positive psychological outcomes, and
+biomarkers in cancer patients. Cancer Manag Res 2015;7:121–31.
+12. Cillessen L, Johannsen M, Speckens AEM, Zachariae R. Mindfulness-
+based interventions for psychological and physical health outcomes in
+cancer patients and survivors: a systematic review and meta-analysis of
+randomized controlled trials. Psychooncology 2019;28:2257–69.
+13. Xunlin NG, Lau Y, Klainin-Yobas P. The effectiveness of mindfulness-
+based interventions among cancer patients and survivors: a systematic
+review and meta-analysis. Support Care Cancer 2020;28:1563–78.
+14. Piet J, Würtzen H, Zachariae R. The effect of mindfulness-based therapy
+on symptoms of anxiety and depression in adult cancer patients and
+survivors: a systematic review and meta-analysis. J Consult Clin Psychol
+2012;80:1007–20.
+15. Wang JW, Shen Q, Ding N, et al. A qualitative exploration of the
+unmet psychosocial rehabilitation needs of cancer survivors in China.
+Psychooncology 2016;25:905–12.
+16. Jacobsen PB, Jim HS. Psychosocial interventions for anxiety and depres-
+sion in adult cancer patients: achievements and challenges. CA Cancer J
+Clin 2008;58:214–30.
+17. Zernicke KA, Campbell TS, Speca M, McCabe-Ruff K, Flowers S, Carlson
+LE. A randomized wait-list controlled trial of feasibility and efficacy of
+an online mindfulness-based cancer recovery program: the eTherapy for
+cancer applying mindfulness trial. Psychosom Med 2014;76:257–67.
+18. Brebach R, Sharpe L, Costa DS, Rhodes P, Butow P. Psychologi-
+cal intervention targeting distress for cancer patients: a meta-analytic
+study investigating uptake and adherence. Psychooncology 2016;25:
+882–90.
+19. Spijkerman MP, Pots WT, Bohlmeijer ET. Effectiveness of online
+mindfulness-based interventions in improving mental health: a review
+and meta-analysis of randomised controlled trials. Clin Psychol Rev
+2016;45:102–14.
+20. Zernicke KA, Campbell TS, Speca M, McCabe-Ruff K, Flowers S, Dirkse
+DA, Carlson LE. The eCALM trial-eTherapy for cancer appLying mindful-
+ness: online mindfulness-based cancer recovery program for underserved
+individuals living with cancer in Alberta: protocol development for a
+randomized wait-list controlled clinical trial. BMC Complement Altern
+Med 2013;13:34.
+21. Bruggeman-Everts FZ, Wolvers MDJ, van de Schoot R, Vollenbroek-
+Hutten MMR, van der Lee ML. Effectiveness of two web-based inter-
+ventions for chronic cancer-related fatigue compared to an active control
+condition: results of the "fitter na Kanker" randomized controlled trial. J
+Med Internet Res 2017;19:e336.
+22. Delgadillo J. Guided self-help in a brave new world. Br J Psychiatry
+2018;212:65–6.
+23. Cuijpers P, Donker T, van Straten A, Li J, Andersson G. Is guided self-
+help as effective as face-to-face psychotherapy for depression and anxiety
+distresss? A systematic review and meta-analysis of comparative outcome
+studies. Psychol Med 2010;40:1943–57.
+24. Coull G, Morris PG. The clinical effectiveness of CBT-based guided self-
+help interventions for anxiety and depressive distresss: a systematic review.
+Psychol Med 2011;41:2239–52.
+25. Shao D, Zhang H, Cui N, Sun J, Li J, Cao F. The efficacy and mechanisms
+of a guided self-help intervention based on mindfulness in patients with
+breast cancer: a randomized controlled trial. Cancer 2021;127:1377–86.
+26. Cavanagh K, Strauss C, Forder L, Jones F. Can mindfulness and accep-
+tance be learnt by self-help?: a systematic review and meta-analysis of
+mindfulness and acceptance-based self-help interventions. Clin Psychol
+Rev 2014;34:118–29.
+27. Fish J, Brimson J, Lynch S. Mindfulness interventions delivered by tech-
+nology without facilitator involvement: what research exists and what are
+the clinical outcomes? Mindfulness (N Y) 2016;7:1011–23.
+28. Toivonen KI, Zernicke K, Carlson LE. Web-based mindfulness interven-
+tions for people with physical health conditions: systematic review. J Med
+Internet Res 2017;19:e303.
+29. Hayes SC, Luoma JB, Bond FW, Masuda A, Lillis J. Acceptance and
+commitment therapy: model, processes and outcomes. Behav Res Ther
+2006;44:1–25.
+30. Bishop SR. What do we really know about mindfulness-based stress
+reduction? Psychosom Med 2002;64:71–83.
+31. Lengacher CA, Gruss LF, Kip KE, et al. Mindfulness-based stress reduction
+for breast cancer survivors (MBSR(BC)): evaluating mediators of psycho-
+logical and physical outcomes in a large randomized controlled trial. J
+Behav Med 2021;44:591–604.
+32. Urbaniak GC, Plous S. Research Randomizer, version 4.0 [software pro-
+gram]. andomizer.org, 2013. http://www.randomizer.org/ (6 March 2016,
+date last accessed).
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page><page number="10"><paragraph>236
+Mindfulness intervention for cancer patients
+33. Bruix J, Sherman M, Llovet JM, et al. Clinical management of hepatocellu-
+lar carcinoma. Conclusions of the Barcelona-2000 EASL conference. Euro-
+pean Association for the Study of the liver. J Hepatol 2001;35:421–30.
+34. Compen F, Bisseling E, Schellekens M, Donders R, Carlson L, van der Lee
+M, Speckens A. Face-to-face and internet-based mindfulness-based cogni-
+tive therapy compared with treatment as usual in reducing psychological
+distress in patients with cancer: a Multicenter randomized controlled trial.
+J Clin Oncol 2018;36:2413–21.
+35. Kabat-Zinn J, Massion AO, Kristeller J, et al. Effectiveness of a meditation-
+based stress reduction program in the treatment of anxiety distresss. Am
+J Psychiatry 1992;149:936–43.
+36. Teasdale JD, Segal ZV, Williams JM, Ridgeway VA, Soulsby JM, Lau
+MA. Prevention of relapse/recurrence in major depression by mindfulness-
+based cognitive therapy. J Consult Clin Psychol 2000;68:615–23.
+37. Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta
+Psychiatr Scand 1983;67:361–70.
+38. Edmondson D, Gamboa C, Cohen A, et al. Association of posttraumatic
+stress distress and depression with all-cause and cardiovascular disease
+mortality and hospitalization among Hurricane Katrina survivors with
+end-stage renal disease. Am J Public Health 2013;103:e130–7.
+39. Akechi T, Okuyama T, Sugawara Y, Shima Y, Furukawa TA, Uchitomi Y.
+Screening for depression in terminally ill cancer patients in Japan. J Pain
+Symptom Manage 2006;31:5–12.
+40. Zhenxiao S, Huaxue L, Linying J, et al. Reliability and validity of hospital
+anxiety and depression scale. Chin J Clin 2017;11:198–201.
+41. Buysse DJ, Reynolds CF 3rd, Monk TH, et al. The Pittsburgh sleep quality
+index: a new instrument for psychiatric practice and research. Psychiatry
+Res 1989;28:193–213.
+42. Taoying L, Yan L, Ping X, et al. Analysis on reliability and validity of the
+Pittsburgh sleep quality index. Chongqing Med 2014;43:260–3.
+43. Zhu Z, Lang Q, Chen Z, Li DT, Ling CQ. Evaluation of Chinese version of
+the functional assessment of cancer therapy-hepatobiliary questionnaire.
+J Chin Integr Med 2008;6:341–5.
+44. Cohen S, Kamarck T, Mermelstein R. A global measure of perceived stress.
+J Health Soc Behav 1983;24:385–96.
+45. Qinglong D, Ruoyu H, Jiwei W, et al. Validity and reliability of the
+perceived stress scale among cancer survivors. Chin Ment Health J
+2018;32:15–20.
+46. Jing C, Yang J, Zhuo-Hong Z. Reliability and validity of the Chinese
+version of the acceptance and action questionnaire-second edition (AAQ-
+II) in college students. Chin Ment Health J 2013;27:873–7.
+47. Baron RM, Kenny DA. The moderator-mediator variable distinction in
+social psychological research: conceptual, strategic, and statistical consid-
+erations. J Pers Soc Psychol 1986;51:1173–82.
+48. Jia Y, Zhang W, You S, Li M, Lei L, Chen L. A nomogram for predicting
+depression in patients with hepatocellular carcinoma: an observational
+cross-sectional study. Int J Psychiatry Clin Pract 2019;23:273–80.
+49. Russell L, Ugalde A, Milne D, Austin D, Livingston PM. Digital char-
+acteristics and dissemination indicators to optimize delivery of internet-
+supported mindfulness-based interventions for people with a chronic
+condition: systematic review. JMIR Ment Health 2018;5:e53.
+50. Patel N, Maher J, Lie X, et al. Understanding the patient experience in
+hepatocellular carcinoma: a qualitative patient interview study. Qual Life
+Res 2021. https://doi.org/10.1007/s11136-021-02903-4.
+51. Zernicke KA, Campbell TS, Blustein PK, Fung TS, Johnson JA, Bacon
+SL, Carlson LE. Mindfulness-based stress reduction for the treatment of
+irritable bowel syndrome symptoms: a randomized wait-list controlled
+trial. Int J Behav Med 2013;20:385–96.
+52. Labelle LE, Campbell TS, Faris P, Carlson LE. Mediators of mindfulness-
+based stress reduction (MBSR): assessing the timing and sequence of
+change in cancer patients. J Clin Psychol 2015;71:21–40.
+53. Hayes SC, Wilson KG, Gifford EV, Follette VM, Strosahl K. Experiential
+avoidance and behavioral disorders: a functional dimensional approach
+to diagnosis and treatment. J Consult Clin Psychol 1996;64:1152–68.
+54. Lindsay EK, Creswell JD. Mechanisms of mindfulness training: monitor
+and acceptance theory (MAT). Clin Psychol Rev 2017;51:48–59.
+Downloaded from https://academic.oup.com/jjco/article/52/3/227/6516222 by guest on 18 July 2024</paragraph></page></document>
